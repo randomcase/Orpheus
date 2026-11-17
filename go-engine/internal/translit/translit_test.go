@@ -14,6 +14,20 @@ func TestTransliteratePolytonicGreek(t *testing.T) {
 		wantInIPA string
 	}{
 		{
+			name:      "Delphi Archaic Orphas",
+			input:     "ΟΡΦΑΣ",
+			wantISO:   "ORPHAS",
+			wantByz:   "ORFAS",
+			wantInIPA: "orpʰas",
+		},
+		{
+			name:      "Olbia Bone Tablet",
+			input:     "Βίος θάνατος βίος · ἀλήθεια · Διόνυσος Ὀρφικοί",
+			wantISO:   "Bios thanatos bios ; alētheia ; Dionysos Orphikoi",
+			wantByz:   "Vios thanatos vios ; alithia ; Dhionisos Orfiki",
+			wantInIPA: "tʰanatos",
+		},
+		{
 			name:      "Ibycus Orpheus",
 			input:     "ὀνομάκλυτον Ὀρφήν",
 			wantISO:   "onomaklyton Orphēn",

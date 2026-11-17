@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-11-17T20:56:58Z",
+  "generated_at": "2026-11-17T21:41:08Z",
   "corpus": {
     "analytics": {
-      "timeline_count": 21,
-      "transliteration_count": 10,
-      "liturgical_count": 8,
+      "timeline_count": 37,
+      "transliteration_count": 14,
+      "liturgical_count": 10,
       "anthropology_count": 8,
       "revival_count": 10,
-      "span_years": 2586,
-      "earliest_year": -560,
+      "span_years": 2591,
+      "earliest_year": -565,
       "latest_year": 2026,
       "era_counts": {
-        "Archaic_Greece": 1,
-        "Augustan_Rome": 2,
-        "Classical_Greece": 3,
-        "Contemporary_To_2026": 2,
-        "Early_Christian_Patristic": 2,
-        "Enlightenment_Modern": 3,
-        "Hellenistic_Orphic": 3,
+        "Archaic_Greece": 6,
+        "Augustan_Rome": 3,
+        "Classical_Greece": 4,
+        "Contemporary_To_2026": 4,
+        "Early_Christian_Patristic": 4,
+        "Enlightenment_Modern": 5,
+        "Hellenistic_Orphic": 4,
         "Medieval_Catholic": 3,
-        "Renaissance_Baroque": 2
+        "Renaissance_Baroque": 4
       },
       "tradition_counts": {
         "Early_Christian_Catacomb": 1,
-        "Latin_Scholastic_Catholic": 1,
+        "Latin_Scholastic_Catholic": 2,
         "Medieval_Vernacular_Catholic": 2,
-        "Orphic_Mystery": 2,
+        "Orphic_Mystery": 3,
         "Patristic_Greek": 2
       }
     },
@@ -33,12 +33,16 @@
   },
   "go_engine": {
     "available": true,
-    "statements_pct": 65.6
+    "statements_pct": 67.3,
+    "benchmarks": {
+      "greek_ns_per_op": 11483.0,
+      "latin_ns_per_op": 3614.0
+    }
   },
   "spring_boot": {
-    "junit_total": 1,
+    "junit_total": 8,
     "junit_failed": 0,
     "junit_skipped": 0,
-    "jacoco_line_pct": 64.36
+    "jacoco_line_pct": 76.57
   }
 }

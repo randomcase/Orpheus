@@ -2,6 +2,15 @@
   {
     "id": "LC-01",
     "tradition": "Orphic_Mystery",
+    "period": "c. 500–475 BCE",
+    "artifact_or_text": "Olbia Bone Plaques (ΒΙΟΣ ΘΑΝΑΤΟΣ ΒΙΟΣ · ΑΛΗΘΕΙΑ · ΔΙΟΝΥΣΟΣ ΟΡΦΙΚΟΙ)",
+    "theological_mapping": "Life does not terminate in death; rather, death opens into a second true Life ('bios–thanatos–bios') through Dionysiac-Orphic truth.",
+    "ritual_or_liturgical_use": "Inscribed small rectangular bone plaques deposited inside the Black Sea sanctuary temenos at Olbia as initiate tokens or temple vows.",
+    "christological_comparison": "Establishes an early Greek mystery grammar of resurrection ('life out of death') four centuries before the New Testament."
+  },
+  {
+    "id": "LC-02",
+    "tradition": "Orphic_Mystery",
     "period": "5th–4th c. BCE",
     "artifact_or_text": "Orphic Gold Funeral Lamellae (Hipponion, Petelia, Thurii, Pelinna)",
     "theological_mapping": "The soul possesses divine celestial heritage ('child of Earth and starry Heaven') trapped in a cycle of grief until purified by Dionysiac-Orphic ritual.",
@@ -9,7 +18,7 @@
     "christological_comparison": "Prefigures Christian baptismal confession and viaticum—giving the dying believer sacred words to cross from death into true memory and peace."
   },
   {
-    "id": "LC-02",
+    "id": "LC-03",
     "tradition": "Orphic_Mystery",
     "period": "c. 340 BCE & 2nd–4th c. CE",
     "artifact_or_text": "Derveni Papyrus Libations & The 87 Orphic Hymns",
@@ -18,7 +27,7 @@
     "christological_comparison": "Resembles ancient Mediterranean liturgical incense usage and allegorical exegesis, though Orphic liturgy remains secretive and elitist rather than public kerygma."
   },
   {
-    "id": "LC-03",
+    "id": "LC-04",
     "tradition": "Early_Christian_Catacomb",
     "period": "3rd–4th c. CE",
     "artifact_or_text": "Christus-Orpheus Frescoes (Catacombs of Domitilla, Callixtus, & Pietro e Marcellino)",
@@ -27,7 +36,7 @@
     "christological_comparison": "Positive typological bridge: Jesus fulfills what Orpheus promised—actually conquering Sheol/Hades and leading all creation back to peace."
   },
   {
-    "id": "LC-04",
+    "id": "LC-05",
     "tradition": "Patristic_Greek",
     "period": "c. 195 CE",
     "artifact_or_text": "Clement of Alexandria, Protrepticus (Exhortation to the Greeks), Ch. 1",
@@ -36,7 +45,7 @@
     "christological_comparison": "Polemical superiority: Orpheus only enchanted trees and rocks temporarily; Christ turns 'stony hearts' into living children of Abraham."
   },
   {
-    "id": "LC-05",
+    "id": "LC-06",
     "tradition": "Patristic_Greek",
     "period": "c. 336 CE",
     "artifact_or_text": "Eusebius of Caesarea, In Praise of Constantine (Tricennial Oration 14.5)",
@@ -45,7 +54,7 @@
     "christological_comparison": "Moves from subterranean catacomb comfort to imperial theology: the Logos tunes all nations like strings of one cosmic instrument."
   },
   {
-    "id": "LC-06",
+    "id": "LC-07",
     "tradition": "Latin_Scholastic_Catholic",
     "period": "524 CE (Commented through 13th c.)",
     "artifact_or_text": "Boethius, Consolation of Philosophy III.m12 & Commentary Tradition",
@@ -54,7 +63,16 @@
     "christological_comparison": "Orpheus here represents the frail human intellect or pilgrim soul needing divine grace so it does not relapse at the threshold of heaven."
   },
   {
-    "id": "LC-07",
+    "id": "LC-08",
+    "tradition": "Latin_Scholastic_Catholic",
+    "period": "1462–1489 CE",
+    "artifact_or_text": "Marsilio Ficino, Prisca Theologia & Sung Orphic Hymns",
+    "theological_mapping": "Florentine Catholic priest-philosopher Marsilio Ficino placed Orpheus in an unbroken lineage of ancient Gentile sages (Zoroaster, Hermes, Orpheus, Plato) preparing the West for Christian revelation.",
+    "ritual_or_liturgical_use": "Private devotional-philosophical singing of the Orphic Hymns to a lira da braccio to attune the human soul to celestial grace.",
+    "christological_comparison": "Treats Orphic harmony as natural-theology preparation (praeparatio evangelica) harmonized with Catholic contemplative prayer."
+  },
+  {
+    "id": "LC-09",
     "tradition": "Medieval_Vernacular_Catholic",
     "period": "c. 1317–1340 CE",
     "artifact_or_text": "Ovide Moralisé (Book X) & Pierre Bersuire's Ovidius Moralizatus",
@@ -63,7 +81,7 @@
     "christological_comparison": "Direct Harrowing of Hell typology: where Orpheus fails at the threshold and loses Eurydice, Christ succeeds completely and raises Adam and Eve forever."
   },
   {
-    "id": "LC-08",
+    "id": "LC-10",
     "tradition": "Medieval_Vernacular_Catholic",
     "period": "c. 1330 CE",
     "artifact_or_text": "Sir Orfeo (Middle English Breton Lai, Auchinleck Manuscript)",

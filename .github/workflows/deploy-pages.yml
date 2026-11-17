@@ -27,13 +27,36 @@ jobs:
           go-version: "1.26.x"
           cache: false
 
+      - name: Set up Java 21 (Temurin)
+        uses: actions/setup-java@v4
+        with:
+          distribution: "temurin"
+          java-version: "21"
+          cache: "gradle"
+          cache-dependency-path: |
+            springboot-app/build.gradle
+            springboot-app/settings.gradle
+
       - name: Set up Python 3.12
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
+      - name: Run Go Engine Race Tests, Coverage & Benchmarks
+        working-directory: go-engine
+        run: |
+          go test -v -race -coverprofile=coverage.out ./...
+          go test -bench=. -benchmem -benchtime=200ms ./internal/translit | tee bench.txt
+          go run ./cmd/orpheus-engine --mode=validate --data-dir=../data
+
+      - name: Run Spring Boot JUnit & JaCoCo Coverage
+        working-directory: springboot-app
+        run: |
+          chmod +x gradlew
+          ./gradlew test jacocoTestReport --no-daemon
+
       - name: Compile corpus bundle and telemetry
-        run: python scripts/build_portal_and_report.py
+        run: python scripts/build_portal_and_report.py --ci-summary
 
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v3

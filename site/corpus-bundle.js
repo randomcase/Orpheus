@@ -99,7 +99,7 @@ window.ORPHEUS_BUNDLE = {
   "monographs": [
     {
       "filename": "01_discovery_and_archaic_origins.md",
-      "markdown": "# Discovery & Archaic Origins of Orpheus (c. 600–300 BCE)\n\n## 1. Before the Tragedy: What Earliest Sources Actually Say\n\nModern readers often assume the myth of Orpheus and Eurydice sprang fully formed from Homer or early Greece. Archaeology and fragmentary philology prove otherwise: **Orpheus enters recorded history first as a legendary Argonautic singer and mystery founder—nearly four centuries before any surviving Roman poem adds his fatal backward glance.**\n\n| Witness | Approximate Date | Discovery / Transmission | What It Establishes |\n| :--- | :--- | :--- | :--- |\n| **Delphi Sicyonian Treasury Metope** | c. 560 BCE | Excavated at Delphi (1894) | Oldest visual image: Orpheus aboard the *Argo* holding a kithara alongside the Dioscuri |\n| **Ibycus, Fragment 306 (PMG)** | c. 560 BCE | Quoted by late antique grammarian Priscian | Earliest literary witness: *onomaklyton Orphēn* (\"Orpheus famous in name\") |\n| **Euripides, *Alcestis* 357–362** | 438 BCE | Medieval Greek tragedy manuscripts | First explicit mention of Orpheus descending to Hades by song—implying **success**, not failure |\n| **Hipponion Gold Lamella** | c. 400 BCE | Excavated 1969 in Vibo Valentia, Calabria | Inscribed gold passport guiding an initiated soul past the forbidden white cypress to Memory |\n| **Plato, *Symposium* 179d** | c. 380 BCE | Classical manuscript tradition | Polemic claiming the gods showed Orpheus only a phantom because he refused to die for love |\n| **The Derveni Papyrus** | c. 340 BCE | Unearthed January 1962 near Thessaloniki | Europe's oldest surviving manuscript: priestly commentary decoding Orphic cosmogony |\n\n## 2. The 1962 Discovery of the Derveni Papyrus\n\nIn January 1962, road-workers at Derveni (northwest of Thessaloniki, Greece) uncovered a series of lavish 4th-century BCE Macedonian burials. On the burned funeral pyre atop **Tomb A**, archaeologists found a partially carbonized papyrus scroll preserved by the very fire meant to consume it.\n\n* **Physical Dating:** Written in crisp Ionic-Attic book-hand around **340–320 BCE**, the papyrus quotes an even older Orphic theogonic poem (likely 5th century BCE).\n* **Why It Changed Scholarship:** Prior to 1962, skeptics doubted whether genuine \"Orphic\" sacred books existed in Classical Greece or whether they were late Hellenistic inventions. The Derveni Papyrus proved that 5th–4th century BCE Greeks already treated Orphic hexameters as veiled sacred scripture (*hieroi logoi*) requiring allegorical priesthood commentary (*Columns I–VI* describe libations of milk and water and sacrificial cakes offered by initiates to appease restless souls).\n\n## 3. Orphic Gold Funeral Tablets (*Lamellae*)\n\nAcross southern Italy (Hipponion, Petelia, Thurii), Thessaly (Pelinna), and Crete, excavators have recovered wafer-thin beaten gold leaves buried directly on the chests, hands, or mouths of deceased initiates.\n\n1. **Topography of the Underworld:** The tablet warns the soul not to drink from the first spring beside the gleaming white cypress (Forgetfulness / *Lethe*).\n2. **The Ritual Password:** The initiate approaches the cool waters flowing from the Lake of **Memory (*Mnemosyne*)** and declares to the underworld guards: *\"I am a child of Earth and starry Heaven, yet my race is heavenly.\"*\n3. **Shift Toward Personal Salvation:** Unlike Homeric *Iliad* or *Odyssey*, where dead heroes remain powerless shades, Orphic mystery discovery reveals an early Mediterranean shift toward **individual moral purity, initiatory brotherhood, and blessed afterlife expectation**.\n"
+      "markdown": "# Discovery & Archaic Origins of Orpheus (c. 565–300 BCE)\n\n## 1. Before the Tragedy: What Earliest Archaic Sources Actually Say\n\nModern readers often assume the tragedy of Orpheus and Eurydice sprang fully formed from early Greece. Archaeology and fragmentary philology prove otherwise: **in the entire Archaic period (`c. 565–462 BCE`), Eurydice does not appear once.** Orpheus enters history first as an Argonautic singer, cosmic enchanter of birds and fish, and prophetic founder of written mystery rites (*teletai*).\n\n| Witness | Approximate Date | Discovery / Transmission | What It Establishes |\n| :--- | :--- | :--- | :--- |\n| **Delphi Sicyonian Metope (`ΟΡΦΑΣ`)** | c. 565–560 BCE | Excavated at Delphi (1894) | Oldest visual image & inscription: *Orphas* aboard the *Argo* holding a kithara beside the Dioscuri |\n| **Ibycus, Fragment 306 (PMG)** | c. 550–535 BCE | Quoted by grammarian Priscian | Earliest literary witness: *onomaklyton Orphēn* (\"Orpheus famous in name\") |\n| **Onomacritus at Athens** | c. 525–510 BCE | Attested in Herodotus 7.6 & Pausanias 8.37.5 | Peisistratid oracle-editor compiling written Orphic initiations (*teletai*) and the Titan-Dionysus myth |\n| **Simonides, Fragment 567 (PMG)** | c. 520–490 BCE | Quoted by Tzetzes (*Chiliades* 1.310) | First surviving poem of Orpheus enchanting nature: birds hovering overhead and fish leaping from the sea |\n| **The Olbia Bone Tablets** | c. 500–475 BCE | Excavated 1951 at Olbia (published 1978) | Three bone plaques inscribed *\"Life – Death – Life · Truth · Dionysus Orphics\"* |\n| **Pindar, *Pythian* 4.176–177** | 462 BCE | Continuous victory-ode manuscript tradition | Crowns Archaic lyric: calls Orpheus Apollo's harper and *\"father of songs\"* (*aoidān patēr*) |\n| **Euripides, *Alcestis* 357–362** | 438 BCE | Classical Athenian tragedy manuscripts | First explicit mention of Orpheus descending to Hades by song—implying **success**, not failure |\n| **Hipponion Gold Lamella** | c. 400 BCE | Excavated 1969 in Vibo Valentia, Calabria | Inscribed gold passport guiding an initiated soul past the forbidden cypress to Memory |\n| **The Derveni Papyrus** | c. 340 BCE | Unearthed January 1962 near Thessaloniki | Europe's oldest surviving manuscript: priestly commentary decoding Orphic cosmogony |\n\n## 2. The Archaic Witnesses: From *Argo* to the Olbia Bone Tablets\n\n* **Delphi (`ΟΡΦΑΣ`) & Ibycus (`c. 565–535 BCE`):** On the carved limestone metope of the Sicyonian Monopteros at Delphi, Orpheus stands between Castor and Pollux aboard the *Argo* with a kithara in hand, his name incised vertically in Archaic Doric script as `ΟΡΦΑΣ`. Within a generation, the lyric poet **Ibycus** calls him *onomaklyton Orphēn* (\"famous-in-name Orpheus\")—a phrase poets only use when their audience already knows an older heroic oral tradition.\n* **Onomacritus & Written *Teletai* (`c. 525–510 BCE`):** At Athens under the sons of Peisistratus, **Onomacritus** collected and composed written Orphic initiatory texts (*teletai*), shifting Orpheus from an Argonautic bard into the mythic author of sacred books.\n* **Simonides & Pindar (`c. 520–462 BCE`):** **Simonides** preserves our earliest picture of acoustic enchantment—countless birds hovering above Orpheus's head while fish leap vertically from the blue sea—and **Pindar** closes the Archaic era by naming him *\"lyre-player, father of songs\"* sent from Apollo.\n* **The 1951 Olbia Bone Tablets (`c. 500–475 BCE`):** Excavated at Olbia Pontica on the northern Black Sea (Ukraine) and published in 1978, three small bone plaques changed Archaic religious history. Scratched into Plaque A are the Greek words **`ΒΙΟΣ ΘΑΝΑΤΟΣ ΒΙΟΣ · ΑΛΗΘΕΙΑ · ΔΙΟΝΥΣΟΣ ΟΡΦΙΚΟΙ`** (*\"Life – Death – Life · Truth · Dionysus Orphics\"*). This proves that nearly 150 years before the Derveni Papyrus, an organized community calling itself **Orphics** already taught a mystical creed in which physical death is followed by a renewed true Life.\n\n## 3. The 1962 Discovery of the Derveni Papyrus & Gold *Lamellae*\n\nIn January 1962, road-workers at Derveni (northwest of Thessaloniki, Greece) uncovered lavish 4th-century BCE Macedonian burials. On the burned funeral pyre atop **Tomb A**, archaeologists found a partially carbonized papyrus scroll preserved by the very fire meant to consume it (`c. 340–320 BCE`), quoting a 5th-century BCE Orphic theogony alongside priestly libations of milk and water.\n\nPaired with the **Orphic Gold Funeral Tablets (*lamellae*)** recovered in Calabria (Hipponion, 1969) and Thessaly (Pelinna, 1985), these discoveries reveal an archaic-to-classical Greek salvation liturgy guiding the soul past Forgetfulness (*Lethe*) to the spring of **Memory (*Mnemosyne*)**: *\"I am a child of Earth and starry Heaven, yet my race is heavenly.\"*\n"
     },
     {
       "filename": "02_translations_and_transliteration_systems.md",
@@ -119,33 +119,33 @@ window.ORPHEUS_BUNDLE = {
     }
   ],
   "telemetry": {
-    "generated_at": "2026-11-17T20:56:58Z",
+    "generated_at": "2026-11-17T21:41:08Z",
     "corpus": {
       "analytics": {
-        "timeline_count": 21,
-        "transliteration_count": 10,
-        "liturgical_count": 8,
+        "timeline_count": 37,
+        "transliteration_count": 14,
+        "liturgical_count": 10,
         "anthropology_count": 8,
         "revival_count": 10,
-        "span_years": 2586,
-        "earliest_year": -560,
+        "span_years": 2591,
+        "earliest_year": -565,
         "latest_year": 2026,
         "era_counts": {
-          "Archaic_Greece": 1,
-          "Augustan_Rome": 2,
-          "Classical_Greece": 3,
-          "Contemporary_To_2026": 2,
-          "Early_Christian_Patristic": 2,
-          "Enlightenment_Modern": 3,
-          "Hellenistic_Orphic": 3,
+          "Archaic_Greece": 6,
+          "Augustan_Rome": 3,
+          "Classical_Greece": 4,
+          "Contemporary_To_2026": 4,
+          "Early_Christian_Patristic": 4,
+          "Enlightenment_Modern": 5,
+          "Hellenistic_Orphic": 4,
           "Medieval_Catholic": 3,
-          "Renaissance_Baroque": 2
+          "Renaissance_Baroque": 4
         },
         "tradition_counts": {
           "Early_Christian_Catacomb": 1,
-          "Latin_Scholastic_Catholic": 1,
+          "Latin_Scholastic_Catholic": 2,
           "Medieval_Vernacular_Catholic": 2,
-          "Orphic_Mystery": 2,
+          "Orphic_Mystery": 3,
           "Patristic_Greek": 2
         }
       },
@@ -153,31 +153,100 @@ window.ORPHEUS_BUNDLE = {
     },
     "go_engine": {
       "available": true,
-      "statements_pct": 65.6
+      "statements_pct": 67.3,
+      "benchmarks": {
+        "greek_ns_per_op": 11483.0,
+        "latin_ns_per_op": 3614.0
+      }
     },
     "spring_boot": {
-      "junit_total": 1,
+      "junit_total": 8,
       "junit_failed": 0,
       "junit_skipped": 0,
-      "jacoco_line_pct": 64.36
+      "jacoco_line_pct": 76.57
     }
   },
   "timeline": [
     {
       "id": "TL-01",
-      "year": -560,
-      "display_date": "c. 560 BCE",
+      "year": -565,
+      "display_date": "c. 565–560 BCE",
       "era": "Archaic_Greece",
-      "title": "Earliest Extant Literary & Sculptural Witnesses (Ibycus & Delphi Metope)",
-      "creator_or_source": "Ibycus of Rhegium (PMG 306) & Sicyonian Treasury at Delphi",
-      "language": "Doric / Archaic Greek",
-      "discovery_or_provenance": "Preserved via late antique quotation (Priscian) and 1894 French excavations of the Sicyonian Monopteros metope at Delphi.",
-      "key_shift": "Orpheus is first attested as an Argonautic singer ('onomaklyton Orphēn' — renowned-by-name Orpheus) before any surviving trace of the Eurydice myth.",
-      "liturgical_or_religious_role": "Heroic ship-chanter and initiator into early Greek mystery traditions.",
-      "societal_context": "Archaic polis colonization and Panhellenic sanctuary competition centered around Delphi."
+      "title": "Delphi Sicyonian Treasury Metope (ΟΡΦΑΣ)",
+      "creator_or_source": "Archaic Doric Sculptors of the Sicyonian Monopteros at Delphi",
+      "language": "Archaic Doric Greek Epigraphy",
+      "discovery_or_provenance": "Excavated in 1894 during French archaeological digs along the Sacred Way at Delphi.",
+      "key_shift": "Oldest surviving physical depiction and inscription of Orpheus ('ΟΡΦΑΣ' / Orphas): carved standing aboard the Argo holding a kithara beside the Dioscuri—decades before any written tragedy mentions Eurydice.",
+      "liturgical_or_religious_role": "Panhellenic heroic and sacred musician anchored inside Apollo's Delphic sanctuary.",
+      "societal_context": "Archaic Peloponnesian city-states (Sicyon under Kleisthenes) dedicating marble monuments at Delphi to advertise prestige."
     },
     {
       "id": "TL-02",
+      "year": -545,
+      "display_date": "c. 550–535 BCE",
+      "era": "Archaic_Greece",
+      "title": "Ibycus Fragment 306 — Earliest Literary Witness",
+      "creator_or_source": "Ibycus of Rhegium (PMG 306)",
+      "language": "Doric-Aeolic Choral Lyric",
+      "discovery_or_provenance": "Quoted verbatim by late antique grammarian Priscian (Institutiones Grammaticae 6.92) for its rare archaic declension.",
+      "key_shift": "Applies the compound epithet 'onomaklyton Orphēn' ('Orpheus famous-in-name'), proving an earlier lost oral epic tradition had already made him legendary across Magna Graecia.",
+      "liturgical_or_religious_role": "Choral lyric hero celebrated at court festivals without yet referencing underworld descent.",
+      "societal_context": "Western Greek colonies in southern Italy patronizing traveling court lyricists."
+    },
+    {
+      "id": "TL-03",
+      "year": -520,
+      "display_date": "c. 525–510 BCE",
+      "era": "Archaic_Greece",
+      "title": "Onomacritus & the Peisistratid Orphic Recension at Athens",
+      "creator_or_source": "Onomacritus of Athens (attested in Herodotus 7.6 & Pausanias 8.37.5)",
+      "language": "Attic-Ionic Greek",
+      "discovery_or_provenance": "Preserved via Herodotus's Histories and Pausanias's Periegesis describing how Onomacritus composed teletai (initiation rites) under the sons of Peisistratus.",
+      "key_shift": "Transforms Orpheus from a mythic Argonautic singer into the founding prophet of written mystery scriptures (teletai) and the myth of Zagreus-Dionysus torn by the Titans.",
+      "liturgical_or_religious_role": "Codified written mystery initiations (teletai) circulating at Athens alongside Homeric recensions.",
+      "societal_context": "Peisistratid tyranny building centralized Athenian civic festivals and literary archives."
+    },
+    {
+      "id": "TL-04",
+      "year": -505,
+      "display_date": "c. 520–490 BCE",
+      "era": "Archaic_Greece",
+      "title": "Simonides Fragment 567 — Orpheus Charming Birds and Sea-Fish",
+      "creator_or_source": "Simonides of Ceos (PMG 567)",
+      "language": "Choral Lyric Greek",
+      "discovery_or_provenance": "Quoted by Tzetzes (Chiliades 1.310) from Simonides' lost choral odes.",
+      "key_shift": "Earliest extant Greek poem detailing Orpheus's acoustic spell over living nature: countless birds hovering above his head and fish leaping straight upward out of the dark-blue sea at his fair song.",
+      "liturgical_or_religious_role": "Celebrates cosmic sympathy—nature responding harmoniously to sacred melodic order.",
+      "societal_context": "Late Archaic Aegean symposium and Panhellenic festival culture."
+    },
+    {
+      "id": "TL-05",
+      "year": -485,
+      "display_date": "c. 500–475 BCE",
+      "era": "Archaic_Greece",
+      "title": "The Olbia Bone Tablets (Life – Death – Life · Orphics)",
+      "creator_or_source": "Orphic-Dionysiac Community of Olbia Pontica (Black Sea)",
+      "language": "Ionic Greek Epigraphy",
+      "discovery_or_provenance": "Three inscribed animal-bone plaques unearthed in 1951 inside the central temenos of Olbia (modern Ukraine); published by A.S. Rusayeva in 1978.",
+      "key_shift": "Earliest direct archaeological proof of an organized 'Orphic' religious group ('ΔΙΟΝΥΣΟΣ ΟΡΦΙΚΟΙ') inscribing the triad 'ΒΙΟΣ ΘΑΝΑΤΟΣ ΒΙΟΣ · ΑΛΗΘΕΙΑ' (Life – Death – Life · Truth).",
+      "liturgical_or_religious_role": "Initiatory token or temple vow proving death is followed by renewed life under Dionysus.",
+      "societal_context": "Milesian Greek trading colony on the northern Black Sea fostering private mystery brotherhoods."
+    },
+    {
+      "id": "TL-06",
+      "year": -462,
+      "display_date": "462 BCE",
+      "era": "Archaic_Greece",
+      "title": "Pindar's Pythian 4 — 'Father of Songs' Sent by Apollo",
+      "creator_or_source": "Pindar of Thebes (Pythian Ode 4.176–177)",
+      "language": "Doric Choral Lyric",
+      "discovery_or_provenance": "Continuous classical manuscript tradition of Pindar's victory odes, written for Arcesilas IV of Cyrene in 462 BCE.",
+      "key_shift": "Crowns the Archaic canon: explicitly links Orpheus to Apollo as patron/father ('ex Apollōnos') and styles him 'phorminktas aoidān patēr' ('lyre-player, father of songs'), still without mentioning Eurydice.",
+      "liturgical_or_religious_role": "Links prophetic Apolline music directly to heroic Panhellenic genealogy.",
+      "societal_context": "Trans-Mediterranean aristocracy (Thebes to Cyrene) commissioning high lyric odes."
+    },
+    {
+      "id": "TL-07",
       "year": -458,
       "display_date": "458 BCE",
       "era": "Classical_Greece",
@@ -190,7 +259,7 @@ window.ORPHEUS_BUNDLE = {
       "societal_context": "Post-Persian War Athenian civic theater using myth to interrogate persuasion versus political violence."
     },
     {
-      "id": "TL-03",
+      "id": "TL-08",
       "year": -438,
       "display_date": "438 BCE",
       "era": "Classical_Greece",
@@ -203,20 +272,33 @@ window.ORPHEUS_BUNDLE = {
       "societal_context": "Periclean Athens debating rhetoric, medicine, and the limits of mortal grief."
     },
     {
-      "id": "TL-04",
+      "id": "TL-09",
+      "year": -414,
+      "display_date": "414 BCE",
+      "era": "Classical_Greece",
+      "title": "Aristophanes' Birds — Parody of the Orphic Cosmic Egg",
+      "creator_or_source": "Aristophanes (Birds 690–702)",
+      "language": "Attic Greek Comedy",
+      "discovery_or_provenance": "Preserved in medieval Venetian and Ravennas manuscripts of Aristophanes.",
+      "key_shift": "Demonstrates that Orphic cosmogonies (Night laying a wind-egg from which winged Eros hatches) were already famous enough on the Athenian public stage to parody.",
+      "liturgical_or_religious_role": "Satirizes esoteric mystery cosmologies circulating in Peloponnesian-War Athens.",
+      "societal_context": "Athenian Old Comedy mocking wartime religious speculation and sophistry."
+    },
+    {
+      "id": "TL-11",
       "year": -400,
       "display_date": "c. 400 BCE",
       "era": "Hellenistic_Orphic",
       "title": "Hipponion & Pelinna Orphic Gold Funeral Lamellae",
       "creator_or_source": "Magna Graecia & Thessalian Orphic-Bacchic Initiates",
-      "language": "Doric / Epic Hexagonal Greek",
+      "language": "Doric / Epic Hexameter Greek",
       "discovery_or_provenance": "Hipponion tablet excavated in 1969 (Vibo Valentia, Calabria) in a female initiate's grave; Pelinna ivy-leaf tablets excavated 1985.",
       "key_shift": "Inscribed gold passports guide the deceased soul past the forbidden cypress spring to Mnemosyne (Memory) and proclaim divine lineage.",
       "liturgical_or_religious_role": "Direct funerary liturgy placed on the corpse's chest or mouth as ritual password for beatific afterlife.",
       "societal_context": "Private mystery brotherhoods offering personal salvation outside civic polis religion."
     },
     {
-      "id": "TL-05",
+      "id": "TL-10",
       "year": -380,
       "display_date": "c. 380 BCE",
       "era": "Classical_Greece",
@@ -229,7 +311,7 @@ window.ORPHEUS_BUNDLE = {
       "societal_context": "Athenian philosophical schools contesting poets and mystery-mongers over who defines virtue."
     },
     {
-      "id": "TL-06",
+      "id": "TL-12",
       "year": -340,
       "display_date": "c. 340 BCE (Found 1962)",
       "era": "Hellenistic_Orphic",
@@ -242,12 +324,25 @@ window.ORPHEUS_BUNDLE = {
       "societal_context": "Macedonian elite funerary practice blending mystery initiation with Anaxagorean physics."
     },
     {
-      "id": "TL-07",
+      "id": "TL-13",
+      "year": -250,
+      "display_date": "c. 250 BCE",
+      "era": "Hellenistic_Orphic",
+      "title": "Apollonius of Rhodes' Argonautica — Philosopher-Musician vs. Sirens",
+      "creator_or_source": "Apollonius of Rhodes (Argonautica 1.496–511 & 4.903–909)",
+      "language": "Hellenistic Epic Greek",
+      "discovery_or_provenance": "Alexandrian Library manuscript tradition preserved via Laurentian MS 32.9.",
+      "key_shift": "Depicts Orpheus singing Empedoclean cosmic harmony to quell crew quarrels and drowning out the deadly Sirens on the homeward voyage.",
+      "liturgical_or_religious_role": "Frames Orpheus as cosmological sage whose song mirrors natural philosophy.",
+      "societal_context": "Ptolemaic Alexandria synthesizing Archaic myth with Hellenistic science."
+    },
+    {
+      "id": "TL-15",
       "year": -29,
       "display_date": "29 BCE",
       "era": "Augustan_Rome",
-      "title": "The Classicized Tragic Backward Glance",
-      "creator_or_source": "Virgil (Georgics IV.453–527)",
+      "title": "Virgil's Georgics IV — The Classicized Tragic Backward Glance",
+      "creator_or_source": "Publius Vergilius Maro (Georgics IV.453–527)",
       "language": "Classical Latin",
       "discovery_or_provenance": "Canonized Roman school text preserved continuously across Western monastic libraries.",
       "key_shift": "Embeds Orpheus's failure inside the Aristaeus epyllion: sudden madness (dementia) forces the backward glance, creating the canonical tragic ending.",
@@ -255,11 +350,24 @@ window.ORPHEUS_BUNDLE = {
       "societal_context": "Post-civil-war Augustan Rome rebuilding agricultural and religious order after decades of bloodshed."
     },
     {
-      "id": "TL-08",
+      "id": "TL-16",
+      "year": -15,
+      "display_date": "c. 19–15 BCE",
+      "era": "Augustan_Rome",
+      "title": "Horace's Ars Poetica — Orpheus as Lawgiver & Civilizer",
+      "creator_or_source": "Quintus Horatius Flaccus (Ars Poetica 391–393)",
+      "language": "Classical Latin",
+      "discovery_or_provenance": "Preserved in medieval Carolingian school manuscripts of Horace.",
+      "key_shift": "Interprets 'taming tigers and lions' allegorically: 'sacred interpreter of the gods' (sacer interpresque deorum), Orpheus deterred primitive humans from bloodshed and founded civic law through poetry.",
+      "liturgical_or_religious_role": "Presents the poet as moral priest and civic founder.",
+      "societal_context": "Augustan literary criticism defining poetry's public ethical mission."
+    },
+    {
+      "id": "TL-17",
       "year": 8,
       "display_date": "8 CE",
       "era": "Augustan_Rome",
-      "title": "Ovid's Elegiac Tragedy & Underworld Reunion",
+      "title": "Ovid's Metamorphoses — Elegiac Tragedy & Underworld Reunion",
       "creator_or_source": "Publius Ovidius Naso (Metamorphoses X.1–XI.66)",
       "language": "Classical Latin",
       "discovery_or_provenance": "One of the most widely copied medieval Latin poems in European cathedral and university libraries.",
@@ -268,11 +376,11 @@ window.ORPHEUS_BUNDLE = {
       "societal_context": "High Imperial Rome shifting focus from state duty to interior psychological emotion and poetic immortality."
     },
     {
-      "id": "TL-09",
+      "id": "TL-18",
       "year": 195,
       "display_date": "c. 195 CE",
       "era": "Early_Christian_Patristic",
-      "title": "Christ as the True New Song Surpassing Orpheus",
+      "title": "Clement of Alexandria — Christ as the True 'New Song'",
       "creator_or_source": "Clement of Alexandria (Protrepticus / Exhortation to the Greeks, Ch. 1)",
       "language": "Koine Greek",
       "discovery_or_provenance": "Preserved in the 10th-century Arethas Codex (Paris. gr. 451).",
@@ -281,7 +389,20 @@ window.ORPHEUS_BUNDLE = {
       "societal_context": "Alexandrian Christian scholars engaging educated Hellenistic audiences in Roman Egypt."
     },
     {
-      "id": "TL-10",
+      "id": "TL-19",
+      "year": 244,
+      "display_date": "c. 244 CE",
+      "era": "Early_Christian_Patristic",
+      "title": "Dura-Europos Synagogue — King David in Orpheus Iconography",
+      "creator_or_source": "Syrian Jewish Diaspora Artisans (Dura-Europos on the Euphrates)",
+      "language": "Visual Iconography / Aramaic-Greek Context",
+      "discovery_or_provenance": "Excavated in 1932–1935 at Dura-Europos (Syria) preserved beneath a 256 CE siege embankment.",
+      "key_shift": "Depicts King David enthroned with a lyre charming an eagle and lion in exact Orphic posture—demonstrating parallel Late Antique Jewish and Christian adoption of the Orpheus lyre motif.",
+      "liturgical_or_religious_role": "Torah-shrine wall imagery linking Davidic psalmody to cosmic harmony.",
+      "societal_context": "Multicultural Roman-Persian frontier town sharing sacred visual vocabulary."
+    },
+    {
+      "id": "TL-20",
       "year": 250,
       "display_date": "c. 220–340 CE",
       "era": "Early_Christian_Patristic",
@@ -294,7 +415,20 @@ window.ORPHEUS_BUNDLE = {
       "societal_context": "Pre-Constantinian and early post-Edict Roman Christians adapting familiar funerary symbols for resurrection theology."
     },
     {
-      "id": "TL-11",
+      "id": "TL-21",
+      "year": 336,
+      "display_date": "c. 336 CE",
+      "era": "Early_Christian_Patristic",
+      "title": "Eusebius of Caesarea — The Incarnate Logos Tuning Humanity's Lyre",
+      "creator_or_source": "Eusebius of Caesarea (Tricennial Oration / In Praise of Constantine 14.5)",
+      "language": "Koine Greek",
+      "discovery_or_provenance": "Preserved in Greek patristic collections alongside Eusebius's Church History.",
+      "key_shift": "Formalizes imperial Christian typology: as Orpheus calmed creatures with a lyre, the Logos took human nature as his instrument (organon) to harmonize earth and heaven.",
+      "liturgical_or_religious_role": "Christian panegyric and theological analogy of the Incarnation.",
+      "societal_context": "Post-Edict of Milan Roman Empire integrating classical rhetoric into Christian orthodoxy."
+    },
+    {
+      "id": "TL-14",
       "year": 350,
       "display_date": "c. 200–400 CE",
       "era": "Hellenistic_Orphic",
@@ -307,7 +441,7 @@ window.ORPHEUS_BUNDLE = {
       "societal_context": "Urban Roman Asia Minor mystery associations providing tight-knit sacred community."
     },
     {
-      "id": "TL-12",
+      "id": "TL-22",
       "year": 524,
       "display_date": "524 CE",
       "era": "Medieval_Catholic",
@@ -320,7 +454,7 @@ window.ORPHEUS_BUNDLE = {
       "societal_context": "Collapse of the Western Roman order driving Christian philosophers to synthesize classical myth with eternal beatitude."
     },
     {
-      "id": "TL-13",
+      "id": "TL-23",
       "year": 1320,
       "display_date": "c. 1317–1328 CE",
       "era": "Medieval_Catholic",
@@ -333,7 +467,7 @@ window.ORPHEUS_BUNDLE = {
       "societal_context": "High Gothic scholasticism harmonizing pagan antiquity into Catholic sacramental history."
     },
     {
-      "id": "TL-14",
+      "id": "TL-24",
       "year": 1330,
       "display_date": "c. 1330 CE",
       "era": "Medieval_Catholic",
@@ -346,7 +480,20 @@ window.ORPHEUS_BUNDLE = {
       "societal_context": "Late medieval England blending Arthurian/Breton folklore with Christian mercy."
     },
     {
-      "id": "TL-15",
+      "id": "TL-25",
+      "year": 1462,
+      "display_date": "1462–1489 CE",
+      "era": "Renaissance_Baroque",
+      "title": "Marsilio Ficino's Florentine Orphic Singing & Prisca Theologia",
+      "creator_or_source": "Marsilio Ficino (Medici Platonic Academy, Florence)",
+      "language": "Renaissance Neo-Latin",
+      "discovery_or_provenance": "Latin translations of the Orphic Hymns (1462) and De Vita Coelitus Comparanda (1489).",
+      "key_shift": "Ordained Catholic priest Ficino sang Orphic Hymns to a lira da braccio, viewing Orpheus alongside Moses and Plato as an ancient Gentile witness to divine harmony.",
+      "liturgical_or_religious_role": "Harmonized Catholic Platonism with therapeutic Renaissance musical cosmology.",
+      "societal_context": "Medici Florence recovering Greek manuscripts after the fall of Constantinople."
+    },
+    {
+      "id": "TL-26",
       "year": 1480,
       "display_date": "1480 CE",
       "era": "Renaissance_Baroque",
@@ -359,11 +506,24 @@ window.ORPHEUS_BUNDLE = {
       "societal_context": "Italian Renaissance humanism recovering Greek/Roman dramatic forms."
     },
     {
-      "id": "TL-16",
+      "id": "TL-27",
+      "year": 1600,
+      "display_date": "1600 CE",
+      "era": "Renaissance_Baroque",
+      "title": "Peri & Rinuccini's Euridice — Oldest Surviving Opera Score",
+      "creator_or_source": "Jacopo Peri, Giulio Caccini & Ottavio Rinuccini (Florence)",
+      "language": "Italian",
+      "discovery_or_provenance": "Performed at the Pitti Palace on 6 October 1600 for the wedding of Maria de' Medici and King Henry IV of France.",
+      "key_shift": "Alters the myth into a wedding lieto fine (no fatal look-back!), inventing continuous sung recitative (stile rappresentativo) specifically for Orpheus's plea to Hades.",
+      "liturgical_or_religious_role": "Dynastic court celebration harnessing Florentine Camerata theories of ancient Greek tragedy.",
+      "societal_context": "Late Renaissance Medici marriage diplomacy inaugurating operatic history."
+    },
+    {
+      "id": "TL-28",
       "year": 1607,
       "display_date": "1607 CE",
       "era": "Renaissance_Baroque",
-      "title": "Monteverdi's L'Orfeo — The Birth of Modern Opera",
+      "title": "Monteverdi's L'Orfeo — The Birth of Modern Grand Opera",
       "creator_or_source": "Claudio Monteverdi & Alessandro Striggio (Accademia degli Invaghiti, Mantua)",
       "language": "Italian",
       "discovery_or_provenance": "1607 libretto ended in Maenad dismemberment; 1609 printed Venetian score replaced the ending with Apollo lifting Orfeo into the heavens.",
@@ -372,7 +532,7 @@ window.ORPHEUS_BUNDLE = {
       "societal_context": "Counter-Reformation northern Italy inventing musical-dramatic media to unite court and church emotion."
     },
     {
-      "id": "TL-17",
+      "id": "TL-29",
       "year": 1762,
       "display_date": "1762 CE",
       "era": "Enlightenment_Modern",
@@ -385,7 +545,20 @@ window.ORPHEUS_BUNDLE = {
       "societal_context": "Habsburg Enlightenment court culture championing clarity, sentiment, and moral optimism."
     },
     {
-      "id": "TL-18",
+      "id": "TL-30",
+      "year": 1858,
+      "display_date": "1858 CE",
+      "era": "Enlightenment_Modern",
+      "title": "Offenbach's Orphée aux Enfers — Second Empire Satire",
+      "creator_or_source": "Jacques Offenbach, Hector Crémieux & Ludovic Halévy (Paris)",
+      "language": "French",
+      "discovery_or_provenance": "Premiered at Théâtre des Bouffes-Parisiens, 21 October 1858.",
+      "key_shift": "Turns solemn antiquity into roaring farce: Orpheus and Eurydice detest each other, Jupiter throws a lightning bolt to force the look-back, and Olympus dances the Infernal Galop (Can-Can).",
+      "liturgical_or_religious_role": "Deliberately parodies bourgeois moralizing and pompous classical reverence.",
+      "societal_context": "Napoleon III's Second Empire Paris mocking imperial conformity through comic operetta."
+    },
+    {
+      "id": "TL-31",
       "year": 1922,
       "display_date": "1922 CE",
       "era": "Enlightenment_Modern",
@@ -398,7 +571,20 @@ window.ORPHEUS_BUNDLE = {
       "societal_context": "Interwar Europe mourning World War I mass death and pandemic grief (1918–1922)."
     },
     {
-      "id": "TL-19",
+      "id": "TL-32",
+      "year": 1950,
+      "display_date": "1950 CE",
+      "era": "Enlightenment_Modern",
+      "title": "Jean Cocteau's Orphée — Mirrors, Radio & Post-War Surrealism",
+      "creator_or_source": "Jean Cocteau (Film, starring Jean Marais & Maria Casarès)",
+      "language": "French",
+      "discovery_or_provenance": "Grand Prix de la Critique at Venice (1950); centerpiece of Cocteau's Orphic Trilogy.",
+      "key_shift": "Replaces Hades with a bombed post-war French Zone where poets receive coded messages over car radios and step through liquid mercury mirrors.",
+      "liturgical_or_religious_role": "Surrealist meditation on poetic sacrifice where Death (the Princess) surrenders herself to rewind time.",
+      "societal_context": "Post-WWII France processing Resistance broadcasts, guilt, and artistic rebirth."
+    },
+    {
+      "id": "TL-33",
       "year": 1959,
       "display_date": "1959 CE",
       "era": "Enlightenment_Modern",
@@ -411,7 +597,33 @@ window.ORPHEUS_BUNDLE = {
       "societal_context": "Mid-century decolonization, Black cultural assertion, and the global rise of bossa nova."
     },
     {
-      "id": "TL-20",
+      "id": "TL-34",
+      "year": 1986,
+      "display_date": "1986–1993 CE",
+      "era": "Contemporary_To_2026",
+      "title": "Birtwistle's The Mask of Orpheus & Philip Glass's Orphée",
+      "creator_or_source": "Harrison Birtwistle (London, 1986) & Philip Glass (Cambridge/NYC, 1993)",
+      "language": "English / French",
+      "discovery_or_provenance": "English National Opera premiere (1986) and American Repertory Theater premiere (1993).",
+      "key_shift": "Birtwistle triples Orpheus (Man, Myth, Hero) through fractured electronic ritual time, while Glass converts Cocteau's surrealist screenplay into hypnotic minimalist opera.",
+      "liturgical_or_religious_role": "Late-20th-century avant-garde ritual splitting myth into fractured simultaneous perspectives.",
+      "societal_context": "Late Cold War & post-structuralist skepticism toward single linear narratives."
+    },
+    {
+      "id": "TL-35",
+      "year": 2003,
+      "display_date": "2003 CE",
+      "era": "Contemporary_To_2026",
+      "title": "Sarah Ruhl's Eurydice — The Underworld From Eurydice's Eyes",
+      "creator_or_source": "Sarah Ruhl (Madison Repertory / Yale Repertory / Off-Broadway)",
+      "language": "English",
+      "discovery_or_provenance": "Published and widely staged globally from 2003 onward as a modern American repertory staple.",
+      "key_shift": "Shifts focus away from Orpheus's music onto Eurydice reuniting with her deceased Father in an underworld of raining elevators—reclaiming memory and filial grief.",
+      "liturgical_or_religious_role": "Intimate ritual of letters, dipped-in-Lethe forgetting, and chosen remembrance.",
+      "societal_context": "Early 21st-century feminist and lyric theater challenging male-centered tragedy."
+    },
+    {
+      "id": "TL-36",
       "year": 2019,
       "display_date": "2019 CE",
       "era": "Contemporary_To_2026",
@@ -424,25 +636,45 @@ window.ORPHEUS_BUNDLE = {
       "societal_context": "Late-2010s climate anxiety, labor precarity, and feminist revision of the artistic gaze."
     },
     {
-      "id": "TL-21",
+      "id": "TL-37",
       "year": 2026,
       "display_date": "2022–2026 CE",
       "era": "Contemporary_To_2026",
       "title": "Streaming Mythologies, Global Revivals & Digital Philology (to 2026)",
-      "creator_or_source": "Netflix's The Sandman S2 (2025), International Hadestown Tours, & Digital Derveni Editions (2022–2026)",
+      "creator_or_source": "Netflix's The Sandman S2 (2025), International Hadestown Tours & Digital Derveni Editions (2022–2026)",
       "language": "Multilingual / Global Digital Media",
       "discovery_or_provenance": "Multi-spectral imaging of the Derveni Papyrus and global streaming/theatrical circulation reaching 2026 audiences.",
       "key_shift": "Blends antiquity priesthood motifs (Orpheus's living head guarded by island priests) with mass streaming folklore, while multispectral imaging continues refining the 4th c. BCE Derveni text.",
       "liturgical_or_religious_role": "Post-secular fascination with ancient mystery priesthoods, mortality, and ancestral memory.",
-      "societal_context": "2020s post-pandemic reckoning with loss, AI-era mediation, and renewed hunger for embodied live song."
+      "societal_context": "2020s post-pandemic reckoning with loss, AI-mediated memory, and renewed hunger for embodied live song."
     }
   ],
   "transliterations": [
     {
       "id": "TR-01",
+      "work": "Delphi Sicyonian Treasury Metope Inscription",
+      "locus": "Delphi Archaeological Museum, Metope of the Argo",
+      "date_label": "c. 565–560 BCE",
+      "script_type": "polytonic_greek",
+      "original_text": "ΟΡΦΑΣ",
+      "literal_gloss": "Orphas (Archaic Doric spelling of Orpheus)",
+      "english_translation": "Orpheus",
+      "philological_notes": "Oldest surviving Greek inscription naming Orpheus—spelled 'ΟΡΦΑΣ' in Doric script beside an Argonaut holding a kithara.",
+      "systems": {
+        "original_text": "ΟΡΦΑΣ",
+        "script_type": "polytonic_greek",
+        "iso_843": "ORPHAS",
+        "ala_lc": "ORPHAS",
+        "attic_ipa": "[orpʰas]",
+        "byzantine_liturgical": "ORFAS",
+        "word_count": 1
+      }
+    },
+    {
+      "id": "TR-02",
       "work": "Ibycus, Fragment 306 (PMG)",
       "locus": "Quoted by Priscian, Inst. Gramm. 6.92",
-      "date_label": "c. 560 BCE",
+      "date_label": "c. 550–535 BCE",
       "script_type": "polytonic_greek",
       "original_text": "ὀνομάκλυτον Ὀρφήν",
       "literal_gloss": "name-renowned Orpheus",
@@ -459,7 +691,67 @@ window.ORPHEUS_BUNDLE = {
       }
     },
     {
-      "id": "TR-02",
+      "id": "TR-03",
+      "work": "Simonides, Fragment 567 (PMG)",
+      "locus": "Quoted by Tzetzes, Chiliades 1.310",
+      "date_label": "c. 520–490 BCE",
+      "script_type": "polytonic_greek",
+      "original_text": "τοῦ καὶ ἀπειρέσιοι ποτῶντο ὄρνιθες ὑπὲρ κεφαλᾶς, ἀνὰ δ᾽ ἰχθύες ὀρθοὶ κυανέου ᾽ξ ὕδατος ἅλλοντο καλᾷ σὺν ἀοιδᾷ",
+      "literal_gloss": "of-him even countless flew birds above head, upward and fish straight from dark-blue water leaped fair with song",
+      "english_translation": "Above his head countless birds hovered in flight, and fish leaped straight up out of the dark-blue sea to his lovely song.",
+      "philological_notes": "First extant Greek verse depicting Orpheus's musical charm over birds and marine life; preserves Doric long-alpha endings ('kephalās', 'kalāi', 'aoidāi').",
+      "systems": {
+        "original_text": "τοῦ καὶ ἀπειρέσιοι ποτῶντο ὄρνιθες ὑπὲρ κεφαλᾶς, ἀνὰ δ᾽ ἰχθύες ὀρθοὶ κυανέου ᾽ξ ὕδατος ἅλλοντο καλᾷ σὺν ἀοιδᾷ",
+        "script_type": "polytonic_greek",
+        "iso_843": "tou kai apeiresioi potōnto ornithes hyper kephalas, ana d' ichthyes orthoi kyaneou 'x hydatos hallonto kalai syn aoidai",
+        "ala_lc": "tou kai apeiresioi potōnto ornithes hyper kephalas, ana d' ichthyes orthoi kyaneou 'x hydatos hallonto kalai syn aoidai",
+        "attic_ipa": "[tuː kai̯ apeːresioi̯ potɔːnto ornitʰes hyper kepʰalas, ana d' ikʰtʰyes ortʰoi̯ kyaneuː 'ks hydatos hallonto kalaːi̯ syn aoi̯daːi̯]",
+        "byzantine_liturgical": "tu ke apiresii potonto ornithes iper kefalas, ana dh' ichthies orthi kianeu 'x idhatos allonto kala sin aidha",
+        "word_count": 18
+      }
+    },
+    {
+      "id": "TR-04",
+      "work": "Olbia Orphic Bone Tablet A",
+      "locus": "Olbia Pontica (OF 463 Bernabé)",
+      "date_label": "c. 500–475 BCE",
+      "script_type": "polytonic_greek",
+      "original_text": "Βίος θάνατος βίος · ἀλήθεια · Διόνυσος Ὀρφικοί",
+      "literal_gloss": "Life death life · truth · Dionysus Orphics",
+      "english_translation": "Life – Death – Life · Truth · Dionysus – Orphics",
+      "philological_notes": "Discovered in 1951 on the Black Sea coast; oldest epigraphic evidence uniting Dionysus, 'Orphikoi' initiates, and a cyclical 'Life -> Death -> Life' creed.",
+      "systems": {
+        "original_text": "Βίος θάνατος βίος · ἀλήθεια · Διόνυσος Ὀρφικοί",
+        "script_type": "polytonic_greek",
+        "iso_843": "Bios thanatos bios ; alētheia ; Dionysos Orphikoi",
+        "ala_lc": "Bios thanatos bios ; alētheia ; Dionysos Orphikoi",
+        "attic_ipa": "[bios tʰanatos bios ; alɛːtʰeːa ; dionysos orpʰikoi̯]",
+        "byzantine_liturgical": "Vios thanatos vios ; alithia ; Dhionisos Orfiki",
+        "word_count": 8
+      }
+    },
+    {
+      "id": "TR-05",
+      "work": "Pindar, Pythian Ode 4",
+      "locus": "Lines 176–177",
+      "date_label": "462 BCE",
+      "script_type": "polytonic_greek",
+      "original_text": "ἐξ Ἀπόλλωνος δὲ φορμιγκτὰς ἀοιδᾶν πατὴρ ἔμολεν, εὐαίνητος Ὀρφεύς",
+      "literal_gloss": "from Apollo and lyre-player of-songs father came, widely-praised Orpheus",
+      "english_translation": "And sent from Apollo came the lyre-player, father of songs, widely praised Orpheus.",
+      "philological_notes": "Crowns the Archaic lyric record: calls Orpheus 'aoidān patēr' ('father of songs') without mentioning Eurydice.",
+      "systems": {
+        "original_text": "ἐξ Ἀπόλλωνος δὲ φορμιγκτὰς ἀοιδᾶν πατὴρ ἔμολεν, εὐαίνητος Ὀρφεύς",
+        "script_type": "polytonic_greek",
+        "iso_843": "ex Apollōnos de phorminktas aoidan patēr emolen, euainētos Orpheus",
+        "ala_lc": "ex Apollōnos de phorminktas aoidan patēr emolen, euainētos Orpheus",
+        "attic_ipa": "[eks apollɔːnos de pʰormiŋktas aoi̯dan patɛːr emolen, eu̯ai̯nɛːtos orpʰeu̯s]",
+        "byzantine_liturgical": "ex Apollonos dhe forminktas aidhan patir emolen, evenitos Orfefs",
+        "word_count": 9
+      }
+    },
+    {
+      "id": "TR-06",
       "work": "Euripides, Alcestis",
       "locus": "Lines 357–359",
       "date_label": "438 BCE",
@@ -479,7 +771,7 @@ window.ORPHEUS_BUNDLE = {
       }
     },
     {
-      "id": "TR-03",
+      "id": "TR-07",
       "work": "Hipponion Orphic Gold Tablet",
       "locus": "Lines 10–11 (OF 474 Bernabé)",
       "date_label": "c. 400 BCE",
@@ -499,7 +791,7 @@ window.ORPHEUS_BUNDLE = {
       }
     },
     {
-      "id": "TR-04",
+      "id": "TR-08",
       "work": "Derveni Papyrus",
       "locus": "Column XVII / Orphic Hymn to Zeus",
       "date_label": "c. 340 BCE",
@@ -519,7 +811,7 @@ window.ORPHEUS_BUNDLE = {
       }
     },
     {
-      "id": "TR-05",
+      "id": "TR-09",
       "work": "Orphic Hymn 1 (To Prothyraia / Prayer at Dawn)",
       "locus": "Proem / Liturgical Invocation",
       "date_label": "c. 2nd–3rd c. CE",
@@ -539,7 +831,7 @@ window.ORPHEUS_BUNDLE = {
       }
     },
     {
-      "id": "TR-06",
+      "id": "TR-10",
       "work": "Clement of Alexandria, Protrepticus",
       "locus": "1.3 (The New Song)",
       "date_label": "c. 195 CE",
@@ -559,7 +851,7 @@ window.ORPHEUS_BUNDLE = {
       }
     },
     {
-      "id": "TR-07",
+      "id": "TR-11",
       "work": "Virgil, Georgics IV",
       "locus": "Lines 485–491",
       "date_label": "29 BCE",
@@ -577,7 +869,7 @@ window.ORPHEUS_BUNDLE = {
       }
     },
     {
-      "id": "TR-08",
+      "id": "TR-12",
       "work": "Ovid, Metamorphoses X",
       "locus": "Lines 56–63",
       "date_label": "8 CE",
@@ -595,7 +887,7 @@ window.ORPHEUS_BUNDLE = {
       }
     },
     {
-      "id": "TR-09",
+      "id": "TR-13",
       "work": "Boethius, Consolation of Philosophy",
       "locus": "Book III, Metrum 12.49–58",
       "date_label": "524 CE",
@@ -613,7 +905,7 @@ window.ORPHEUS_BUNDLE = {
       }
     },
     {
-      "id": "TR-10",
+      "id": "TR-14",
       "work": "Ovidius Moralizatus / Scholastic Allegory Rubric",
       "locus": "Pierre Bersuire, Book X Gloss",
       "date_label": "c. 1340 CE",
@@ -635,6 +927,15 @@ window.ORPHEUS_BUNDLE = {
     {
       "id": "LC-01",
       "tradition": "Orphic_Mystery",
+      "period": "c. 500–475 BCE",
+      "artifact_or_text": "Olbia Bone Plaques (ΒΙΟΣ ΘΑΝΑΤΟΣ ΒΙΟΣ · ΑΛΗΘΕΙΑ · ΔΙΟΝΥΣΟΣ ΟΡΦΙΚΟΙ)",
+      "theological_mapping": "Life does not terminate in death; rather, death opens into a second true Life ('bios–thanatos–bios') through Dionysiac-Orphic truth.",
+      "ritual_or_liturgical_use": "Inscribed small rectangular bone plaques deposited inside the Black Sea sanctuary temenos at Olbia as initiate tokens or temple vows.",
+      "christological_comparison": "Establishes an early Greek mystery grammar of resurrection ('life out of death') four centuries before the New Testament."
+    },
+    {
+      "id": "LC-02",
+      "tradition": "Orphic_Mystery",
       "period": "5th–4th c. BCE",
       "artifact_or_text": "Orphic Gold Funeral Lamellae (Hipponion, Petelia, Thurii, Pelinna)",
       "theological_mapping": "The soul possesses divine celestial heritage ('child of Earth and starry Heaven') trapped in a cycle of grief until purified by Dionysiac-Orphic ritual.",
@@ -642,7 +943,7 @@ window.ORPHEUS_BUNDLE = {
       "christological_comparison": "Prefigures Christian baptismal confession and viaticum—giving the dying believer sacred words to cross from death into true memory and peace."
     },
     {
-      "id": "LC-02",
+      "id": "LC-03",
       "tradition": "Orphic_Mystery",
       "period": "c. 340 BCE & 2nd–4th c. CE",
       "artifact_or_text": "Derveni Papyrus Libations & The 87 Orphic Hymns",
@@ -651,7 +952,7 @@ window.ORPHEUS_BUNDLE = {
       "christological_comparison": "Resembles ancient Mediterranean liturgical incense usage and allegorical exegesis, though Orphic liturgy remains secretive and elitist rather than public kerygma."
     },
     {
-      "id": "LC-03",
+      "id": "LC-04",
       "tradition": "Early_Christian_Catacomb",
       "period": "3rd–4th c. CE",
       "artifact_or_text": "Christus-Orpheus Frescoes (Catacombs of Domitilla, Callixtus, & Pietro e Marcellino)",
@@ -660,7 +961,7 @@ window.ORPHEUS_BUNDLE = {
       "christological_comparison": "Positive typological bridge: Jesus fulfills what Orpheus promised—actually conquering Sheol/Hades and leading all creation back to peace."
     },
     {
-      "id": "LC-04",
+      "id": "LC-05",
       "tradition": "Patristic_Greek",
       "period": "c. 195 CE",
       "artifact_or_text": "Clement of Alexandria, Protrepticus (Exhortation to the Greeks), Ch. 1",
@@ -669,7 +970,7 @@ window.ORPHEUS_BUNDLE = {
       "christological_comparison": "Polemical superiority: Orpheus only enchanted trees and rocks temporarily; Christ turns 'stony hearts' into living children of Abraham."
     },
     {
-      "id": "LC-05",
+      "id": "LC-06",
       "tradition": "Patristic_Greek",
       "period": "c. 336 CE",
       "artifact_or_text": "Eusebius of Caesarea, In Praise of Constantine (Tricennial Oration 14.5)",
@@ -678,7 +979,7 @@ window.ORPHEUS_BUNDLE = {
       "christological_comparison": "Moves from subterranean catacomb comfort to imperial theology: the Logos tunes all nations like strings of one cosmic instrument."
     },
     {
-      "id": "LC-06",
+      "id": "LC-07",
       "tradition": "Latin_Scholastic_Catholic",
       "period": "524 CE (Commented through 13th c.)",
       "artifact_or_text": "Boethius, Consolation of Philosophy III.m12 & Commentary Tradition",
@@ -687,7 +988,16 @@ window.ORPHEUS_BUNDLE = {
       "christological_comparison": "Orpheus here represents the frail human intellect or pilgrim soul needing divine grace so it does not relapse at the threshold of heaven."
     },
     {
-      "id": "LC-07",
+      "id": "LC-08",
+      "tradition": "Latin_Scholastic_Catholic",
+      "period": "1462–1489 CE",
+      "artifact_or_text": "Marsilio Ficino, Prisca Theologia & Sung Orphic Hymns",
+      "theological_mapping": "Florentine Catholic priest-philosopher Marsilio Ficino placed Orpheus in an unbroken lineage of ancient Gentile sages (Zoroaster, Hermes, Orpheus, Plato) preparing the West for Christian revelation.",
+      "ritual_or_liturgical_use": "Private devotional-philosophical singing of the Orphic Hymns to a lira da braccio to attune the human soul to celestial grace.",
+      "christological_comparison": "Treats Orphic harmony as natural-theology preparation (praeparatio evangelica) harmonized with Catholic contemplative prayer."
+    },
+    {
+      "id": "LC-09",
       "tradition": "Medieval_Vernacular_Catholic",
       "period": "c. 1317–1340 CE",
       "artifact_or_text": "Ovide Moralisé (Book X) & Pierre Bersuire's Ovidius Moralizatus",
@@ -696,7 +1006,7 @@ window.ORPHEUS_BUNDLE = {
       "christological_comparison": "Direct Harrowing of Hell typology: where Orpheus fails at the threshold and loses Eurydice, Christ succeeds completely and raises Adam and Eve forever."
     },
     {
-      "id": "LC-08",
+      "id": "LC-10",
       "tradition": "Medieval_Vernacular_Catholic",
       "period": "c. 1330 CE",
       "artifact_or_text": "Sir Orfeo (Middle English Breton Lai, Auchinleck Manuscript)",
@@ -880,30 +1190,30 @@ window.ORPHEUS_BUNDLE = {
     }
   ],
   "analytics": {
-    "timeline_count": 21,
-    "transliteration_count": 10,
-    "liturgical_count": 8,
+    "timeline_count": 37,
+    "transliteration_count": 14,
+    "liturgical_count": 10,
     "anthropology_count": 8,
     "revival_count": 10,
-    "span_years": 2586,
-    "earliest_year": -560,
+    "span_years": 2591,
+    "earliest_year": -565,
     "latest_year": 2026,
     "era_counts": {
-      "Archaic_Greece": 1,
-      "Augustan_Rome": 2,
-      "Classical_Greece": 3,
-      "Contemporary_To_2026": 2,
-      "Early_Christian_Patristic": 2,
-      "Enlightenment_Modern": 3,
-      "Hellenistic_Orphic": 3,
+      "Archaic_Greece": 6,
+      "Augustan_Rome": 3,
+      "Classical_Greece": 4,
+      "Contemporary_To_2026": 4,
+      "Early_Christian_Patristic": 4,
+      "Enlightenment_Modern": 5,
+      "Hellenistic_Orphic": 4,
       "Medieval_Catholic": 3,
-      "Renaissance_Baroque": 2
+      "Renaissance_Baroque": 4
     },
     "tradition_counts": {
       "Early_Christian_Catacomb": 1,
-      "Latin_Scholastic_Catholic": 1,
+      "Latin_Scholastic_Catholic": 2,
       "Medieval_Vernacular_Catholic": 2,
-      "Orphic_Mystery": 2,
+      "Orphic_Mystery": 3,
       "Patristic_Greek": 2
     }
   }

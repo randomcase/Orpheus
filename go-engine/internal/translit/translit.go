@@ -283,9 +283,14 @@ func parseGreekAtoms(text string) []greekAtom {
 	return atoms
 }
 
-func applyCase(s string, upper bool) string {
-	if !upper || s == "" {
+func applyCaseAtoms(atoms []greekAtom, i int, s string) string {
+	if s == "" || !atoms[i].isUpper {
 		return s
+	}
+	prevUp := i > 0 && atoms[i-1].isLetter && atoms[i-1].isUpper
+	nextUp := i+1 < len(atoms) && atoms[i+1].isLetter && atoms[i+1].isUpper
+	if prevUp || nextUp {
+		return strings.ToUpper(s)
 	}
 	runes := []rune(s)
 	runes[0] = unicode.ToUpper(runes[0])
@@ -338,7 +343,7 @@ func renderGreekRoman(atoms []greekAtom, system string) string {
 		}
 
 		// Diphthongs
-		if pair, rough, up := matchDiphthong(atoms, i); pair != "" {
+		if pair, rough, _ := matchDiphthong(atoms, i); pair != "" {
 			var out string
 			switch pair {
 			case "ου":
@@ -365,7 +370,7 @@ func renderGreekRoman(atoms []greekAtom, system string) string {
 			if rough {
 				out = "h" + out
 			}
-			b.WriteString(applyCase(out, up))
+			b.WriteString(applyCaseAtoms(atoms, i, out))
 			i++
 			continue
 		}
@@ -374,7 +379,7 @@ func renderGreekRoman(atoms []greekAtom, system string) string {
 		if at.base == 'γ' && i+1 < len(atoms) && atoms[i+1].isLetter {
 			next := atoms[i+1].base
 			if next == 'γ' || next == 'κ' || next == 'ξ' || next == 'χ' {
-				b.WriteString(applyCase("n", at.isUpper))
+				b.WriteString(applyCaseAtoms(atoms, i, "n"))
 				continue
 			}
 		}
@@ -445,7 +450,7 @@ func renderGreekRoman(atoms []greekAtom, system string) string {
 		if at.rough && isGreekVowel(at.base) {
 			token = "h" + token
 		}
-		b.WriteString(applyCase(token, at.isUpper))
+		b.WriteString(applyCaseAtoms(atoms, i, token))
 	}
 	return b.String()
 }
@@ -570,7 +575,7 @@ func renderGreekByzantine(atoms []greekAtom) string {
 			continue
 		}
 
-		if pair, _, up := matchDiphthong(atoms, i); pair != "" {
+		if pair, _, _ := matchDiphthong(atoms, i); pair != "" {
 			var out string
 			next := rune(0)
 			if i+2 < len(atoms) && atoms[i+2].isLetter {
@@ -594,7 +599,7 @@ func renderGreekByzantine(atoms []greekAtom) string {
 			case "ηυ":
 				out = "i" + fSuffix
 			}
-			b.WriteString(applyCase(out, up))
+			b.WriteString(applyCaseAtoms(atoms, i, out))
 			i++
 			continue
 		}
@@ -602,7 +607,7 @@ func renderGreekByzantine(atoms []greekAtom) string {
 		if at.base == 'γ' && i+1 < len(atoms) && atoms[i+1].isLetter {
 			next := atoms[i+1].base
 			if next == 'γ' || next == 'κ' || next == 'ξ' || next == 'χ' {
-				b.WriteString(applyCase("n", at.isUpper))
+				b.WriteString(applyCaseAtoms(atoms, i, "n"))
 				continue
 			}
 		}
@@ -652,7 +657,7 @@ func renderGreekByzantine(atoms []greekAtom) string {
 		case 'ψ':
 			token = "ps"
 		}
-		b.WriteString(applyCase(token, at.isUpper))
+		b.WriteString(applyCaseAtoms(atoms, i, token))
 	}
 	return b.String()
 }

@@ -1,19 +1,84 @@
 [
   {
     "id": "TL-01",
-    "year": -560,
-    "display_date": "c. 560 BCE",
+    "year": -565,
+    "display_date": "c. 565–560 BCE",
     "era": "Archaic_Greece",
-    "title": "Earliest Extant Literary & Sculptural Witnesses (Ibycus & Delphi Metope)",
-    "creator_or_source": "Ibycus of Rhegium (PMG 306) & Sicyonian Treasury at Delphi",
-    "language": "Doric / Archaic Greek",
-    "discovery_or_provenance": "Preserved via late antique quotation (Priscian) and 1894 French excavations of the Sicyonian Monopteros metope at Delphi.",
-    "key_shift": "Orpheus is first attested as an Argonautic singer ('onomaklyton Orphēn' — renowned-by-name Orpheus) before any surviving trace of the Eurydice myth.",
-    "liturgical_or_religious_role": "Heroic ship-chanter and initiator into early Greek mystery traditions.",
-    "societal_context": "Archaic polis colonization and Panhellenic sanctuary competition centered around Delphi."
+    "title": "Delphi Sicyonian Treasury Metope (ΟΡΦΑΣ)",
+    "creator_or_source": "Archaic Doric Sculptors of the Sicyonian Monopteros at Delphi",
+    "language": "Archaic Doric Greek Epigraphy",
+    "discovery_or_provenance": "Excavated in 1894 during French archaeological digs along the Sacred Way at Delphi.",
+    "key_shift": "Oldest surviving physical depiction and inscription of Orpheus ('ΟΡΦΑΣ' / Orphas): carved standing aboard the Argo holding a kithara beside the Dioscuri—decades before any written tragedy mentions Eurydice.",
+    "liturgical_or_religious_role": "Panhellenic heroic and sacred musician anchored inside Apollo's Delphic sanctuary.",
+    "societal_context": "Archaic Peloponnesian city-states (Sicyon under Kleisthenes) dedicating marble monuments at Delphi to advertise prestige."
   },
   {
     "id": "TL-02",
+    "year": -545,
+    "display_date": "c. 550–535 BCE",
+    "era": "Archaic_Greece",
+    "title": "Ibycus Fragment 306 — Earliest Literary Witness",
+    "creator_or_source": "Ibycus of Rhegium (PMG 306)",
+    "language": "Doric-Aeolic Choral Lyric",
+    "discovery_or_provenance": "Quoted verbatim by late antique grammarian Priscian (Institutiones Grammaticae 6.92) for its rare archaic declension.",
+    "key_shift": "Applies the compound epithet 'onomaklyton Orphēn' ('Orpheus famous-in-name'), proving an earlier lost oral epic tradition had already made him legendary across Magna Graecia.",
+    "liturgical_or_religious_role": "Choral lyric hero celebrated at court festivals without yet referencing underworld descent.",
+    "societal_context": "Western Greek colonies in southern Italy patronizing traveling court lyricists."
+  },
+  {
+    "id": "TL-03",
+    "year": -520,
+    "display_date": "c. 525–510 BCE",
+    "era": "Archaic_Greece",
+    "title": "Onomacritus & the Peisistratid Orphic Recension at Athens",
+    "creator_or_source": "Onomacritus of Athens (attested in Herodotus 7.6 & Pausanias 8.37.5)",
+    "language": "Attic-Ionic Greek",
+    "discovery_or_provenance": "Preserved via Herodotus's Histories and Pausanias's Periegesis describing how Onomacritus composed teletai (initiation rites) under the sons of Peisistratus.",
+    "key_shift": "Transforms Orpheus from a mythic Argonautic singer into the founding prophet of written mystery scriptures (teletai) and the myth of Zagreus-Dionysus torn by the Titans.",
+    "liturgical_or_religious_role": "Codified written mystery initiations (teletai) circulating at Athens alongside Homeric recensions.",
+    "societal_context": "Peisistratid tyranny building centralized Athenian civic festivals and literary archives."
+  },
+  {
+    "id": "TL-04",
+    "year": -505,
+    "display_date": "c. 520–490 BCE",
+    "era": "Archaic_Greece",
+    "title": "Simonides Fragment 567 — Orpheus Charming Birds and Sea-Fish",
+    "creator_or_source": "Simonides of Ceos (PMG 567)",
+    "language": "Choral Lyric Greek",
+    "discovery_or_provenance": "Quoted by Tzetzes (Chiliades 1.310) from Simonides' lost choral odes.",
+    "key_shift": "Earliest extant Greek poem detailing Orpheus's acoustic spell over living nature: countless birds hovering above his head and fish leaping straight upward out of the dark-blue sea at his fair song.",
+    "liturgical_or_religious_role": "Celebrates cosmic sympathy—nature responding harmoniously to sacred melodic order.",
+    "societal_context": "Late Archaic Aegean symposium and Panhellenic festival culture."
+  },
+  {
+    "id": "TL-05",
+    "year": -485,
+    "display_date": "c. 500–475 BCE",
+    "era": "Archaic_Greece",
+    "title": "The Olbia Bone Tablets (Life – Death – Life · Orphics)",
+    "creator_or_source": "Orphic-Dionysiac Community of Olbia Pontica (Black Sea)",
+    "language": "Ionic Greek Epigraphy",
+    "discovery_or_provenance": "Three inscribed animal-bone plaques unearthed in 1951 inside the central temenos of Olbia (modern Ukraine); published by A.S. Rusayeva in 1978.",
+    "key_shift": "Earliest direct archaeological proof of an organized 'Orphic' religious group ('ΔΙΟΝΥΣΟΣ ΟΡΦΙΚΟΙ') inscribing the triad 'ΒΙΟΣ ΘΑΝΑΤΟΣ ΒΙΟΣ · ΑΛΗΘΕΙΑ' (Life – Death – Life · Truth).",
+    "liturgical_or_religious_role": "Initiatory token or temple vow proving death is followed by renewed life under Dionysus.",
+    "societal_context": "Milesian Greek trading colony on the northern Black Sea fostering private mystery brotherhoods."
+  },
+  {
+    "id": "TL-06",
+    "year": -462,
+    "display_date": "462 BCE",
+    "era": "Archaic_Greece",
+    "title": "Pindar's Pythian 4 — 'Father of Songs' Sent by Apollo",
+    "creator_or_source": "Pindar of Thebes (Pythian Ode 4.176–177)",
+    "language": "Doric Choral Lyric",
+    "discovery_or_provenance": "Continuous classical manuscript tradition of Pindar's victory odes, written for Arcesilas IV of Cyrene in 462 BCE.",
+    "key_shift": "Crowns the Archaic canon: explicitly links Orpheus to Apollo as patron/father ('ex Apollōnos') and styles him 'phorminktas aoidān patēr' ('lyre-player, father of songs'), still without mentioning Eurydice.",
+    "liturgical_or_religious_role": "Links prophetic Apolline music directly to heroic Panhellenic genealogy.",
+    "societal_context": "Trans-Mediterranean aristocracy (Thebes to Cyrene) commissioning high lyric odes."
+  },
+  {
+    "id": "TL-07",
     "year": -458,
     "display_date": "458 BCE",
     "era": "Classical_Greece",
@@ -26,7 +91,7 @@
     "societal_context": "Post-Persian War Athenian civic theater using myth to interrogate persuasion versus political violence."
   },
   {
-    "id": "TL-03",
+    "id": "TL-08",
     "year": -438,
     "display_date": "438 BCE",
     "era": "Classical_Greece",
@@ -39,20 +104,20 @@
     "societal_context": "Periclean Athens debating rhetoric, medicine, and the limits of mortal grief."
   },
   {
-    "id": "TL-04",
-    "year": -400,
-    "display_date": "c. 400 BCE",
-    "era": "Hellenistic_Orphic",
-    "title": "Hipponion & Pelinna Orphic Gold Funeral Lamellae",
-    "creator_or_source": "Magna Graecia & Thessalian Orphic-Bacchic Initiates",
-    "language": "Doric / Epic Hexagonal Greek",
-    "discovery_or_provenance": "Hipponion tablet excavated in 1969 (Vibo Valentia, Calabria) in a female initiate's grave; Pelinna ivy-leaf tablets excavated 1985.",
-    "key_shift": "Inscribed gold passports guide the deceased soul past the forbidden cypress spring to Mnemosyne (Memory) and proclaim divine lineage.",
-    "liturgical_or_religious_role": "Direct funerary liturgy placed on the corpse's chest or mouth as ritual password for beatific afterlife.",
-    "societal_context": "Private mystery brotherhoods offering personal salvation outside civic polis religion."
+    "id": "TL-09",
+    "year": -414,
+    "display_date": "414 BCE",
+    "era": "Classical_Greece",
+    "title": "Aristophanes' Birds — Parody of the Orphic Cosmic Egg",
+    "creator_or_source": "Aristophanes (Birds 690–702)",
+    "language": "Attic Greek Comedy",
+    "discovery_or_provenance": "Preserved in medieval Venetian and Ravennas manuscripts of Aristophanes.",
+    "key_shift": "Demonstrates that Orphic cosmogonies (Night laying a wind-egg from which winged Eros hatches) were already famous enough on the Athenian public stage to parody.",
+    "liturgical_or_religious_role": "Satirizes esoteric mystery cosmologies circulating in Peloponnesian-War Athens.",
+    "societal_context": "Athenian Old Comedy mocking wartime religious speculation and sophistry."
   },
   {
-    "id": "TL-05",
+    "id": "TL-10",
     "year": -380,
     "display_date": "c. 380 BCE",
     "era": "Classical_Greece",
@@ -65,7 +130,20 @@
     "societal_context": "Athenian philosophical schools contesting poets and mystery-mongers over who defines virtue."
   },
   {
-    "id": "TL-06",
+    "id": "TL-11",
+    "year": -400,
+    "display_date": "c. 400 BCE",
+    "era": "Hellenistic_Orphic",
+    "title": "Hipponion & Pelinna Orphic Gold Funeral Lamellae",
+    "creator_or_source": "Magna Graecia & Thessalian Orphic-Bacchic Initiates",
+    "language": "Doric / Epic Hexameter Greek",
+    "discovery_or_provenance": "Hipponion tablet excavated in 1969 (Vibo Valentia, Calabria) in a female initiate's grave; Pelinna ivy-leaf tablets excavated 1985.",
+    "key_shift": "Inscribed gold passports guide the deceased soul past the forbidden cypress spring to Mnemosyne (Memory) and proclaim divine lineage.",
+    "liturgical_or_religious_role": "Direct funerary liturgy placed on the corpse's chest or mouth as ritual password for beatific afterlife.",
+    "societal_context": "Private mystery brotherhoods offering personal salvation outside civic polis religion."
+  },
+  {
+    "id": "TL-12",
     "year": -340,
     "display_date": "c. 340 BCE (Found 1962)",
     "era": "Hellenistic_Orphic",
@@ -78,59 +156,20 @@
     "societal_context": "Macedonian elite funerary practice blending mystery initiation with Anaxagorean physics."
   },
   {
-    "id": "TL-07",
-    "year": -29,
-    "display_date": "29 BCE",
-    "era": "Augustan_Rome",
-    "title": "The Classicized Tragic Backward Glance",
-    "creator_or_source": "Virgil (Georgics IV.453–527)",
-    "language": "Classical Latin",
-    "discovery_or_provenance": "Canonized Roman school text preserved continuously across Western monastic libraries.",
-    "key_shift": "Embeds Orpheus's failure inside the Aristaeus epyllion: sudden madness (dementia) forces the backward glance, creating the canonical tragic ending.",
-    "liturgical_or_religious_role": "Contrasts obsessive private grief with Aristaeus's civic ritual sacrifice (bugonia) that regenerates the hive.",
-    "societal_context": "Post-civil-war Augustan Rome rebuilding agricultural and religious order after decades of bloodshed."
+    "id": "TL-13",
+    "year": -250,
+    "display_date": "c. 250 BCE",
+    "era": "Hellenistic_Orphic",
+    "title": "Apollonius of Rhodes' Argonautica — Philosopher-Musician vs. Sirens",
+    "creator_or_source": "Apollonius of Rhodes (Argonautica 1.496–511 & 4.903–909)",
+    "language": "Hellenistic Epic Greek",
+    "discovery_or_provenance": "Alexandrian Library manuscript tradition preserved via Laurentian MS 32.9.",
+    "key_shift": "Depicts Orpheus singing Empedoclean cosmic harmony to quell crew quarrels and drowning out the deadly Sirens on the homeward voyage.",
+    "liturgical_or_religious_role": "Frames Orpheus as cosmological sage whose song mirrors natural philosophy.",
+    "societal_context": "Ptolemaic Alexandria synthesizing Archaic myth with Hellenistic science."
   },
   {
-    "id": "TL-08",
-    "year": 8,
-    "display_date": "8 CE",
-    "era": "Augustan_Rome",
-    "title": "Ovid's Elegiac Tragedy & Underworld Reunion",
-    "creator_or_source": "Publius Ovidius Naso (Metamorphoses X.1–XI.66)",
-    "language": "Classical Latin",
-    "discovery_or_provenance": "One of the most widely copied medieval Latin poems in European cathedral and university libraries.",
-    "key_shift": "Removes 'madness' and blames anxious love ('avidus videndi'); adds Eurydice's dying 'vale', Orpheus's singing severed head floating to Lesbos, and safe reunion in Elysium.",
-    "liturgical_or_religious_role": "Bacchus punishes Orpheus's killers (turning Maenads into oaks); Apollo preserves his prophetic head and lyre.",
-    "societal_context": "High Imperial Rome shifting focus from state duty to interior psychological emotion and poetic immortality."
-  },
-  {
-    "id": "TL-09",
-    "year": 195,
-    "display_date": "c. 195 CE",
-    "era": "Early_Christian_Patristic",
-    "title": "Christ as the True New Song Surpassing Orpheus",
-    "creator_or_source": "Clement of Alexandria (Protrepticus / Exhortation to the Greeks, Ch. 1)",
-    "language": "Koine Greek",
-    "discovery_or_provenance": "Preserved in the 10th-century Arethas Codex (Paris. gr. 451).",
-    "key_shift": "Initiates Patristic Christian reinterpretation: Orpheus tamed beasts into slavery to idols, whereas Christ the Logos sings the 'New Song' that transforms wild sinners into peaceful citizens of heaven.",
-    "liturgical_or_religious_role": "Early Christian apologetic preaching and baptismal catechesis framing salvation as cosmic harmony.",
-    "societal_context": "Alexandrian Christian scholars engaging educated Hellenistic audiences in Roman Egypt."
-  },
-  {
-    "id": "TL-10",
-    "year": 250,
-    "display_date": "c. 220–340 CE",
-    "era": "Early_Christian_Patristic",
-    "title": "Christus-Orpheus Frescoes in the Roman Catacombs",
-    "creator_or_source": "Early Christian Artisans (Catacombs of Domitilla, Callixtus, & Santi Pietro e Marcellino)",
-    "language": "Visual Iconography / Latin-Greek Epigraphy",
-    "discovery_or_provenance": "Rediscovered in Roman subterranean cemeteries from the 16th century (Antonio Bosio) through modern Vatican Pontifical Archaeology.",
-    "key_shift": "Christian burial chapels depict Christ in Phrygian cap playing the lyre surrounded by lambs and doves—visualizing Christus-Orpheus as Conqueror of Hades and Good Shepherd.",
-    "liturgical_or_religious_role": "Funerary prayer imagery in Eucharist-adjacent catacomb cubicles expressing hope in resurrection.",
-    "societal_context": "Pre-Constantinian and early post-Edict Roman Christians adapting familiar funerary symbols for resurrection theology."
-  },
-  {
-    "id": "TL-11",
+    "id": "TL-14",
     "year": 350,
     "display_date": "c. 200–400 CE",
     "era": "Hellenistic_Orphic",
@@ -143,7 +182,98 @@
     "societal_context": "Urban Roman Asia Minor mystery associations providing tight-knit sacred community."
   },
   {
-    "id": "TL-12",
+    "id": "TL-15",
+    "year": -29,
+    "display_date": "29 BCE",
+    "era": "Augustan_Rome",
+    "title": "Virgil's Georgics IV — The Classicized Tragic Backward Glance",
+    "creator_or_source": "Publius Vergilius Maro (Georgics IV.453–527)",
+    "language": "Classical Latin",
+    "discovery_or_provenance": "Canonized Roman school text preserved continuously across Western monastic libraries.",
+    "key_shift": "Embeds Orpheus's failure inside the Aristaeus epyllion: sudden madness (dementia) forces the backward glance, creating the canonical tragic ending.",
+    "liturgical_or_religious_role": "Contrasts obsessive private grief with Aristaeus's civic ritual sacrifice (bugonia) that regenerates the hive.",
+    "societal_context": "Post-civil-war Augustan Rome rebuilding agricultural and religious order after decades of bloodshed."
+  },
+  {
+    "id": "TL-16",
+    "year": -15,
+    "display_date": "c. 19–15 BCE",
+    "era": "Augustan_Rome",
+    "title": "Horace's Ars Poetica — Orpheus as Lawgiver & Civilizer",
+    "creator_or_source": "Quintus Horatius Flaccus (Ars Poetica 391–393)",
+    "language": "Classical Latin",
+    "discovery_or_provenance": "Preserved in medieval Carolingian school manuscripts of Horace.",
+    "key_shift": "Interprets 'taming tigers and lions' allegorically: 'sacred interpreter of the gods' (sacer interpresque deorum), Orpheus deterred primitive humans from bloodshed and founded civic law through poetry.",
+    "liturgical_or_religious_role": "Presents the poet as moral priest and civic founder.",
+    "societal_context": "Augustan literary criticism defining poetry's public ethical mission."
+  },
+  {
+    "id": "TL-17",
+    "year": 8,
+    "display_date": "8 CE",
+    "era": "Augustan_Rome",
+    "title": "Ovid's Metamorphoses — Elegiac Tragedy & Underworld Reunion",
+    "creator_or_source": "Publius Ovidius Naso (Metamorphoses X.1–XI.66)",
+    "language": "Classical Latin",
+    "discovery_or_provenance": "One of the most widely copied medieval Latin poems in European cathedral and university libraries.",
+    "key_shift": "Removes 'madness' and blames anxious love ('avidus videndi'); adds Eurydice's dying 'vale', Orpheus's singing severed head floating to Lesbos, and safe reunion in Elysium.",
+    "liturgical_or_religious_role": "Bacchus punishes Orpheus's killers (turning Maenads into oaks); Apollo preserves his prophetic head and lyre.",
+    "societal_context": "High Imperial Rome shifting focus from state duty to interior psychological emotion and poetic immortality."
+  },
+  {
+    "id": "TL-18",
+    "year": 195,
+    "display_date": "c. 195 CE",
+    "era": "Early_Christian_Patristic",
+    "title": "Clement of Alexandria — Christ as the True 'New Song'",
+    "creator_or_source": "Clement of Alexandria (Protrepticus / Exhortation to the Greeks, Ch. 1)",
+    "language": "Koine Greek",
+    "discovery_or_provenance": "Preserved in the 10th-century Arethas Codex (Paris. gr. 451).",
+    "key_shift": "Initiates Patristic Christian reinterpretation: Orpheus tamed beasts into slavery to idols, whereas Christ the Logos sings the 'New Song' that transforms wild sinners into peaceful citizens of heaven.",
+    "liturgical_or_religious_role": "Early Christian apologetic preaching and baptismal catechesis framing salvation as cosmic harmony.",
+    "societal_context": "Alexandrian Christian scholars engaging educated Hellenistic audiences in Roman Egypt."
+  },
+  {
+    "id": "TL-19",
+    "year": 244,
+    "display_date": "c. 244 CE",
+    "era": "Early_Christian_Patristic",
+    "title": "Dura-Europos Synagogue — King David in Orpheus Iconography",
+    "creator_or_source": "Syrian Jewish Diaspora Artisans (Dura-Europos on the Euphrates)",
+    "language": "Visual Iconography / Aramaic-Greek Context",
+    "discovery_or_provenance": "Excavated in 1932–1935 at Dura-Europos (Syria) preserved beneath a 256 CE siege embankment.",
+    "key_shift": "Depicts King David enthroned with a lyre charming an eagle and lion in exact Orphic posture—demonstrating parallel Late Antique Jewish and Christian adoption of the Orpheus lyre motif.",
+    "liturgical_or_religious_role": "Torah-shrine wall imagery linking Davidic psalmody to cosmic harmony.",
+    "societal_context": "Multicultural Roman-Persian frontier town sharing sacred visual vocabulary."
+  },
+  {
+    "id": "TL-20",
+    "year": 250,
+    "display_date": "c. 220–340 CE",
+    "era": "Early_Christian_Patristic",
+    "title": "Christus-Orpheus Frescoes in the Roman Catacombs",
+    "creator_or_source": "Early Christian Artisans (Catacombs of Domitilla, Callixtus, & Santi Pietro e Marcellino)",
+    "language": "Visual Iconography / Latin-Greek Epigraphy",
+    "discovery_or_provenance": "Rediscovered in Roman subterranean cemeteries from the 16th century (Antonio Bosio) through modern Vatican Pontifical Archaeology.",
+    "key_shift": "Christian burial chapels depict Christ in Phrygian cap playing the lyre surrounded by lambs and doves—visualizing Christus-Orpheus as Conqueror of Hades and Good Shepherd.",
+    "liturgical_or_religious_role": "Funerary prayer imagery in Eucharist-adjacent catacomb cubicles expressing hope in resurrection.",
+    "societal_context": "Pre-Constantinian and early post-Edict Roman Christians adapting familiar funerary symbols for resurrection theology."
+  },
+  {
+    "id": "TL-21",
+    "year": 336,
+    "display_date": "c. 336 CE",
+    "era": "Early_Christian_Patristic",
+    "title": "Eusebius of Caesarea — The Incarnate Logos Tuning Humanity's Lyre",
+    "creator_or_source": "Eusebius of Caesarea (Tricennial Oration / In Praise of Constantine 14.5)",
+    "language": "Koine Greek",
+    "discovery_or_provenance": "Preserved in Greek patristic collections alongside Eusebius's Church History.",
+    "key_shift": "Formalizes imperial Christian typology: as Orpheus calmed creatures with a lyre, the Logos took human nature as his instrument (organon) to harmonize earth and heaven.",
+    "liturgical_or_religious_role": "Christian panegyric and theological analogy of the Incarnation.",
+    "societal_context": "Post-Edict of Milan Roman Empire integrating classical rhetoric into Christian orthodoxy."
+  },
+  {
+    "id": "TL-22",
     "year": 524,
     "display_date": "524 CE",
     "era": "Medieval_Catholic",
@@ -156,7 +286,7 @@
     "societal_context": "Collapse of the Western Roman order driving Christian philosophers to synthesize classical myth with eternal beatitude."
   },
   {
-    "id": "TL-13",
+    "id": "TL-23",
     "year": 1320,
     "display_date": "c. 1317–1328 CE",
     "era": "Medieval_Catholic",
@@ -169,7 +299,7 @@
     "societal_context": "High Gothic scholasticism harmonizing pagan antiquity into Catholic sacramental history."
   },
   {
-    "id": "TL-14",
+    "id": "TL-24",
     "year": 1330,
     "display_date": "c. 1330 CE",
     "era": "Medieval_Catholic",
@@ -182,7 +312,20 @@
     "societal_context": "Late medieval England blending Arthurian/Breton folklore with Christian mercy."
   },
   {
-    "id": "TL-15",
+    "id": "TL-25",
+    "year": 1462,
+    "display_date": "1462–1489 CE",
+    "era": "Renaissance_Baroque",
+    "title": "Marsilio Ficino's Florentine Orphic Singing & Prisca Theologia",
+    "creator_or_source": "Marsilio Ficino (Medici Platonic Academy, Florence)",
+    "language": "Renaissance Neo-Latin",
+    "discovery_or_provenance": "Latin translations of the Orphic Hymns (1462) and De Vita Coelitus Comparanda (1489).",
+    "key_shift": "Ordained Catholic priest Ficino sang Orphic Hymns to a lira da braccio, viewing Orpheus alongside Moses and Plato as an ancient Gentile witness to divine harmony.",
+    "liturgical_or_religious_role": "Harmonized Catholic Platonism with therapeutic Renaissance musical cosmology.",
+    "societal_context": "Medici Florence recovering Greek manuscripts after the fall of Constantinople."
+  },
+  {
+    "id": "TL-26",
     "year": 1480,
     "display_date": "1480 CE",
     "era": "Renaissance_Baroque",
@@ -195,11 +338,24 @@
     "societal_context": "Italian Renaissance humanism recovering Greek/Roman dramatic forms."
   },
   {
-    "id": "TL-16",
+    "id": "TL-27",
+    "year": 1600,
+    "display_date": "1600 CE",
+    "era": "Renaissance_Baroque",
+    "title": "Peri & Rinuccini's Euridice — Oldest Surviving Opera Score",
+    "creator_or_source": "Jacopo Peri, Giulio Caccini & Ottavio Rinuccini (Florence)",
+    "language": "Italian",
+    "discovery_or_provenance": "Performed at the Pitti Palace on 6 October 1600 for the wedding of Maria de' Medici and King Henry IV of France.",
+    "key_shift": "Alters the myth into a wedding lieto fine (no fatal look-back!), inventing continuous sung recitative (stile rappresentativo) specifically for Orpheus's plea to Hades.",
+    "liturgical_or_religious_role": "Dynastic court celebration harnessing Florentine Camerata theories of ancient Greek tragedy.",
+    "societal_context": "Late Renaissance Medici marriage diplomacy inaugurating operatic history."
+  },
+  {
+    "id": "TL-28",
     "year": 1607,
     "display_date": "1607 CE",
     "era": "Renaissance_Baroque",
-    "title": "Monteverdi's L'Orfeo — The Birth of Modern Opera",
+    "title": "Monteverdi's L'Orfeo — The Birth of Modern Grand Opera",
     "creator_or_source": "Claudio Monteverdi & Alessandro Striggio (Accademia degli Invaghiti, Mantua)",
     "language": "Italian",
     "discovery_or_provenance": "1607 libretto ended in Maenad dismemberment; 1609 printed Venetian score replaced the ending with Apollo lifting Orfeo into the heavens.",
@@ -208,7 +364,7 @@
     "societal_context": "Counter-Reformation northern Italy inventing musical-dramatic media to unite court and church emotion."
   },
   {
-    "id": "TL-17",
+    "id": "TL-29",
     "year": 1762,
     "display_date": "1762 CE",
     "era": "Enlightenment_Modern",
@@ -221,7 +377,20 @@
     "societal_context": "Habsburg Enlightenment court culture championing clarity, sentiment, and moral optimism."
   },
   {
-    "id": "TL-18",
+    "id": "TL-30",
+    "year": 1858,
+    "display_date": "1858 CE",
+    "era": "Enlightenment_Modern",
+    "title": "Offenbach's Orphée aux Enfers — Second Empire Satire",
+    "creator_or_source": "Jacques Offenbach, Hector Crémieux & Ludovic Halévy (Paris)",
+    "language": "French",
+    "discovery_or_provenance": "Premiered at Théâtre des Bouffes-Parisiens, 21 October 1858.",
+    "key_shift": "Turns solemn antiquity into roaring farce: Orpheus and Eurydice detest each other, Jupiter throws a lightning bolt to force the look-back, and Olympus dances the Infernal Galop (Can-Can).",
+    "liturgical_or_religious_role": "Deliberately parodies bourgeois moralizing and pompous classical reverence.",
+    "societal_context": "Napoleon III's Second Empire Paris mocking imperial conformity through comic operetta."
+  },
+  {
+    "id": "TL-31",
     "year": 1922,
     "display_date": "1922 CE",
     "era": "Enlightenment_Modern",
@@ -234,7 +403,20 @@
     "societal_context": "Interwar Europe mourning World War I mass death and pandemic grief (1918–1922)."
   },
   {
-    "id": "TL-19",
+    "id": "TL-32",
+    "year": 1950,
+    "display_date": "1950 CE",
+    "era": "Enlightenment_Modern",
+    "title": "Jean Cocteau's Orphée — Mirrors, Radio & Post-War Surrealism",
+    "creator_or_source": "Jean Cocteau (Film, starring Jean Marais & Maria Casarès)",
+    "language": "French",
+    "discovery_or_provenance": "Grand Prix de la Critique at Venice (1950); centerpiece of Cocteau's Orphic Trilogy.",
+    "key_shift": "Replaces Hades with a bombed post-war French Zone where poets receive coded messages over car radios and step through liquid mercury mirrors.",
+    "liturgical_or_religious_role": "Surrealist meditation on poetic sacrifice where Death (the Princess) surrenders herself to rewind time.",
+    "societal_context": "Post-WWII France processing Resistance broadcasts, guilt, and artistic rebirth."
+  },
+  {
+    "id": "TL-33",
     "year": 1959,
     "display_date": "1959 CE",
     "era": "Enlightenment_Modern",
@@ -247,7 +429,33 @@
     "societal_context": "Mid-century decolonization, Black cultural assertion, and the global rise of bossa nova."
   },
   {
-    "id": "TL-20",
+    "id": "TL-34",
+    "year": 1986,
+    "display_date": "1986–1993 CE",
+    "era": "Contemporary_To_2026",
+    "title": "Birtwistle's The Mask of Orpheus & Philip Glass's Orphée",
+    "creator_or_source": "Harrison Birtwistle (London, 1986) & Philip Glass (Cambridge/NYC, 1993)",
+    "language": "English / French",
+    "discovery_or_provenance": "English National Opera premiere (1986) and American Repertory Theater premiere (1993).",
+    "key_shift": "Birtwistle triples Orpheus (Man, Myth, Hero) through fractured electronic ritual time, while Glass converts Cocteau's surrealist screenplay into hypnotic minimalist opera.",
+    "liturgical_or_religious_role": "Late-20th-century avant-garde ritual splitting myth into fractured simultaneous perspectives.",
+    "societal_context": "Late Cold War & post-structuralist skepticism toward single linear narratives."
+  },
+  {
+    "id": "TL-35",
+    "year": 2003,
+    "display_date": "2003 CE",
+    "era": "Contemporary_To_2026",
+    "title": "Sarah Ruhl's Eurydice — The Underworld From Eurydice's Eyes",
+    "creator_or_source": "Sarah Ruhl (Madison Repertory / Yale Repertory / Off-Broadway)",
+    "language": "English",
+    "discovery_or_provenance": "Published and widely staged globally from 2003 onward as a modern American repertory staple.",
+    "key_shift": "Shifts focus away from Orpheus's music onto Eurydice reuniting with her deceased Father in an underworld of raining elevators—reclaiming memory and filial grief.",
+    "liturgical_or_religious_role": "Intimate ritual of letters, dipped-in-Lethe forgetting, and chosen remembrance.",
+    "societal_context": "Early 21st-century feminist and lyric theater challenging male-centered tragedy."
+  },
+  {
+    "id": "TL-36",
     "year": 2019,
     "display_date": "2019 CE",
     "era": "Contemporary_To_2026",
@@ -260,16 +468,16 @@
     "societal_context": "Late-2010s climate anxiety, labor precarity, and feminist revision of the artistic gaze."
   },
   {
-    "id": "TL-21",
+    "id": "TL-37",
     "year": 2026,
     "display_date": "2022–2026 CE",
     "era": "Contemporary_To_2026",
     "title": "Streaming Mythologies, Global Revivals & Digital Philology (to 2026)",
-    "creator_or_source": "Netflix's The Sandman S2 (2025), International Hadestown Tours, & Digital Derveni Editions (2022–2026)",
+    "creator_or_source": "Netflix's The Sandman S2 (2025), International Hadestown Tours & Digital Derveni Editions (2022–2026)",
     "language": "Multilingual / Global Digital Media",
     "discovery_or_provenance": "Multi-spectral imaging of the Derveni Papyrus and global streaming/theatrical circulation reaching 2026 audiences.",
     "key_shift": "Blends antiquity priesthood motifs (Orpheus's living head guarded by island priests) with mass streaming folklore, while multispectral imaging continues refining the 4th c. BCE Derveni text.",
     "liturgical_or_religious_role": "Post-secular fascination with ancient mystery priesthoods, mortality, and ancestral memory.",
-    "societal_context": "2020s post-pandemic reckoning with loss, AI-era mediation, and renewed hunger for embodied live song."
+    "societal_context": "2020s post-pandemic reckoning with loss, AI-mediated memory, and renewed hunger for embodied live song."
   }
 ]

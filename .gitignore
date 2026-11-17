@@ -3,6 +3,7 @@ bin/
 springboot-app/.gradle/
 springboot-app/build/
 go-engine/coverage.out
+go-engine/bench.txt
 __pycache__/
 *.py[cod]
 .env

@@ -34,6 +34,24 @@
     return String(val || "").replace(/_/g, " ");
   }
 
+  function fmtYear(y) {
+    const num = Number(y);
+    if (!Number.isFinite(num)) return String(y || "");
+    return num < 0 ? `${Math.abs(num)} BCE` : `${num} CE`;
+  }
+
+  const ERA_ORDER = [
+    "Archaic_Greece",
+    "Classical_Greece",
+    "Hellenistic_Orphic",
+    "Augustan_Rome",
+    "Early_Christian_Patristic",
+    "Medieval_Catholic",
+    "Renaissance_Baroque",
+    "Enlightenment_Modern",
+    "Contemporary_To_2026"
+  ];
+
   function renderMd(md) {
     const lines = String(md || "").replace(/\r\n/g, "\n").split("\n");
     const out = [];
@@ -368,12 +386,50 @@
     const go = tel.go_engine || {};
     const sb = tel.spring_boot || {};
     const a = (tel.corpus && tel.corpus.analytics) || {};
+    const bench = go.benchmarks || {};
+    const totalRecords =
+      (a.timeline_count || 0) +
+      (a.transliteration_count || 0) +
+      (a.liturgical_count || 0) +
+      (a.anthropology_count || 0) +
+      (a.revival_count || 0);
+
+    const earliestLabel = fmtYear(a.earliest_year != null ? a.earliest_year : -565);
+    const latestLabel = fmtYear(a.latest_year != null ? a.latest_year : 2026);
+    const spanEl = document.getElementById("span-label");
+    if (spanEl) {
+      spanEl.textContent = `Diachronic Span: ${earliestLabel} \u2192 ${latestLabel}`;
+    }
+
+    const benchParts = [];
+    if (bench.greek_ns_per_op != null) benchParts.push(`Greek ${bench.greek_ns_per_op} ns/op`);
+    if (bench.latin_ns_per_op != null) benchParts.push(`Latin ${bench.latin_ns_per_op} ns/op`);
+    const benchLine = benchParts.length
+      ? `<div><strong>Benchmarks:</strong> ${esc(benchParts.join(" · "))}</div>`
+      : "";
+
+    const rawEras = a.era_counts || {};
+    const orderedEras = [];
+    const seenEras = new Set();
+    ERA_ORDER.forEach((era) => {
+      if (Object.prototype.hasOwnProperty.call(rawEras, era)) {
+        orderedEras.push([era, rawEras[era]]);
+        seenEras.add(era);
+      }
+    });
+    Object.keys(rawEras).sort().forEach((era) => {
+      if (!seenEras.has(era)) {
+        orderedEras.push([era, rawEras[era]]);
+      }
+    });
+
     document.getElementById("telemetry-cards").innerHTML = `
       <article class="card">
         <div class="card-head"><span class="id-tag">Go 1.26 Engine</span><span class="pill">Zero-Dep Stdlib</span></div>
         <h3>Transliteration &amp; Katabasis</h3>
         <div class="meta-block">
-          <div><strong>Statement Coverage:</strong> ${go.statements_pct != null ? go.statements_pct + "%" : "Pending run"}</div>
+          <div><strong>Statement Coverage:</strong> ${go.statements_pct != null ? esc(go.statements_pct) + "%" : "Pending run"}</div>
+          ${benchLine}
           <div><strong>Generated At:</strong> ${esc(tel.generated_at || "Local Build")}</div>
         </div>
       </article>
@@ -381,16 +437,29 @@
         <div class="card-head"><span class="id-tag">Spring Boot 3.4</span><span class="pill">Java 21 · H2 JPA</span></div>
         <h3>JUnit &amp; JaCoCo Verification</h3>
         <div class="meta-block">
-          <div><strong>Integration Tests:</strong> ${sb.junit_total || 0} total (${sb.junit_failed || 0} failed)</div>
-          <div><strong>JaCoCo Line Coverage:</strong> ${sb.jacoco_line_pct != null ? sb.jacoco_line_pct + "%" : "Pending run"}</div>
+          <div><strong>Integration Tests:</strong> ${esc(sb.junit_total || 0)} total (${esc(sb.junit_failed || 0)} failed)</div>
+          <div><strong>JaCoCo Line Coverage:</strong> ${sb.jacoco_line_pct != null ? esc(sb.jacoco_line_pct) + "%" : "Pending run"}</div>
         </div>
       </article>
       <article class="card">
-        <div class="card-head"><span class="id-tag">Corpus Integrity</span><span class="pill">${esc(a.earliest_year)} to ${esc(a.latest_year)}</span></div>
-        <h3>${esc(a.span_years || 2586)}-Year Diachronic Span</h3>
+        <div class="card-head"><span class="id-tag">Corpus Integrity</span><span class="pill">${esc(earliestLabel)} – ${esc(latestLabel)}</span></div>
+        <h3>${esc(a.span_years || 2591)}-Year Diachronic Span</h3>
         <div class="meta-block">
-          <div><strong>Total Structured Records:</strong> ${(a.timeline_count || 0) + (a.transliteration_count || 0) + (a.liturgical_count || 0) + (a.anthropology_count || 0) + (a.revival_count || 0)}</div>
-          <div><strong>Monographs:</strong> ${state.monographs.length} Markdown treatises</div>
+          <div><strong>Total Structured Records:</strong> ${esc(totalRecords)}</div>
+          <div><strong>Corpus Split:</strong> ${esc(a.timeline_count || 0)} timeline · ${esc(a.transliteration_count || 0)} passages · ${esc(a.liturgical_count || 0)} liturgical</div>
+          <div><strong>Monographs:</strong> ${esc(state.monographs.length)} Markdown treatises</div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-head"><span class="id-tag">Diachronic Coverage</span><span class="pill">${esc(orderedEras.length)} Historical Strata</span></div>
+        <h3>Era Distribution</h3>
+        <div class="era-dist-grid">
+          ${orderedEras.map(([era, count]) => `
+            <div class="era-dist-row">
+              <span>${esc(fmtLabel(era))}</span>
+              <strong>${esc(count)}</strong>
+            </div>
+          `).join("")}
         </div>
       </article>`;
 
@@ -398,20 +467,25 @@
     const rootDrive = (state.suite.drive && state.suite.drive.root_folder) || {};
     const gh = state.suite.github || {};
     const links = [
-      { kind: "GitHub Repository", name: "randomcase/Orpheus", url: gh.url },
-      { kind: "GitHub Pages", name: "Live Research Atlas", url: gh.pages_url },
-      { kind: "Google Drive", name: rootDrive.name || "Orpheus Archive Root", url: rootDrive.url },
-      { kind: "Google Sheets (6 Tabs)", name: s.master_sheet && s.master_sheet.title, url: s.master_sheet && s.master_sheet.url },
-      { kind: "Google Docs (5 Tabs)", name: s.monograph_doc && s.monograph_doc.title, url: s.monograph_doc && s.monograph_doc.url },
-      { kind: "Google Slides", name: s.timelapse_slides && s.timelapse_slides.title, url: s.timelapse_slides && s.timelapse_slides.url },
-      { kind: "Google Colab (Go Lab)", name: s.colab_notebook && s.colab_notebook.title, url: s.colab_notebook && s.colab_notebook.url }
+      { kind: "GitHub Repository", badge: "Source", name: "randomcase/Orpheus", url: gh.url },
+      { kind: "GitHub Pages", badge: "Live Site", name: "Live Research Atlas", url: gh.pages_url },
+      { kind: "Google Drive", badge: "5 Pillars", name: rootDrive.name || "Orpheus Archive Root", url: rootDrive.url },
+      { kind: "Google Sheets", badge: "6 Tabs", name: s.master_sheet && s.master_sheet.title, url: s.master_sheet && s.master_sheet.url },
+      { kind: "Google Docs", badge: "5 Tabs", name: s.monograph_doc && s.monograph_doc.title, url: s.monograph_doc && s.monograph_doc.url },
+      { kind: "Google Slides", badge: "7 Slides", name: s.timelapse_slides && s.timelapse_slides.title, url: s.timelapse_slides && s.timelapse_slides.url },
+      { kind: "Google Colab", badge: "Go Lab", name: s.colab_notebook && s.colab_notebook.title, url: s.colab_notebook && s.colab_notebook.url },
+      { kind: "Telemetry Report", badge: "Markdown", name: (s.telemetry_report && s.telemetry_report.title) || "latest-report.md", url: s.telemetry_report && s.telemetry_report.url }
     ].filter((x) => Boolean(x.url));
 
     document.getElementById("drive-atlas-grid").innerHTML = links.map((l) => `
       <a class="card" href="${esc(safeHref(l.url))}" target="_blank" rel="noopener noreferrer">
-        <span class="id-tag">${esc(l.kind)}</span>
+        <div class="card-head">
+          <span class="id-tag">${esc(l.kind)}</span>
+          <span class="pill">${esc(l.badge)}</span>
+        </div>
         <h3>${esc(l.name)}</h3>
-        <span style="font-size:0.82rem;color:var(--text-muted);">${esc(l.url)}</span>
+        <div class="drive-link-url">${esc(l.url)}</div>
+        <div class="drive-open-cue">Open Resource &#8599;</div>
       </a>
     `).join("");
   }

@@ -1,29 +1,30 @@
-# Discovery & Archaic Origins of Orpheus (c. 600–300 BCE)
+# Discovery & Archaic Origins of Orpheus (c. 565–300 BCE)
 
-## 1. Before the Tragedy: What Earliest Sources Actually Say
+## 1. Before the Tragedy: What Earliest Archaic Sources Actually Say
 
-Modern readers often assume the myth of Orpheus and Eurydice sprang fully formed from Homer or early Greece. Archaeology and fragmentary philology prove otherwise: **Orpheus enters recorded history first as a legendary Argonautic singer and mystery founder—nearly four centuries before any surviving Roman poem adds his fatal backward glance.**
+Modern readers often assume the tragedy of Orpheus and Eurydice sprang fully formed from early Greece. Archaeology and fragmentary philology prove otherwise: **in the entire Archaic period (`c. 565–462 BCE`), Eurydice does not appear once.** Orpheus enters history first as an Argonautic singer, cosmic enchanter of birds and fish, and prophetic founder of written mystery rites (*teletai*).
 
 | Witness | Approximate Date | Discovery / Transmission | What It Establishes |
 | :--- | :--- | :--- | :--- |
-| **Delphi Sicyonian Treasury Metope** | c. 560 BCE | Excavated at Delphi (1894) | Oldest visual image: Orpheus aboard the *Argo* holding a kithara alongside the Dioscuri |
-| **Ibycus, Fragment 306 (PMG)** | c. 560 BCE | Quoted by late antique grammarian Priscian | Earliest literary witness: *onomaklyton Orphēn* ("Orpheus famous in name") |
-| **Euripides, *Alcestis* 357–362** | 438 BCE | Medieval Greek tragedy manuscripts | First explicit mention of Orpheus descending to Hades by song—implying **success**, not failure |
-| **Hipponion Gold Lamella** | c. 400 BCE | Excavated 1969 in Vibo Valentia, Calabria | Inscribed gold passport guiding an initiated soul past the forbidden white cypress to Memory |
-| **Plato, *Symposium* 179d** | c. 380 BCE | Classical manuscript tradition | Polemic claiming the gods showed Orpheus only a phantom because he refused to die for love |
+| **Delphi Sicyonian Metope (`ΟΡΦΑΣ`)** | c. 565–560 BCE | Excavated at Delphi (1894) | Oldest visual image & inscription: *Orphas* aboard the *Argo* holding a kithara beside the Dioscuri |
+| **Ibycus, Fragment 306 (PMG)** | c. 550–535 BCE | Quoted by grammarian Priscian | Earliest literary witness: *onomaklyton Orphēn* ("Orpheus famous in name") |
+| **Onomacritus at Athens** | c. 525–510 BCE | Attested in Herodotus 7.6 & Pausanias 8.37.5 | Peisistratid oracle-editor compiling written Orphic initiations (*teletai*) and the Titan-Dionysus myth |
+| **Simonides, Fragment 567 (PMG)** | c. 520–490 BCE | Quoted by Tzetzes (*Chiliades* 1.310) | First surviving poem of Orpheus enchanting nature: birds hovering overhead and fish leaping from the sea |
+| **The Olbia Bone Tablets** | c. 500–475 BCE | Excavated 1951 at Olbia (published 1978) | Three bone plaques inscribed *"Life – Death – Life · Truth · Dionysus Orphics"* |
+| **Pindar, *Pythian* 4.176–177** | 462 BCE | Continuous victory-ode manuscript tradition | Crowns Archaic lyric: calls Orpheus Apollo's harper and *"father of songs"* (*aoidān patēr*) |
+| **Euripides, *Alcestis* 357–362** | 438 BCE | Classical Athenian tragedy manuscripts | First explicit mention of Orpheus descending to Hades by song—implying **success**, not failure |
+| **Hipponion Gold Lamella** | c. 400 BCE | Excavated 1969 in Vibo Valentia, Calabria | Inscribed gold passport guiding an initiated soul past the forbidden cypress to Memory |
 | **The Derveni Papyrus** | c. 340 BCE | Unearthed January 1962 near Thessaloniki | Europe's oldest surviving manuscript: priestly commentary decoding Orphic cosmogony |
 
-## 2. The 1962 Discovery of the Derveni Papyrus
+## 2. The Archaic Witnesses: From *Argo* to the Olbia Bone Tablets
 
-In January 1962, road-workers at Derveni (northwest of Thessaloniki, Greece) uncovered a series of lavish 4th-century BCE Macedonian burials. On the burned funeral pyre atop **Tomb A**, archaeologists found a partially carbonized papyrus scroll preserved by the very fire meant to consume it.
+* **Delphi (`ΟΡΦΑΣ`) & Ibycus (`c. 565–535 BCE`):** On the carved limestone metope of the Sicyonian Monopteros at Delphi, Orpheus stands between Castor and Pollux aboard the *Argo* with a kithara in hand, his name incised vertically in Archaic Doric script as `ΟΡΦΑΣ`. Within a generation, the lyric poet **Ibycus** calls him *onomaklyton Orphēn* ("famous-in-name Orpheus")—a phrase poets only use when their audience already knows an older heroic oral tradition.
+* **Onomacritus & Written *Teletai* (`c. 525–510 BCE`):** At Athens under the sons of Peisistratus, **Onomacritus** collected and composed written Orphic initiatory texts (*teletai*), shifting Orpheus from an Argonautic bard into the mythic author of sacred books.
+* **Simonides & Pindar (`c. 520–462 BCE`):** **Simonides** preserves our earliest picture of acoustic enchantment—countless birds hovering above Orpheus's head while fish leap vertically from the blue sea—and **Pindar** closes the Archaic era by naming him *"lyre-player, father of songs"* sent from Apollo.
+* **The 1951 Olbia Bone Tablets (`c. 500–475 BCE`):** Excavated at Olbia Pontica on the northern Black Sea (Ukraine) and published in 1978, three small bone plaques changed Archaic religious history. Scratched into Plaque A are the Greek words **`ΒΙΟΣ ΘΑΝΑΤΟΣ ΒΙΟΣ · ΑΛΗΘΕΙΑ · ΔΙΟΝΥΣΟΣ ΟΡΦΙΚΟΙ`** (*"Life – Death – Life · Truth · Dionysus Orphics"*). This proves that nearly 150 years before the Derveni Papyrus, an organized community calling itself **Orphics** already taught a mystical creed in which physical death is followed by a renewed true Life.
 
-* **Physical Dating:** Written in crisp Ionic-Attic book-hand around **340–320 BCE**, the papyrus quotes an even older Orphic theogonic poem (likely 5th century BCE).
-* **Why It Changed Scholarship:** Prior to 1962, skeptics doubted whether genuine "Orphic" sacred books existed in Classical Greece or whether they were late Hellenistic inventions. The Derveni Papyrus proved that 5th–4th century BCE Greeks already treated Orphic hexameters as veiled sacred scripture (*hieroi logoi*) requiring allegorical priesthood commentary (*Columns I–VI* describe libations of milk and water and sacrificial cakes offered by initiates to appease restless souls).
+## 3. The 1962 Discovery of the Derveni Papyrus & Gold *Lamellae*
 
-## 3. Orphic Gold Funeral Tablets (*Lamellae*)
+In January 1962, road-workers at Derveni (northwest of Thessaloniki, Greece) uncovered lavish 4th-century BCE Macedonian burials. On the burned funeral pyre atop **Tomb A**, archaeologists found a partially carbonized papyrus scroll preserved by the very fire meant to consume it (`c. 340–320 BCE`), quoting a 5th-century BCE Orphic theogony alongside priestly libations of milk and water.
 
-Across southern Italy (Hipponion, Petelia, Thurii), Thessaly (Pelinna), and Crete, excavators have recovered wafer-thin beaten gold leaves buried directly on the chests, hands, or mouths of deceased initiates.
-
-1. **Topography of the Underworld:** The tablet warns the soul not to drink from the first spring beside the gleaming white cypress (Forgetfulness / *Lethe*).
-2. **The Ritual Password:** The initiate approaches the cool waters flowing from the Lake of **Memory (*Mnemosyne*)** and declares to the underworld guards: *"I am a child of Earth and starry Heaven, yet my race is heavenly."*
-3. **Shift Toward Personal Salvation:** Unlike Homeric *Iliad* or *Odyssey*, where dead heroes remain powerless shades, Orphic mystery discovery reveals an early Mediterranean shift toward **individual moral purity, initiatory brotherhood, and blessed afterlife expectation**.
+Paired with the **Orphic Gold Funeral Tablets (*lamellae*)** recovered in Calabria (Hipponion, 1969) and Thessaly (Pelinna, 1985), these discoveries reveal an archaic-to-classical Greek salvation liturgy guiding the soul past Forgetfulness (*Lethe*) to the spring of **Memory (*Mnemosyne*)**: *"I am a child of Earth and starry Heaven, yet my race is heavenly."*

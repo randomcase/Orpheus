@@ -1,9 +1,20 @@
 [
   {
     "id": "TR-01",
+    "work": "Delphi Sicyonian Treasury Metope Inscription",
+    "locus": "Delphi Archaeological Museum, Metope of the Argo",
+    "date_label": "c. 565–560 BCE",
+    "script_type": "polytonic_greek",
+    "original_text": "ΟΡΦΑΣ",
+    "literal_gloss": "Orphas (Archaic Doric spelling of Orpheus)",
+    "english_translation": "Orpheus",
+    "philological_notes": "Oldest surviving Greek inscription naming Orpheus—spelled 'ΟΡΦΑΣ' in Doric script beside an Argonaut holding a kithara."
+  },
+  {
+    "id": "TR-02",
     "work": "Ibycus, Fragment 306 (PMG)",
     "locus": "Quoted by Priscian, Inst. Gramm. 6.92",
-    "date_label": "c. 560 BCE",
+    "date_label": "c. 550–535 BCE",
     "script_type": "polytonic_greek",
     "original_text": "ὀνομάκλυτον Ὀρφήν",
     "literal_gloss": "name-renowned Orpheus",
@@ -11,7 +22,40 @@
     "philological_notes": "Earliest surviving literary mention of Orpheus in Greek poetry; preserves the rare Doric-Aeolic accusative 'Orphēn' rather than Attic 'Orphea'."
   },
   {
-    "id": "TR-02",
+    "id": "TR-03",
+    "work": "Simonides, Fragment 567 (PMG)",
+    "locus": "Quoted by Tzetzes, Chiliades 1.310",
+    "date_label": "c. 520–490 BCE",
+    "script_type": "polytonic_greek",
+    "original_text": "τοῦ καὶ ἀπειρέσιοι ποτῶντο ὄρνιθες ὑπὲρ κεφαλᾶς, ἀνὰ δ᾽ ἰχθύες ὀρθοὶ κυανέου ᾽ξ ὕδατος ἅλλοντο καλᾷ σὺν ἀοιδᾷ",
+    "literal_gloss": "of-him even countless flew birds above head, upward and fish straight from dark-blue water leaped fair with song",
+    "english_translation": "Above his head countless birds hovered in flight, and fish leaped straight up out of the dark-blue sea to his lovely song.",
+    "philological_notes": "First extant Greek verse depicting Orpheus's musical charm over birds and marine life; preserves Doric long-alpha endings ('kephalās', 'kalāi', 'aoidāi')."
+  },
+  {
+    "id": "TR-04",
+    "work": "Olbia Orphic Bone Tablet A",
+    "locus": "Olbia Pontica (OF 463 Bernabé)",
+    "date_label": "c. 500–475 BCE",
+    "script_type": "polytonic_greek",
+    "original_text": "Βίος θάνατος βίος · ἀλήθεια · Διόνυσος Ὀρφικοί",
+    "literal_gloss": "Life death life · truth · Dionysus Orphics",
+    "english_translation": "Life – Death – Life · Truth · Dionysus – Orphics",
+    "philological_notes": "Discovered in 1951 on the Black Sea coast; oldest epigraphic evidence uniting Dionysus, 'Orphikoi' initiates, and a cyclical 'Life -> Death -> Life' creed."
+  },
+  {
+    "id": "TR-05",
+    "work": "Pindar, Pythian Ode 4",
+    "locus": "Lines 176–177",
+    "date_label": "462 BCE",
+    "script_type": "polytonic_greek",
+    "original_text": "ἐξ Ἀπόλλωνος δὲ φορμιγκτὰς ἀοιδᾶν πατὴρ ἔμολεν, εὐαίνητος Ὀρφεύς",
+    "literal_gloss": "from Apollo and lyre-player of-songs father came, widely-praised Orpheus",
+    "english_translation": "And sent from Apollo came the lyre-player, father of songs, widely praised Orpheus.",
+    "philological_notes": "Crowns the Archaic lyric record: calls Orpheus 'aoidān patēr' ('father of songs') without mentioning Eurydice."
+  },
+  {
+    "id": "TR-06",
     "work": "Euripides, Alcestis",
     "locus": "Lines 357–359",
     "date_label": "438 BCE",
@@ -22,7 +66,7 @@
     "philological_notes": "Crucial pre-Roman witness: Admetus expects Orpheus's hymns to succeed without mentioning any backward-glance failure."
   },
   {
-    "id": "TR-03",
+    "id": "TR-07",
     "work": "Hipponion Orphic Gold Tablet",
     "locus": "Lines 10–11 (OF 474 Bernabé)",
     "date_label": "c. 400 BCE",
@@ -33,7 +77,7 @@
     "philological_notes": "Ritual password spoken by the initiate's soul to the underworld guardians of the cool spring of Memory (Mnemosyne)."
   },
   {
-    "id": "TR-04",
+    "id": "TR-08",
     "work": "Derveni Papyrus",
     "locus": "Column XVII / Orphic Hymn to Zeus",
     "date_label": "c. 340 BCE",
@@ -44,7 +88,7 @@
     "philological_notes": "Core line of the Orphic theogony quoted and allegorized into cosmic Mind (Nous) by the Derveni commentator."
   },
   {
-    "id": "TR-05",
+    "id": "TR-09",
     "work": "Orphic Hymn 1 (To Prothyraia / Prayer at Dawn)",
     "locus": "Proem / Liturgical Invocation",
     "date_label": "c. 2nd–3rd c. CE",
@@ -55,7 +99,7 @@
     "philological_notes": "Demonstrates direct liturgical instruction addressed by Orpheus to his initiate-disciple Musaeus."
   },
   {
-    "id": "TR-06",
+    "id": "TR-10",
     "work": "Clement of Alexandria, Protrepticus",
     "locus": "1.3 (The New Song)",
     "date_label": "c. 195 CE",
@@ -66,7 +110,7 @@
     "philological_notes": "Illustrates Koine/Patristic Greek pronunciation shift toward Byzantine iotacism (η/ι/υ -> /i/, ω/ο -> /o/) in Christian liturgical Greek."
   },
   {
-    "id": "TR-07",
+    "id": "TR-11",
     "work": "Virgil, Georgics IV",
     "locus": "Lines 485–491",
     "date_label": "29 BCE",
@@ -77,7 +121,7 @@
     "philological_notes": "Key Classical vs. Ecclesiastical phonetic markers: 'iam' (/jam/), 'veniebat' (/w/ vs. /v/), 'luce' (/k/ vs. /tʃ/), and the heartbreaking placement of 'respexit' (looked back) as the final word."
   },
   {
-    "id": "TR-08",
+    "id": "TR-12",
     "work": "Ovid, Metamorphoses X",
     "locus": "Lines 56–63",
     "date_label": "8 CE",
@@ -88,7 +132,7 @@
     "philological_notes": "Contrasts sharply with Virgil: 'metuens avidusque videndi' frames the glance as tender anxiety rather than madness."
   },
   {
-    "id": "TR-09",
+    "id": "TR-13",
     "work": "Boethius, Consolation of Philosophy",
     "locus": "Book III, Metrum 12.49–58",
     "date_label": "524 CE",
@@ -99,7 +143,7 @@
     "philological_notes": "The verb 'respicit' flips direction: in Virgil Orpheus looks back at Eurydice; in Boethius the moral fable 'looks at' the Christian reader."
   },
   {
-    "id": "TR-10",
+    "id": "TR-14",
     "work": "Ovidius Moralizatus / Scholastic Allegory Rubric",
     "locus": "Pierre Bersuire, Book X Gloss",
     "date_label": "c. 1340 CE",

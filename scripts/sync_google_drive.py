@@ -174,6 +174,19 @@ def build_sheet_rows() -> dict[str, list[list[str]]]:
     go = telemetry.get("go_engine", {})
     sb = telemetry.get("spring_boot", {})
     an = telemetry["corpus"]["analytics"]
+    bench = go.get("benchmarks") or {}
+    era_order = [
+        "Archaic_Greece",
+        "Classical_Greece",
+        "Hellenistic_Orphic",
+        "Augustan_Rome",
+        "Early_Christian_Patristic",
+        "Medieval_Catholic",
+        "Renaissance_Baroque",
+        "Enlightenment_Modern",
+        "Contemporary_To_2026",
+    ]
+    era_counts = an.get("era_counts") or {}
     tel_rows = [
         ["Metric", "Value", "Notes"],
         ["Generated_UTC", str(telemetry.get("generated_at", "")), "Automated Orpheus telemetry compiler"],
@@ -184,9 +197,17 @@ def build_sheet_rows() -> dict[str, list[list[str]]]:
         ["Anthropology_Motif_C331", str(an["anthropology_count"]), "Cross-cultural looking-back myths"],
         ["Societal_Revivals", str(an["revival_count"]), "1480 Poliziano to 2026 CE"],
         ["Go_Statement_Coverage_Pct", str(go.get("statements_pct")), "go test -coverprofile=coverage.out ./..."],
+        ["Go_Greek_Benchmark_ns_op", str(bench.get("greek_ns_per_op", "")), "BenchmarkTransliterateGreek"],
+        ["Go_Latin_Benchmark_ns_op", str(bench.get("latin_ns_per_op", "")), "BenchmarkTransliterateLatin"],
         ["Spring_Boot_JUnit_Total", str(sb.get("junit_total")), f"Failed: {sb.get('junit_failed')}"],
         ["Spring_Boot_JaCoCo_Line_Pct", str(sb.get("jacoco_line_pct")), "Gradle 8.14.2 + Java 21"],
     ]
+    for era in era_order:
+        if era in era_counts:
+            tel_rows.append([f"Era_{era}", str(era_counts[era]), "Chronological era stratum"])
+    for era, count in sorted(era_counts.items()):
+        if era not in era_order:
+            tel_rows.append([f"Era_{era}", str(count), "Chronological era stratum"])
 
     return {
         "01_Master_Timeline": timeline_rows,
