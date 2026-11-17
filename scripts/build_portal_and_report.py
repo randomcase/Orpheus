@@ -217,6 +217,7 @@ def render_markdown_report(telemetry: dict) -> str:
         "| Dataset | Records | Scope |",
         "| :--- | ---: | :--- |",
         f"| Timeline Milestones | {a['timeline_count']} | Archaic Greece (~565 BCE) to 2026 CE |",
+        f"| 104-Generation Dual-Atom Graph | {a.get('generation_count', 104)} | 25-year links (G-001..G-104) + 1894–1985 Time Capsules |",
         f"| Primary Passages (Go-Transliterated) | {a['transliteration_count']} | ISO 843, ALA-LC, Attic IPA, Byzantine, Classical/Ecclesiastical Latin |",
         f"| Liturgical & Catholic Narratives | {a['liturgical_count']} | Gold Lamellae, Catacombs, Clement, Boethius, *Ovide moralisé*, *Sir Orfeo* |",
         f"| Anthropology (Motif C331) | {a['anthropology_count']} | Thrace, Japan, Levant, North America (Hultkrantz), Polynesia |",
@@ -302,6 +303,7 @@ def main() -> int:
     print(
         f"OK: Generated telemetry report + site/corpus-bundle.js "
         f"({enriched['analytics']['timeline_count']} timeline, "
+        f"{enriched['analytics'].get('generation_count', 0)} generations, "
         f"{enriched['analytics']['transliteration_count']} passages, "
         f"{len(monographs)} monographs)."
     )

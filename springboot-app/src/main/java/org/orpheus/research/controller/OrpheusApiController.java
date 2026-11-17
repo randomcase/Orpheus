@@ -16,6 +16,7 @@ import org.orpheus.research.model.PassageEntity;
 import org.orpheus.research.model.SocietalRevivalEntity;
 import org.orpheus.research.model.TimelineMilestoneEntity;
 import org.orpheus.research.repo.AnthropologyRepository;
+import org.orpheus.research.repo.GenerationLineageRepository;
 import org.orpheus.research.repo.LiturgicalNarrativeRepository;
 import org.orpheus.research.repo.PassageRepository;
 import org.orpheus.research.repo.SocietalRevivalRepository;
@@ -40,6 +41,7 @@ public class OrpheusApiController {
     private final LiturgicalNarrativeRepository liturgicalRepo;
     private final AnthropologyRepository anthropologyRepo;
     private final SocietalRevivalRepository revivalRepo;
+    private final GenerationLineageRepository lineageRepo;
     private final GoEngineBridgeService goBridge;
     private final ObjectMapper objectMapper;
     private final Path researchDir;
@@ -52,6 +54,7 @@ public class OrpheusApiController {
             LiturgicalNarrativeRepository liturgicalRepo,
             AnthropologyRepository anthropologyRepo,
             SocietalRevivalRepository revivalRepo,
+            GenerationLineageRepository lineageRepo,
             GoEngineBridgeService goBridge,
             ObjectMapper objectMapper,
             @Value("${orpheus.research-dir:../research}") String researchDir,
@@ -62,6 +65,7 @@ public class OrpheusApiController {
         this.liturgicalRepo = liturgicalRepo;
         this.anthropologyRepo = anthropologyRepo;
         this.revivalRepo = revivalRepo;
+        this.lineageRepo = lineageRepo;
         this.goBridge = goBridge;
         this.objectMapper = objectMapper;
         this.researchDir = CorpusDatabaseSeeder.resolveDir(researchDir, "research");
@@ -78,6 +82,7 @@ public class OrpheusApiController {
         counts.put("catholic_liturgical", liturgicalRepo.count());
         counts.put("anthropology", anthropologyRepo.count());
         counts.put("societal_revivals", revivalRepo.count());
+        counts.put("generations", lineageRepo.count());
 
         Map<String, Object> out = new LinkedHashMap<>();
         out.put("project", "Orpheus (600 BCE – 2026 CE)");
@@ -138,6 +143,22 @@ public class OrpheusApiController {
         int steps = req != null && req.get("steps") != null ? req.get("steps") : 12;
         int lookBack = req != null && req.get("look_back_step") != null ? req.get("look_back_step") : 11;
         return goBridge.runKatabasis(steps, lookBack);
+    }
+
+    @GetMapping("/lineage")
+    public List<Map<String, Object>> lineage() {
+        return goBridge.getLineage104();
+    }
+
+    @PostMapping("/lineage/sever")
+    public Map<String, Object> severLineage(@RequestBody(required = false) Map<String, Object> req) {
+        return goBridge.runLineageSeverance(req);
+    }
+
+    @PostMapping("/rpg/run")
+    public Map<String, Object> runRpg(@RequestBody(required = false) Map<String, String> req) {
+        String doctrine = req != null ? req.get("doctrine") : null;
+        return goBridge.runRpgCampaign(doctrine);
     }
 
     @GetMapping("/monographs")

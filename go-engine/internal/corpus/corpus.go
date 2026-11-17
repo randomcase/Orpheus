@@ -8,6 +8,7 @@ import (
 	"path/filepath"
 	"sort"
 
+	"github.com/randomcase/orpheus/go-engine/internal/lineage"
 	"github.com/randomcase/orpheus/go-engine/internal/translit"
 )
 
@@ -73,22 +74,24 @@ type Analytics struct {
 	TimelineCount       int            `json:"timeline_count"`
 	TransliterationCount int           `json:"transliteration_count"`
 	LiturgicalCount     int            `json:"liturgical_count"`
-	AnthropologyCount   int            `json:"anthropology_count"`
-	RevivalCount        int            `json:"revival_count"`
-	SpanYears           int            `json:"span_years"`
-	EarliestYear        int            `json:"earliest_year"`
-	LatestYear          int            `json:"latest_year"`
-	EraCounts           map[string]int `json:"era_counts"`
-	TraditionCounts     map[string]int `json:"tradition_counts"`
+	AnthropologyCount    int            `json:"anthropology_count"`
+	RevivalCount         int            `json:"revival_count"`
+	GenerationCount      int            `json:"generation_count"`
+	SpanYears            int            `json:"span_years"`
+	EarliestYear         int            `json:"earliest_year"`
+	LatestYear           int            `json:"latest_year"`
+	EraCounts            map[string]int `json:"era_counts"`
+	TraditionCounts      map[string]int `json:"tradition_counts"`
 }
 
 type Bundle struct {
-	Timeline        []TimelineEntry           `json:"timeline"`
-	Transliterations []TransliterationEntry   `json:"transliterations"`
-	Liturgical      []LiturgicalCatholicEntry `json:"liturgical_and_catholic"`
-	Anthropology    []AnthropologyEntry       `json:"anthropology_motif_c331"`
-	Revivals        []SocietalRevivalEntry    `json:"societal_revivals"`
-	Analytics       Analytics                 `json:"analytics"`
+	Timeline         []TimelineEntry           `json:"timeline"`
+	Transliterations []TransliterationEntry    `json:"transliterations"`
+	Liturgical       []LiturgicalCatholicEntry `json:"liturgical_and_catholic"`
+	Anthropology     []AnthropologyEntry       `json:"anthropology_motif_c331"`
+	Revivals         []SocietalRevivalEntry    `json:"societal_revivals"`
+	Lineage          []lineage.GenerationNode  `json:"lineage_104"`
+	Analytics        Analytics                 `json:"analytics"`
 }
 
 func readJSON[T any](path string) ([]T, error) {
@@ -126,6 +129,10 @@ func Load(dataDir string) (*Bundle, error) {
 	if err != nil {
 		return nil, err
 	}
+	lin, err := readJSON[lineage.GenerationNode](filepath.Join(dataDir, "06_generational_lineage_104.json"))
+	if err != nil {
+		return nil, err
+	}
 
 	sort.Slice(tl, func(i, j int) bool { return tl[i].Year < tl[j].Year })
 	sort.Slice(rv, func(i, j int) bool { return rv[i].Year < rv[j].Year })
@@ -141,6 +148,7 @@ func Load(dataDir string) (*Bundle, error) {
 		Liturgical:       lc,
 		Anthropology:     an,
 		Revivals:         rv,
+		Lineage:          lin,
 	}
 	if err := Validate(b); err != nil {
 		return nil, err
@@ -165,6 +173,9 @@ func Validate(b *Bundle) error {
 	}
 	if len(b.Revivals) < 10 {
 		return fmt.Errorf("societal revivals require >= 10 entries, got %d", len(b.Revivals))
+	}
+	if err := lineage.Validate(b.Lineage); err != nil {
+		return fmt.Errorf("lineage validation: %w", err)
 	}
 	for _, item := range b.Timeline {
 		if item.ID == "" || item.Title == "" || item.Era == "" {
@@ -202,6 +213,7 @@ func ComputeAnalytics(b *Bundle) Analytics {
 		LiturgicalCount:      len(b.Liturgical),
 		AnthropologyCount:    len(b.Anthropology),
 		RevivalCount:         len(b.Revivals),
+		GenerationCount:      len(b.Lineage),
 		SpanYears:            latest - earliest,
 		EarliestYear:         earliest,
 		LatestYear:           latest,

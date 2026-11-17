@@ -32,13 +32,16 @@
         <p class="hero-sub">Archaeological discoveries, multi-system Greek &amp; Latin transliterations, Catholic &amp; liturgical narratives, global anthropology (Motif C331), and societal revivals.</p>
       </div>
       <div class="control-row">
-        <button type="button" class="btn btn-primary" data-goto="katabasis">Launch Go Katabasis</button>
+        <button type="button" class="btn btn-primary" data-goto="rpg">Play Orpheus RPG</button>
+        <button type="button" class="btn" data-goto="lineage">104-Gen Atomizer</button>
+        <button type="button" class="btn" data-goto="katabasis">Go Katabasis</button>
         <button type="button" class="btn" data-goto="transliteration">Transliterate Live</button>
       </div>
     </header>
 
     <section class="stats-strip" aria-label="Corpus Summary">
       <div class="stat-box"><div class="stat-label">Timeline Milestones</div><div id="stat-timeline" class="stat-val">0</div></div>
+      <div class="stat-box"><div class="stat-label">Human Generations</div><div id="stat-generations" class="stat-val">104</div></div>
       <div class="stat-box"><div class="stat-label">Primary Passages</div><div id="stat-passages" class="stat-val">0</div></div>
       <div class="stat-box"><div class="stat-label">Liturgical / Catholic</div><div id="stat-liturgical" class="stat-val">0</div></div>
       <div class="stat-box"><div class="stat-label">Motif C331 Cultures</div><div id="stat-anthro" class="stat-val">0</div></div>
@@ -47,6 +50,8 @@
 
     <nav class="nav-tabs" role="tablist" aria-label="Research Sections">
       <button type="button" class="nav-tab is-active" data-tab="timeline">Timeline &amp; Discovery</button>
+      <button type="button" class="nav-tab" data-tab="rpg">Orpheus Auto-RPG</button>
+      <button type="button" class="nav-tab" data-tab="lineage">104-Gen Atomizer</button>
       <button type="button" class="nav-tab" data-tab="transliteration">Transliteration Lab</button>
       <button type="button" class="nav-tab" data-tab="catholic-liturgy">Liturgy &amp; Catholic Canon</button>
       <button type="button" class="nav-tab" data-tab="anthropology">Anthropology (C331)</button>
@@ -76,6 +81,55 @@
         </div>
       </div>
       <div id="timeline-grid" class="cards-grid"></div>
+    </section>
+
+    <!-- 1B. 104-GENERATION ATOMIZER & DAG SEVERANCE -->
+    <section id="panel-lineage" class="panel">
+      <div class="control-card">
+        <div class="control-row" style="justify-content:space-between;margin-bottom:0.7rem;">
+          <div>
+            <strong style="color:var(--amber);">104-Generation Dual-Atom Graph (565 BCE – 2026 CE · ~25 Years per Person)</strong>
+            <div style="font-size:0.84rem;color:var(--text-muted);margin-top:0.2rem;">
+              Inspect all 104 human links in the chain, verify when Eurydice (G-019) &amp; Virgil's backward glance (G-022) first enter, or sever conduits to test counterfactual survival to Person #104.
+            </div>
+          </div>
+          <button type="button" id="lineage-reset-btn" class="btn btn-subtle">Reset All 104 Links</button>
+        </div>
+
+        <div class="control-row" style="margin-bottom:0.75rem;">
+          <button type="button" class="btn btn-primary" data-lineage-preset="intact">Intact 104-Link Chain</button>
+          <button type="button" class="btn" data-lineage-preset="virgil">Drop Virgil (G-022)</button>
+          <button type="button" class="btn" data-lineage-preset="latin">Sever Western Monasteries</button>
+          <button type="button" class="btn" data-lineage-preset="capsules">Burn Living MSS · Capsules Only</button>
+          <button type="button" class="btn btn-subtle" data-lineage-preset="extinction">Total Extinction</button>
+        </div>
+
+        <div class="control-row" style="font-size:0.84rem;color:var(--text-muted);">
+          <label class="lineage-check"><input id="toggle-sever-latin" type="checkbox" /> Sever Western Monasteries (<code>latin_monastic</code>)</label>
+          <label class="lineage-check"><input id="toggle-sever-greek" type="checkbox" /> Sever Greek &amp; Byzantine (<code>greek_byzantine</code>)</label>
+          <label class="lineage-check"><input id="toggle-disable-capsules" type="checkbox" /> Disable Time-Capsule Excavations (1894–1985)</label>
+        </div>
+      </div>
+
+      <div id="lineage-outcome-banner" style="margin-bottom:1.15rem;"></div>
+
+      <div class="lineage-workspace">
+        <div class="control-card" style="margin-bottom:0;">
+          <div class="card-head" style="margin-bottom:0.75rem;">
+            <span class="id-tag">G-001 to G-104 Room</span>
+            <div class="lineage-legend">
+              <span class="pill stream-dot-hellenic_archaic">Archaic/Greek</span>
+              <span class="pill stream-dot-latin_monastic">Latin Monastic</span>
+              <span class="pill stream-dot-greek_byzantine">Byzantine</span>
+              <span class="pill stream-dot-vernacular_stage">Stage/Print</span>
+              <span class="pill">&#9670; Time Capsule</span>
+            </div>
+          </div>
+          <div id="lineage-grid" class="lineage-mosaic"></div>
+        </div>
+
+        <aside id="lineage-inspector" class="card" aria-live="polite"></aside>
+      </div>
     </section>
 
     <!-- 2. TRANSLITERATION LAB -->
@@ -112,10 +166,11 @@
       </div>
       <div id="liturgical-grid" class="cards-grid" style="margin-bottom:1.5rem;"></div>
       <div class="control-card">
-        <div class="control-row" style="justify-content:space-between;margin-bottom:0.85rem;">
+        <div class="control-row" style="justify-content:space-between;margin-bottom:0.75rem;">
           <h2 style="margin:0;font-size:1.1rem;color:var(--amber);">Scholarly Research Monographs</h2>
           <select id="monograph-select"></select>
         </div>
+        <div id="monograph-pills" class="monograph-pills"></div>
         <div id="monograph-reader" class="prose-box"></div>
       </div>
     </section>
@@ -148,6 +203,86 @@
       </div>
     </section>
 
+    <!-- 6B. ANIMATED AUTOMATED ORPHEUS RPG -->
+    <section id="panel-rpg" class="panel">
+      <div class="control-card">
+        <div class="control-row" style="justify-content:space-between;margin-bottom:0.75rem;">
+          <div>
+            <strong style="color:var(--amber);">Orpheus: 7-Act Animated Auto-RPG (Go 1.26 + HTML5 Canvas + Web Audio Lyre)</strong>
+            <div style="font-size:0.84rem;color:var(--text-muted);margin-top:0.2rem;">
+              Watch Orpheus automatically play from the Argo (565 BCE) to Constellation Lyra (2026 CE), strum ancient modal hymns live, or take control at Step 11/12.
+            </div>
+          </div>
+          <div class="control-row">
+            <button type="button" id="rpg-audio-btn" class="btn btn-subtle">Lyre Audio: OFF</button>
+          </div>
+        </div>
+
+        <div class="control-row" style="margin-bottom:0.8rem;">
+          <label>Doctrine:
+            <select id="rpg-doctrine-select">
+              <option value="canonical_tragic">Canonical Tragic (Virgil &amp; Ovid)</option>
+              <option value="archaic_redemptive">Archaic Redemptive (Euripides &amp; Sir Orfeo)</option>
+              <option value="consensual_memory">Consensual Memory (Sciamma 2019)</option>
+              <option value="manual_choice">Interactive Fate (Pause at Step 11/12)</option>
+            </select>
+          </label>
+          <button type="button" id="rpg-play-btn" class="btn btn-primary">Pause Quest</button>
+          <button type="button" id="rpg-step-btn" class="btn">Step Turn</button>
+          <button type="button" id="rpg-restart-btn" class="btn btn-subtle">Restart</button>
+          <label>Speed:
+            <select id="rpg-speed-select">
+              <option value="1">1x</option>
+              <option value="2">2x</option>
+              <option value="4">4x</option>
+            </select>
+          </label>
+          <label class="lineage-check"><input id="rpg-loop-checkbox" type="checkbox" checked /> Auto-Loop</label>
+        </div>
+
+        <div id="rpg-act-stepper" class="rpg-act-stepper"></div>
+      </div>
+
+      <div class="rpg-stage-wrap">
+        <canvas id="rpg-canvas" width="920" height="420"></canvas>
+      </div>
+
+      <div id="rpg-choice-banner" class="rpg-choice-banner" style="display:none;">
+        <div>
+          <strong style="color:var(--amber);">MOTIF C331 THRESHOLD CRISIS (STEP 11/12):</strong>
+          <span style="font-size:0.88rem;color:var(--text-muted);">Daylight shines three paces ahead, yet Eurydice's footsteps fall silent behind you. Do you turn around?</span>
+        </div>
+        <div class="control-row">
+          <button type="button" id="rpg-choice-faithful" class="btn btn-primary">Keep Eyes Ahead (Faithful Ascent)</button>
+          <button type="button" id="rpg-choice-lookback" class="btn">Look Back at Eurydice (Respexit)</button>
+        </div>
+      </div>
+
+      <div class="control-card" style="margin-bottom:1.15rem;">
+        <div class="control-row" style="justify-content:space-between;">
+          <span style="font-size:0.85rem;color:var(--text-muted);"><strong style="color:var(--amber);">Interactive Kithara Hymns:</strong> Cast any modal chord live to sculpt scene energy &amp; stats:</span>
+          <div class="control-row">
+            <button type="button" class="btn" data-rpg-hymn="dorian">Dorian Sea-Calm</button>
+            <button type="button" class="btn" data-rpg-hymn="aeolian">Aeolian Nature-Charm</button>
+            <button type="button" class="btn" data-rpg-hymn="phrygian">Phrygian Lament</button>
+            <button type="button" class="btn" data-rpg-hymn="mnemosyne">Hymn of Mnemosyne (-Pothos)</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="rpg-hud-grid">
+        <article id="rpg-character-sheet" class="card"></article>
+        <div class="card">
+          <div class="card-head">
+            <span class="id-tag">Battle &amp; Verse Log</span>
+            <span class="pill">Autonomous Director</span>
+          </div>
+          <h3>Hero Chronicle</h3>
+          <div id="rpg-log-feed" class="rpg-log-feed"></div>
+        </div>
+      </div>
+    </section>
+
     <!-- 7. TELEMETRY & GOOGLE DRIVE SUITE -->
     <section id="panel-telemetry" class="panel">
       <div id="telemetry-cards" class="cards-grid" style="margin-bottom:1.4rem;"></div>
@@ -159,6 +294,7 @@
   </div>
 
   <script src="./corpus-bundle.js"></script>
+  <script src="./orpheus-rpg.js"></script>
   <script src="./app.js"></script>
 </body>
 </html>

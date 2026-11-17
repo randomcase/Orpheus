@@ -55,4 +55,39 @@ func TestServerEndpoints(t *testing.T) {
 	if !bytes.Contains(rec.Body.Bytes(), []byte("RELAPSA_INTO_AVERNO")) {
 		t.Fatalf("expected RELAPSA_INTO_AVERNO in %s", rec.Body.String())
 	}
+
+	// Lineage 104 generations
+	req = httptest.NewRequest(http.MethodGet, "/api/go/lineage", nil)
+	rec = httptest.NewRecorder()
+	h.ServeHTTP(rec, req)
+	if rec.Code != http.StatusOK {
+		t.Fatalf("lineage status = %d", rec.Code)
+	}
+	if !bytes.Contains(rec.Body.Bytes(), []byte(`"G-104"`)) {
+		t.Fatalf("expected G-104 in lineage response")
+	}
+
+	// Lineage Severance counterfactual (Drop Virgil G-022)
+	body = bytes.NewBufferString(`{"severed_ids":["G-022"]}`)
+	req = httptest.NewRequest(http.MethodPost, "/api/go/lineage/sever", body)
+	rec = httptest.NewRecorder()
+	h.ServeHTTP(rec, req)
+	if rec.Code != http.StatusOK {
+		t.Fatalf("lineage sever status = %d", rec.Code)
+	}
+	if !bytes.Contains(rec.Body.Bytes(), []byte(`"taboo_c331_glance"`)) {
+		t.Fatalf("expected taboo_c331_glance in %s", rec.Body.String())
+	}
+
+	// Automated RPG campaign endpoint
+	body = bytes.NewBufferString(`{"doctrine":"archaic_redemptive"}`)
+	req = httptest.NewRequest(http.MethodPost, "/api/go/rpg/run", body)
+	rec = httptest.NewRecorder()
+	h.ServeHTTP(rec, req)
+	if rec.Code != http.StatusOK {
+		t.Fatalf("rpg run status = %d", rec.Code)
+	}
+	if !bytes.Contains(rec.Body.Bytes(), []byte(`"REUNITED_IN_SUNLIGHT"`)) {
+		t.Fatalf("expected REUNITED_IN_SUNLIGHT in %s", rec.Body.String())
+	}
 }

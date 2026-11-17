@@ -192,6 +192,7 @@ def build_sheet_rows() -> dict[str, list[list[str]]]:
         ["Generated_UTC", str(telemetry.get("generated_at", "")), "Automated Orpheus telemetry compiler"],
         ["Chronological_Span", f"{abs(an['earliest_year'])} BCE - {an['latest_year']} CE", f"{an['span_years']} years"],
         ["Timeline_Count", str(an["timeline_count"]), "Archaic Greece through 2026 CE"],
+        ["Generations_104", str(an.get("generation_count", 104)), "Full 25-year generational relay (G-001..G-104)"],
         ["Transliteration_Passages", str(an["transliteration_count"]), "Enriched via Go 1.26 translit package"],
         ["Catholic_Liturgical_Records", str(an["liturgical_count"]), "Gold Lamellae through Medieval Catholic exegesis"],
         ["Anthropology_Motif_C331", str(an["anthropology_count"]), "Cross-cultural looking-back myths"],
@@ -209,6 +210,26 @@ def build_sheet_rows() -> dict[str, list[list[str]]]:
         if era not in era_order:
             tel_rows.append([f"Era_{era}", str(count), "Chronological era stratum"])
 
+    lineage_rows = [[
+        "ID", "Gen", "Span", "Era", "Role", "Stream", "Custodian_Or_Witness",
+        "Parents", "Capsule_Parents", "Mythemes_Summary",
+        "Substrate", "Language_Gate", "Redundancy", "Lost_Siblings",
+    ]]
+    for n in bundle.get("lineage_104", []):
+        car = n.get("carrier") or {}
+        mythemes = n.get("mythemes") or {}
+        my_summary = " ".join(f"{k}:{mythemes.get(k, 0)}" for k in (
+            "threshold_voice", "argonaut_voyage", "mystery_passport", "katabasis_descent",
+            "named_eurydice", "taboo_c331_glance", "sparagmos_head_oracle", "redemptive_return"
+        ))
+        lineage_rows.append([
+            n["id"], str(n["gen_number"]), n["display_span"], n["era"], n["role"], n["primary_stream"],
+            n["custodian_or_witness"], ", ".join(n.get("upstream_ids") or []),
+            ", ".join(n.get("capsule_upstream_ids") or []), my_summary,
+            car.get("substrate", ""), car.get("language_gate", ""),
+            car.get("redundancy_tier", ""), car.get("lost_siblings", ""),
+        ])
+
     return {
         "01_Master_Timeline": timeline_rows,
         "02_Transliterations": translit_rows,
@@ -216,6 +237,7 @@ def build_sheet_rows() -> dict[str, list[list[str]]]:
         "04_Anthropology_Motif_C331": anthro_rows,
         "05_Societal_Revivals": rev_rows,
         "06_CI_Telemetry": tel_rows,
+        "07_104_Generations": lineage_rows,
     }
 
 
@@ -255,7 +277,7 @@ def sync_master_sheet(cfg: dict, folder_id: str) -> None:
     sheets_meta = json.loads(run_cli(["gsheets", "readonly", "list-sheets", sheet_id, "--json"]).stdout)
     batch_ops = []
     for tab_name, rows in tabs_data.items():
-        batch_ops.append({"op": "clear", "range": f"{tab_name}!A1:Z200"})
+        batch_ops.append({"op": "clear", "range": f"{tab_name}!A1:Z250"})
         batch_ops.append({"op": "write", "range": f"{tab_name}!A1", "data": rows})
 
     tmp = None
@@ -287,7 +309,7 @@ def sync_master_sheet(cfg: dict, folder_id: str) -> None:
             "--bold", "--bg-color", "#1E1A15", "--fg-color", "#EBCC92", "--wrap",
         ])
         run_cli(["gsheets", "mutate", "freeze", sheet_id, "--sheet-id", str(sid), "--rows", "1"])
-    print("  Populated & formatted all 6 tabs in Master Sheet.")
+    print(f"  Populated & formatted all {len(tabs_data)} tabs in Master Sheet.")
 
 
 def sync_monograph_doc(cfg: dict, folder_id: str) -> None:
@@ -299,6 +321,7 @@ def sync_monograph_doc(cfg: dict, folder_id: str) -> None:
         ("catholic", "III. Liturgical & Catholic Canon", "research/03_liturgical_and_catholic_narratives.md"),
         ("revivals", "IV. Societal Shifts & Revivals", "research/04_cultural_shifts_and_revivals_to_2026.md"),
         ("anthropology", "V. Anthropology (Motif C331)", "research/05_anthropological_studies_motif_c331.md"),
+        ("lineage_104", "VI. Atomizing 104 Generations", "research/06_atomizing_104_generations.md"),
     ]
 
     if not doc_id:
@@ -325,7 +348,25 @@ def sync_monograph_doc(cfg: dict, folder_id: str) -> None:
             if not tid:
                 raise RuntimeError(f"Could not resolve tab ID for '{title}' from {tabs_list2}")
             doc_cfg["tabs"][key] = {"id": tid, "title": title, "file": rel_file}
-        print(f"Created 5-Tab Monograph Google Doc: {doc_cfg['url']}")
+        print(f"Created 6-Tab Monograph Google Doc: {doc_cfg['url']}")
+    else:
+        missing_specs = [spec for spec in tab_specs if not (doc_cfg["tabs"].get(spec[0]) or {}).get("id")]
+        if missing_specs:
+            tabs_raw = run_cli(["gdocs", "readonly", "list-tabs", doc_id, "--json"]).stdout
+            tabs_parsed = json.loads(tabs_raw)
+            tabs_list = tabs_parsed.get("tabs", tabs_parsed) if isinstance(tabs_parsed, dict) else tabs_parsed
+            by_title = {str(t.get("title")): (t.get("tabId") or t.get("id")) for t in tabs_list if isinstance(t, dict)}
+            for key, title, rel_file in missing_specs:
+                if title not in by_title:
+                    run_cli(["gdocs", "mutate", "create-tab", doc_id, "--title", title])
+            tabs_parsed2 = json.loads(run_cli(["gdocs", "readonly", "list-tabs", doc_id, "--json"]).stdout)
+            tabs_list2 = tabs_parsed2.get("tabs", tabs_parsed2) if isinstance(tabs_parsed2, dict) else tabs_parsed2
+            by_title2 = {str(t.get("title")): (t.get("tabId") or t.get("id")) for t in tabs_list2 if isinstance(t, dict)}
+            for key, title, rel_file in missing_specs:
+                tid = by_title2.get(title)
+                if not tid:
+                    raise RuntimeError(f"Could not resolve tab ID for '{title}' from {tabs_list2}")
+                doc_cfg["tabs"][key] = {"id": tid, "title": title, "file": rel_file}
 
     for key, title, rel_file in tab_specs:
         tid = doc_cfg["tabs"][key]["id"]
@@ -333,7 +374,7 @@ def sync_monograph_doc(cfg: dict, folder_id: str) -> None:
             "gdocs", "mutate", "import-md", str(ROOT / rel_file),
             "--update", doc_id, "--tab", tid, "--auto-fit-tables",
         ])
-    print("  Imported all 5 Markdown monographs into Google Doc tabs.")
+    print("  Imported all 6 Markdown monographs into Google Doc tabs.")
 
 
 def sync_timelapse_slides(cfg: dict, folder_id: str) -> None:

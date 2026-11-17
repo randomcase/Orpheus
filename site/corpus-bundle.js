@@ -74,6 +74,11 @@ window.ORPHEUS_BUNDLE = {
             "id": "t.y92rwkny32sv",
             "title": "V. Anthropology (Motif C331)",
             "file": "research/05_anthropological_studies_motif_c331.md"
+          },
+          "lineage_104": {
+            "id": "t.9tt21eh0pjp3",
+            "title": "VI. Atomizing 104 Generations",
+            "file": "research/06_atomizing_104_generations.md"
           }
         }
       },
@@ -116,10 +121,14 @@ window.ORPHEUS_BUNDLE = {
     {
       "filename": "05_anthropological_studies_motif_c331.md",
       "markdown": "# Anthropological Studies & Global Folklore Motif C331 (*Tabu: Looking Back*)\n\n## 1. Shamanic Origins: Eliade, Meuli, & Dodds\n\nTwentieth-century anthropologists and classicists noticed that Greek Orpheus carries hallmarks far older than urban Athens—traits shared directly with **Eurasian and circumpolar shamanism**:\n* **Psychopomp & Soul-Retrieval:** Mircea Eliade (*Shamanism: Archaic Techniques of Ecstasy*) and E.R. Dodds (*The Greeks and the Irrational*) highlighted that Thrace bordered Scythian and northern steppe cultures whose shamans entered ecstatic song-trances to rescue stolen or wandering souls from the spirit realm.\n* **The Singing Severed Head:** Oracles spoken by preserved heads appear in Norse (*Mímir*), Celtic (*Brân the Blessed*), and Eurasian shamanic traditions, suggesting the Lesbos head-oracle reflects an archaic stratum of mantic practice overlaid onto Greek hero-myth.\n\n## 2. Comparative Matrix: The Worldwide \"Orpheus\" & Looking-Back Taboo (*Motif C331*)\n\nIn Stith Thompson's *Motif-Index of Folk-Literature*, **C331 (*Tabu: Looking Back*)** spans continents without requiring Greek literary contact:\n\n| Region & Culture | Myth / Text | Central Figures | Exact Taboo Mechanism | Outcome & Cultural Function |\n| :--- | :--- | :--- | :--- | :--- |\n| **Japan (Shinto)** | *Kojiki* (712 CE) | Izanagi & Izanami | Do not illuminate or look upon Izanami in Yomi while she petitions to return | Izanagi breaks the taboo with a lit comb tooth, sees decay, and flees—establishing permanent mortality and purity rituals |\n| **Ancient Levant** | Genesis 19:17–26 | Lot's Wife | \"Do not look behind you\" while fleeing judgment on Sodom | Turns into a pillar of salt—marking absolute separation from an old doomed life |\n| **North America (Yokuts & ~130 Tribes)** | Indigenous \"Orpheus Tradition\" (Åke Hultkrantz, 1957) | Mourning Husband & Wife in Ghost Land | Carry the spirit back across the sky/river bridge without looking, touching, or opening the bundle for 4 nights | Breaking the taboo just before home returns the spouse to the spirit village—ritually helping communities accept bereavement |\n| **North America (Cherokee)** | *The Daughter of the Sun* (Mooney, 1900) | Seven Messengers | Transport the Sun's daughter home inside a sealed box without lifting the lid | Cracking the lid lets a redbird escape—explaining death's irreversibility and the cardinal's plumage |\n| **Hawai'i (Polynesia)** | *Hiku and Kawelu* (Beckwith, 1940) | Hiku & Kawelu | Capture the butterfly-soul in a coconut shell and restore it through the feet without premature unsealing | **Succeeds**—honoring strict containment restores life |\n| **Aotearoa (Māori)** | *Mataora & Niwareka* | Mataora & Niwareka | Descend to Rarohenga, repent of domestic cruelty, learn *tā moko* (tattooing), obey farewell customs | **Succeeds**—underworld descent functions as ethical transformation and transmission of sacred art |\n\n## 3. Why Åke Hultkrantz's 1957 Study Matters\n\nSwedish anthropologist **Åke Hultkrantz** (*The North American Indian Orpheus Tradition*, 1957) cataloged over **130 Native North American variants**—from California Yokuts and Pacific Northwest Coast peoples to Cherokee, Huron-Wendat, and Blackfoot narratives—proving that the Orpheus structure cannot be explained simply by European contact. Rather, whenever human communities face the shock of sudden bereavement, **dream-visions, funerary containment taboos, and grief counseling converge on the same narrative grammar**: love can journey all the way to death's door, yet crossing back across the threshold demands a trust that mortal anxiety rarely survives unscathed.\n"
+    },
+    {
+      "filename": "06_atomizing_104_generations.md",
+      "markdown": "# Atomizing a Story Told Across 104 Human Generations (565 BCE–2026 CE)\n\n## 1. The 104-Person Room\n\nBetween the carved limestone metope of **`ΟΡΦΑΣ`** at Delphi (`c. 565 BCE`) and modern retellings in **`2026 CE`** lie **`2,591` years**. Measured at **`25` years per generational hand-off**, that span is not an eternity—it is an exact chain of **`104` human generations** (`G-001` through `G-104`).\n\nPicture all `104` generations standing shoulder-to-shoulder passing a live story hand-to-hand:\n\n| Generational Window | Dates | Composition of the Relay | What Happens to the Story |\n| :--- | :--- | :--- | :--- |\n| **`G-001` to `G-021`** | `565 BCE` – `41 BCE` | Hellenic Archaic & Hellenistic chain | Orpheus is an **Argonaut, cosmologist, and underworld initiate**. Eurydice is unnamed until `G-019`, and **nobody has heard Virgil's backward glance**. |\n| **`G-022` to `G-081`** | `40 BCE` – `1459 CE` | Parallel Western (`latin_monastic`) & Eastern (`greek_byzantine`) branches | Two redundant survival channels emerge: Western Latin monks preserve **Eurydice's tragic look-back**, while Byzantine codices preserve **Greek Hymns & Patristic Logos** theology. |\n| **`G-082` to `G-098`** | `1460 CE` – `1884 CE` | Vernacular & print confluence | Émigré Byzantine Greek codices merge with Latin monastic Virgil/Ovid in Florence (`1462–1480`), exploding into **print editions and modern opera**. |\n| **`G-099` to `G-104`** | `1885 CE` – `2026 CE` | Global stage + archaeological **Time-Capsule Tunneling** | Excavations at Delphi (`1894`), Olbia (`1951`), Derveni (`1962`), and Hipponion (`1969`) jump straight across **~90 generations** to `2026 CE`. |\n\n## 2. The Dual-Atom Schema\n\nA continuous 2,591-year story solves a **Ship-of-Theseus paradox** only when decomposed into two coupled atoms at every 25-year link:\n\n1. **The Narrative Atom (Tri-State Mytheme Vector):** Only **one** invariant nucleus (`threshold_voice` — music bending boundaries) holds polarity `+1` in every generation from `565 BCE` to `2026 CE`. Seven orbital mythemes carry **tri-state polarity** (`+1` asserted, `0` uninvented/absent, `-1` deliberately subverted): `argonaut_voyage`, `mystery_passport`, `katabasis_descent`, `named_eurydice`, `taboo_c331_glance`, `sparagmos_head_oracle`, and `redemptive_return`.\n2. **The Physical Carrier Atom (Survival Bottleneck):** Across `~70` \"silent custodian\" generations between famous poets, survival depended on **substrate durability** (`stone/gold` vs. `papyrus` vs. `parchment`), **copy redundancy**, and surviving **linguistic scripts** (Archaic Doric -> Attic -> Koine -> Byzantine Minuscule / Latin Uncial -> Modern Print & Unicode).\n\n## 3. Dual-Stream Fault Tolerance & Deep-Time Rescue\n\nBecause Orpheus travels along **two living medieval branches** (`latin_monastic` and `greek_byzantine`) plus **four buried time capsules** (`G-001` Delphi stone, `G-004` Olbia bone, `G-007` Hipponion gold, `G-010` Derveni carbonized papyrus), breaking a single branch alters *which* Orpheus reaches `G-104` in `2026 CE`:\n\n- **Severing Virgil (`G-022`) or Western Monasteries (`latin_monastic`):** The story still reaches `2026 CE` via Eastern Greek codices and time capsules—*without the Latin backward-glance tragedy* (`taboo_c331_glance` goes extinct).\n- **Burning Every Living Manuscript After `41 BCE` (`G-021` Severed):** Western and Byzantine chains both go dark (`G-022..G-098`), yet `1894–1969` archaeology resurrects `G-001..G-010` straight into `G-099..G-104` (`capsule_resurrected: true`)—recovering the Argonaut and initiate prophet while losing `named_eurydice` and `taboo_c331_glance`.\n"
     }
   ],
   "telemetry": {
-    "generated_at": "2026-11-17T21:41:08Z",
+    "generated_at": "2026-11-17T23:44:30Z",
     "corpus": {
       "analytics": {
         "timeline_count": 37,
@@ -127,6 +136,7 @@ window.ORPHEUS_BUNDLE = {
         "liturgical_count": 10,
         "anthropology_count": 8,
         "revival_count": 10,
+        "generation_count": 104,
         "span_years": 2591,
         "earliest_year": -565,
         "latest_year": 2026,
@@ -149,21 +159,21 @@ window.ORPHEUS_BUNDLE = {
           "Patristic_Greek": 2
         }
       },
-      "monographs_count": 5
+      "monographs_count": 6
     },
     "go_engine": {
       "available": true,
-      "statements_pct": 67.3,
+      "statements_pct": 73.3,
       "benchmarks": {
-        "greek_ns_per_op": 11483.0,
-        "latin_ns_per_op": 3614.0
+        "greek_ns_per_op": 9907.0,
+        "latin_ns_per_op": 3195.0
       }
     },
     "spring_boot": {
-      "junit_total": 8,
+      "junit_total": 10,
       "junit_failed": 0,
       "junit_skipped": 0,
-      "jacoco_line_pct": 76.57
+      "jacoco_line_pct": 81.17
     }
   },
   "timeline": [
@@ -1189,12 +1199,3847 @@ window.ORPHEUS_BUNDLE = {
       "cultural_impact": "Demonstrates Orpheus remains active across mass streaming, international theater, and digital humanities in 2026."
     }
   ],
+  "lineage_104": [
+    {
+      "id": "G-001",
+      "gen_number": 1,
+      "year_start": -565,
+      "year_end": -541,
+      "display_span": "565–541 BCE",
+      "era": "Archaic_Greece",
+      "role": "mutation_witness",
+      "primary_stream": "hellenic_archaic",
+      "upstream_ids": [],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": true,
+      "capsule_artifact": "Delphi Sicyonian Limestone Metope (ΟΡΦΑΣ, c. 565 BCE)",
+      "milestone_ids": [
+        "TL-01",
+        "TL-02"
+      ],
+      "custodian_or_witness": "Delphic Sanctuary Masons & Ibycus of Rhegium (TL-01, TL-02)",
+      "introduced_mythemes": [
+        "threshold_voice",
+        "argonaut_voyage"
+      ],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 0,
+        "mystery_passport": 0,
+        "named_eurydice": 0,
+        "redemptive_return": 0,
+        "sparagmos_head_oracle": 0,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Delphi Sicyonian Limestone Metope (ΟΡΦΑΣ, c. 565 BCE) + contemporary papyrus copies",
+        "language_gate": "Archaic Doric / Classical Attic -> Hellenistic Koine Greek",
+        "redundancy_tier": "Fragile (small ritual brotherhoods & Mouseion rolls)",
+        "host_institution": "Athenian theater archives, private teletai, & Ptolemaic Library",
+        "lost_siblings": "Lost Archaic Argonautica epics & pre-550 BCE Thracian oral hymns"
+      },
+      "transmission_note": "Direct witness link: Delphi Sicyonian Treasury Metope (ΟΡΦΑΣ); Ibycus Fragment 306 — Earliest Literary Witness."
+    },
+    {
+      "id": "G-002",
+      "gen_number": 2,
+      "year_start": -540,
+      "year_end": -516,
+      "display_span": "540–516 BCE",
+      "era": "Archaic_Greece",
+      "role": "mutation_witness",
+      "primary_stream": "hellenic_archaic",
+      "upstream_ids": [
+        "G-001"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [
+        "TL-03"
+      ],
+      "custodian_or_witness": "Onomacritus & Peisistratid Oracle Recension at Athens (TL-03)",
+      "introduced_mythemes": [
+        "mystery_passport"
+      ],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 0,
+        "mystery_passport": 1,
+        "named_eurydice": 0,
+        "redemptive_return": 0,
+        "sparagmos_head_oracle": 0,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus scroll (supplemented underground by stone, bone & gold foil)",
+        "language_gate": "Archaic Doric / Classical Attic -> Hellenistic Koine Greek",
+        "redundancy_tier": "Fragile (small ritual brotherhoods & Mouseion rolls)",
+        "host_institution": "Athenian theater archives, private teletai, & Ptolemaic Library",
+        "lost_siblings": "Lost Archaic Argonautica epics & pre-550 BCE Thracian oral hymns"
+      },
+      "transmission_note": "Direct witness link: Onomacritus & the Peisistratid Orphic Recension at Athens."
+    },
+    {
+      "id": "G-003",
+      "gen_number": 3,
+      "year_start": -515,
+      "year_end": -491,
+      "display_span": "515–491 BCE",
+      "era": "Archaic_Greece",
+      "role": "mutation_witness",
+      "primary_stream": "hellenic_archaic",
+      "upstream_ids": [
+        "G-002"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [
+        "TL-04"
+      ],
+      "custodian_or_witness": "Simonides of Ceos & Late Archaic Symposiasts (TL-04)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 0,
+        "mystery_passport": 1,
+        "named_eurydice": 0,
+        "redemptive_return": 0,
+        "sparagmos_head_oracle": 0,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus scroll (supplemented underground by stone, bone & gold foil)",
+        "language_gate": "Archaic Doric / Classical Attic -> Hellenistic Koine Greek",
+        "redundancy_tier": "Fragile (small ritual brotherhoods & Mouseion rolls)",
+        "host_institution": "Athenian theater archives, private teletai, & Ptolemaic Library",
+        "lost_siblings": "Lost Archaic Argonautica epics & pre-550 BCE Thracian oral hymns"
+      },
+      "transmission_note": "Direct witness link: Simonides Fragment 567 — Orpheus Charming Birds and Sea-Fish."
+    },
+    {
+      "id": "G-004",
+      "gen_number": 4,
+      "year_start": -490,
+      "year_end": -466,
+      "display_span": "490–466 BCE",
+      "era": "Archaic_Greece",
+      "role": "mutation_witness",
+      "primary_stream": "hellenic_archaic",
+      "upstream_ids": [
+        "G-003"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": true,
+      "capsule_artifact": "Three Olbia Pontica Inscribed Bone Tablets (c. 485 BCE)",
+      "milestone_ids": [
+        "TL-05"
+      ],
+      "custodian_or_witness": "Olbia Pontica Orphic-Dionysiac Brotherhood (TL-05)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 0,
+        "mystery_passport": 1,
+        "named_eurydice": 0,
+        "redemptive_return": 0,
+        "sparagmos_head_oracle": 0,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Three Olbia Pontica Inscribed Bone Tablets (c. 485 BCE) + contemporary papyrus copies",
+        "language_gate": "Archaic Doric / Classical Attic -> Hellenistic Koine Greek",
+        "redundancy_tier": "Fragile (small ritual brotherhoods & Mouseion rolls)",
+        "host_institution": "Athenian theater archives, private teletai, & Ptolemaic Library",
+        "lost_siblings": "Lost Archaic Argonautica epics & pre-550 BCE Thracian oral hymns"
+      },
+      "transmission_note": "Direct witness link: The Olbia Bone Tablets (Life – Death – Life · Orphics)."
+    },
+    {
+      "id": "G-005",
+      "gen_number": 5,
+      "year_start": -465,
+      "year_end": -441,
+      "display_span": "465–441 BCE",
+      "era": "Archaic_Greece",
+      "role": "mutation_witness",
+      "primary_stream": "hellenic_archaic",
+      "upstream_ids": [
+        "G-004"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [
+        "TL-06",
+        "TL-07"
+      ],
+      "custodian_or_witness": "Pindar of Thebes, Aeschylus & Polygnotus of Thasos (TL-06, TL-07)",
+      "introduced_mythemes": [
+        "sparagmos_head_oracle"
+      ],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 0,
+        "mystery_passport": 1,
+        "named_eurydice": 0,
+        "redemptive_return": 0,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus scroll (supplemented underground by stone, bone & gold foil)",
+        "language_gate": "Archaic Doric / Classical Attic -> Hellenistic Koine Greek",
+        "redundancy_tier": "Fragile (small ritual brotherhoods & Mouseion rolls)",
+        "host_institution": "Athenian theater archives, private teletai, & Ptolemaic Library",
+        "lost_siblings": "Lost Archaic Argonautica epics & pre-550 BCE Thracian oral hymns"
+      },
+      "transmission_note": "Direct witness link: Pindar's Pythian 4 — 'Father of Songs' Sent by Apollo; Voice Charming Nature in Athenian Tragedy & Delphic Painting."
+    },
+    {
+      "id": "G-006",
+      "gen_number": 6,
+      "year_start": -440,
+      "year_end": -416,
+      "display_span": "440–416 BCE",
+      "era": "Classical_Greece",
+      "role": "mutation_witness",
+      "primary_stream": "hellenic_archaic",
+      "upstream_ids": [
+        "G-005"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [
+        "TL-08"
+      ],
+      "custodian_or_witness": "Euripides & Classical Athenian Tragic Stage (TL-08)",
+      "introduced_mythemes": [
+        "katabasis_descent",
+        "redemptive_return"
+      ],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 0,
+        "redemptive_return": 1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus scroll (supplemented underground by stone, bone & gold foil)",
+        "language_gate": "Archaic Doric / Classical Attic -> Hellenistic Koine Greek",
+        "redundancy_tier": "Fragile (small ritual brotherhoods & Mouseion rolls)",
+        "host_institution": "Athenian theater archives, private teletai, & Ptolemaic Library",
+        "lost_siblings": "Aeschylus's complete Bassarids tragedy & Polygnotus's mural at Delphi"
+      },
+      "transmission_note": "Direct witness link: First Explicit Katabasis Reference (Without Failure)."
+    },
+    {
+      "id": "G-007",
+      "gen_number": 7,
+      "year_start": -415,
+      "year_end": -391,
+      "display_span": "415–391 BCE",
+      "era": "Classical_Greece",
+      "role": "mutation_witness",
+      "primary_stream": "hellenic_archaic",
+      "upstream_ids": [
+        "G-006"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": true,
+      "capsule_artifact": "Hipponion & Calabrian Gold Funeral Lamella (c. 400 BCE)",
+      "milestone_ids": [
+        "TL-09",
+        "TL-11"
+      ],
+      "custodian_or_witness": "Aristophanes & Hipponion Gold-Tablet Initiates (TL-09, TL-11)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 0,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Hipponion & Calabrian Gold Funeral Lamella (c. 400 BCE) + contemporary papyrus copies",
+        "language_gate": "Archaic Doric / Classical Attic -> Hellenistic Koine Greek",
+        "redundancy_tier": "Fragile (small ritual brotherhoods & Mouseion rolls)",
+        "host_institution": "Athenian theater archives, private teletai, & Ptolemaic Library",
+        "lost_siblings": "Aeschylus's complete Bassarids tragedy & Polygnotus's mural at Delphi"
+      },
+      "transmission_note": "Direct witness link: Aristophanes' Birds — Parody of the Orphic Cosmic Egg; Hipponion & Pelinna Orphic Gold Funeral Lamellae."
+    },
+    {
+      "id": "G-008",
+      "gen_number": 8,
+      "year_start": -390,
+      "year_end": -366,
+      "display_span": "390–366 BCE",
+      "era": "Classical_Greece",
+      "role": "mutation_witness",
+      "primary_stream": "hellenic_archaic",
+      "upstream_ids": [
+        "G-007"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [
+        "TL-10"
+      ],
+      "custodian_or_witness": "Plato's Academy & Athenian Philosophical Dialectics (TL-10)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 0,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus scroll (supplemented underground by stone, bone & gold foil)",
+        "language_gate": "Archaic Doric / Classical Attic -> Hellenistic Koine Greek",
+        "redundancy_tier": "Fragile (small ritual brotherhoods & Mouseion rolls)",
+        "host_institution": "Athenian theater archives, private teletai, & Ptolemaic Library",
+        "lost_siblings": "Aeschylus's complete Bassarids tragedy & Polygnotus's mural at Delphi"
+      },
+      "transmission_note": "Direct witness link: Plato's Critique of the Un-Dying Musician."
+    },
+    {
+      "id": "G-009",
+      "gen_number": 9,
+      "year_start": -365,
+      "year_end": -341,
+      "display_span": "365–341 BCE",
+      "era": "Classical_Greece",
+      "role": "silent_custodian",
+      "primary_stream": "hellenic_archaic",
+      "upstream_ids": [
+        "G-008"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Attic Rhapsodes & Lyre-Players of the Dionysia (Gen #9)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 0,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus scroll (supplemented underground by stone, bone & gold foil)",
+        "language_gate": "Archaic Doric / Classical Attic -> Hellenistic Koine Greek",
+        "redundancy_tier": "Fragile (small ritual brotherhoods & Mouseion rolls)",
+        "host_institution": "Athenian theater archives, private teletai, & Ptolemaic Library",
+        "lost_siblings": "Aeschylus's complete Bassarids tragedy & Polygnotus's mural at Delphi"
+      },
+      "transmission_note": "Generational custodian link preserving inherited performance, print, or schoolroom editions across a 25-year span."
+    },
+    {
+      "id": "G-010",
+      "gen_number": 10,
+      "year_start": -340,
+      "year_end": -316,
+      "display_span": "340–316 BCE",
+      "era": "Hellenistic_Orphic",
+      "role": "mutation_witness",
+      "primary_stream": "hellenic_archaic",
+      "upstream_ids": [
+        "G-009"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": true,
+      "capsule_artifact": "Derveni Carbonized Funeral Pyre Papyrus Scroll (c. 340 BCE)",
+      "milestone_ids": [
+        "TL-12"
+      ],
+      "custodian_or_witness": "Derveni Funeral-Pyre Ritualist & Commentator (TL-12)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 0,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Derveni Carbonized Funeral Pyre Papyrus Scroll (c. 340 BCE) + contemporary papyrus copies",
+        "language_gate": "Archaic Doric / Classical Attic -> Hellenistic Koine Greek",
+        "redundancy_tier": "Fragile (small ritual brotherhoods & Mouseion rolls)",
+        "host_institution": "Athenian theater archives, private teletai, & Ptolemaic Library",
+        "lost_siblings": "Pre-Virgilian Hellenistic Orpheus poems of Phanocles & early Alexandrians"
+      },
+      "transmission_note": "Direct witness link: The Derveni Papyrus — Europe's Oldest Surviving Manuscript."
+    },
+    {
+      "id": "G-011",
+      "gen_number": 11,
+      "year_start": -315,
+      "year_end": -291,
+      "display_span": "315–291 BCE",
+      "era": "Hellenistic_Orphic",
+      "role": "silent_custodian",
+      "primary_stream": "hellenic_archaic",
+      "upstream_ids": [
+        "G-010"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "South Italian Pythagorean-Orphic Mystery Circles (Gen #11)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 0,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus scroll (supplemented underground by stone, bone & gold foil)",
+        "language_gate": "Archaic Doric / Classical Attic -> Hellenistic Koine Greek",
+        "redundancy_tier": "Fragile (small ritual brotherhoods & Mouseion rolls)",
+        "host_institution": "Athenian theater archives, private teletai, & Ptolemaic Library",
+        "lost_siblings": "Pre-Virgilian Hellenistic Orpheus poems of Phanocles & early Alexandrians"
+      },
+      "transmission_note": "Generational custodian link preserving inherited performance, print, or schoolroom editions across a 25-year span."
+    },
+    {
+      "id": "G-012",
+      "gen_number": 12,
+      "year_start": -290,
+      "year_end": -266,
+      "display_span": "290–266 BCE",
+      "era": "Hellenistic_Orphic",
+      "role": "silent_custodian",
+      "primary_stream": "hellenic_archaic",
+      "upstream_ids": [
+        "G-011"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Alexandrian Mouseion Papyrologists (Zenodotus–Eratosthenes) (Gen #12)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 0,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus scroll (supplemented underground by stone, bone & gold foil)",
+        "language_gate": "Archaic Doric / Classical Attic -> Hellenistic Koine Greek",
+        "redundancy_tier": "Fragile (small ritual brotherhoods & Mouseion rolls)",
+        "host_institution": "Athenian theater archives, private teletai, & Ptolemaic Library",
+        "lost_siblings": "Pre-Virgilian Hellenistic Orpheus poems of Phanocles & early Alexandrians"
+      },
+      "transmission_note": "Generational custodian link preserving inherited performance, print, or schoolroom editions across a 25-year span."
+    },
+    {
+      "id": "G-013",
+      "gen_number": 13,
+      "year_start": -265,
+      "year_end": -241,
+      "display_span": "265–241 BCE",
+      "era": "Hellenistic_Orphic",
+      "role": "mutation_witness",
+      "primary_stream": "hellenic_archaic",
+      "upstream_ids": [
+        "G-012"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [
+        "TL-13"
+      ],
+      "custodian_or_witness": "Apollonius of Rhodes at the Ptolemaic Mouseion (TL-13)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 0,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus scroll (supplemented underground by stone, bone & gold foil)",
+        "language_gate": "Archaic Doric / Classical Attic -> Hellenistic Koine Greek",
+        "redundancy_tier": "Fragile (small ritual brotherhoods & Mouseion rolls)",
+        "host_institution": "Athenian theater archives, private teletai, & Ptolemaic Library",
+        "lost_siblings": "Pre-Virgilian Hellenistic Orpheus poems of Phanocles & early Alexandrians"
+      },
+      "transmission_note": "Direct witness link: Apollonius of Rhodes' Argonautica — Philosopher-Musician vs. Sirens."
+    },
+    {
+      "id": "G-014",
+      "gen_number": 14,
+      "year_start": -240,
+      "year_end": -216,
+      "display_span": "240–216 BCE",
+      "era": "Hellenistic_Orphic",
+      "role": "silent_custodian",
+      "primary_stream": "hellenic_archaic",
+      "upstream_ids": [
+        "G-013"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Rhodian & Pergamene Grammatical Copyists (Gen #14)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 0,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus scroll (supplemented underground by stone, bone & gold foil)",
+        "language_gate": "Archaic Doric / Classical Attic -> Hellenistic Koine Greek",
+        "redundancy_tier": "Fragile (small ritual brotherhoods & Mouseion rolls)",
+        "host_institution": "Athenian theater archives, private teletai, & Ptolemaic Library",
+        "lost_siblings": "Pre-Virgilian Hellenistic Orpheus poems of Phanocles & early Alexandrians"
+      },
+      "transmission_note": "Generational custodian link preserving inherited performance, print, or schoolroom editions across a 25-year span."
+    },
+    {
+      "id": "G-015",
+      "gen_number": 15,
+      "year_start": -215,
+      "year_end": -191,
+      "display_span": "215–191 BCE",
+      "era": "Hellenistic_Orphic",
+      "role": "silent_custodian",
+      "primary_stream": "hellenic_archaic",
+      "upstream_ids": [
+        "G-014"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Hellenistic Grammarians (Aristophanes of Byzantium–Didymus) (Gen #15)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 0,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus scroll (supplemented underground by stone, bone & gold foil)",
+        "language_gate": "Archaic Doric / Classical Attic -> Hellenistic Koine Greek",
+        "redundancy_tier": "Fragile (small ritual brotherhoods & Mouseion rolls)",
+        "host_institution": "Athenian theater archives, private teletai, & Ptolemaic Library",
+        "lost_siblings": "Pre-Virgilian Hellenistic Orpheus poems of Phanocles & early Alexandrians"
+      },
+      "transmission_note": "Generational custodian link preserving inherited performance, print, or schoolroom editions across a 25-year span."
+    },
+    {
+      "id": "G-016",
+      "gen_number": 16,
+      "year_start": -190,
+      "year_end": -166,
+      "display_span": "190–166 BCE",
+      "era": "Hellenistic_Orphic",
+      "role": "silent_custodian",
+      "primary_stream": "hellenic_archaic",
+      "upstream_ids": [
+        "G-015"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Attic Rhapsodes & Lyre-Players of the Dionysia (Gen #16)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 0,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus scroll (supplemented underground by stone, bone & gold foil)",
+        "language_gate": "Archaic Doric / Classical Attic -> Hellenistic Koine Greek",
+        "redundancy_tier": "Fragile (small ritual brotherhoods & Mouseion rolls)",
+        "host_institution": "Athenian theater archives, private teletai, & Ptolemaic Library",
+        "lost_siblings": "Pre-Virgilian Hellenistic Orpheus poems of Phanocles & early Alexandrians"
+      },
+      "transmission_note": "Generational custodian link preserving inherited performance, print, or schoolroom editions across a 25-year span."
+    },
+    {
+      "id": "G-017",
+      "gen_number": 17,
+      "year_start": -165,
+      "year_end": -141,
+      "display_span": "165–141 BCE",
+      "era": "Hellenistic_Orphic",
+      "role": "silent_custodian",
+      "primary_stream": "hellenic_archaic",
+      "upstream_ids": [
+        "G-016"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "South Italian Pythagorean-Orphic Mystery Circles (Gen #17)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 0,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus scroll (supplemented underground by stone, bone & gold foil)",
+        "language_gate": "Archaic Doric / Classical Attic -> Hellenistic Koine Greek",
+        "redundancy_tier": "Fragile (small ritual brotherhoods & Mouseion rolls)",
+        "host_institution": "Athenian theater archives, private teletai, & Ptolemaic Library",
+        "lost_siblings": "Pre-Virgilian Hellenistic Orpheus poems of Phanocles & early Alexandrians"
+      },
+      "transmission_note": "Generational custodian link preserving inherited performance, print, or schoolroom editions across a 25-year span."
+    },
+    {
+      "id": "G-018",
+      "gen_number": 18,
+      "year_start": -140,
+      "year_end": -116,
+      "display_span": "140–116 BCE",
+      "era": "Hellenistic_Orphic",
+      "role": "silent_custodian",
+      "primary_stream": "hellenic_archaic",
+      "upstream_ids": [
+        "G-017"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Alexandrian Mouseion Papyrologists (Zenodotus–Eratosthenes) (Gen #18)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 0,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus scroll (supplemented underground by stone, bone & gold foil)",
+        "language_gate": "Archaic Doric / Classical Attic -> Hellenistic Koine Greek",
+        "redundancy_tier": "Fragile (small ritual brotherhoods & Mouseion rolls)",
+        "host_institution": "Athenian theater archives, private teletai, & Ptolemaic Library",
+        "lost_siblings": "Pre-Virgilian Hellenistic Orpheus poems of Phanocles & early Alexandrians"
+      },
+      "transmission_note": "Generational custodian link preserving inherited performance, print, or schoolroom editions across a 25-year span."
+    },
+    {
+      "id": "G-019",
+      "gen_number": 19,
+      "year_start": -115,
+      "year_end": -91,
+      "display_span": "115–91 BCE",
+      "era": "Hellenistic_Orphic",
+      "role": "mutation_witness",
+      "primary_stream": "hellenic_archaic",
+      "upstream_ids": [
+        "G-018"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Pseudo-Moschus ('Lament for Bion') Naming Eurydice",
+      "introduced_mythemes": [
+        "named_eurydice"
+      ],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus scroll (supplemented underground by stone, bone & gold foil)",
+        "language_gate": "Archaic Doric / Classical Attic -> Hellenistic Koine Greek",
+        "redundancy_tier": "Fragile (small ritual brotherhoods & Mouseion rolls)",
+        "host_institution": "Athenian theater archives, private teletai, & Ptolemaic Library",
+        "lost_siblings": "Pre-Virgilian Hellenistic Orpheus poems of Phanocles & early Alexandrians"
+      },
+      "transmission_note": "First surviving Greek attribution of the name 'Eurydice' as Orpheus's bride in the Lament for Bion (~100 BCE)."
+    },
+    {
+      "id": "G-020",
+      "gen_number": 20,
+      "year_start": -90,
+      "year_end": -66,
+      "display_span": "90–66 BCE",
+      "era": "Hellenistic_Orphic",
+      "role": "silent_custodian",
+      "primary_stream": "hellenic_archaic",
+      "upstream_ids": [
+        "G-019"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Rhodian & Pergamene Grammatical Copyists (Gen #20)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus scroll (supplemented underground by stone, bone & gold foil)",
+        "language_gate": "Archaic Doric / Classical Attic -> Hellenistic Koine Greek",
+        "redundancy_tier": "Fragile (small ritual brotherhoods & Mouseion rolls)",
+        "host_institution": "Athenian theater archives, private teletai, & Ptolemaic Library",
+        "lost_siblings": "Pre-Virgilian Hellenistic Orpheus poems of Phanocles & early Alexandrians"
+      },
+      "transmission_note": "Generational custodian link preserving inherited performance, print, or schoolroom editions across a 25-year span."
+    },
+    {
+      "id": "G-021",
+      "gen_number": 21,
+      "year_start": -65,
+      "year_end": -41,
+      "display_span": "65–41 BCE",
+      "era": "Hellenistic_Orphic",
+      "role": "silent_custodian",
+      "primary_stream": "hellenic_archaic",
+      "upstream_ids": [
+        "G-020"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Hellenistic Grammarians (Aristophanes of Byzantium–Didymus) (Gen #21)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus scroll (supplemented underground by stone, bone & gold foil)",
+        "language_gate": "Archaic Doric / Classical Attic -> Hellenistic Koine Greek",
+        "redundancy_tier": "Fragile (small ritual brotherhoods & Mouseion rolls)",
+        "host_institution": "Athenian theater archives, private teletai, & Ptolemaic Library",
+        "lost_siblings": "Pre-Virgilian Hellenistic Orpheus poems of Phanocles & early Alexandrians"
+      },
+      "transmission_note": "Generational custodian link preserving inherited performance, print, or schoolroom editions across a 25-year span."
+    },
+    {
+      "id": "G-022",
+      "gen_number": 22,
+      "year_start": -40,
+      "year_end": -16,
+      "display_span": "40–16 BCE",
+      "era": "Augustan_Rome",
+      "role": "mutation_witness",
+      "primary_stream": "latin_monastic",
+      "upstream_ids": [
+        "G-021"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [
+        "TL-15"
+      ],
+      "custodian_or_witness": "Publius Vergilius Maro — Georgics IV (TL-15)",
+      "introduced_mythemes": [
+        "taboo_c331_glance"
+      ],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Vellum & parchment codices (uncial -> Carolingian minuscule)",
+        "language_gate": "Classical Latin -> Medieval Ecclesiastical Latin / Vernaculars",
+        "redundancy_tier": "Moderate-High (monastic & cathedral curriculum canons)",
+        "host_institution": "Benedictine & Dominican Abbeys; European cathedral schools",
+        "lost_siblings": "Cornelius Gallus's erotic elegies & Imperial stage pantomimes of Orpheus"
+      },
+      "transmission_note": "Direct witness link: Virgil's Georgics IV — The Classicized Tragic Backward Glance."
+    },
+    {
+      "id": "G-023",
+      "gen_number": 23,
+      "year_start": -15,
+      "year_end": 9,
+      "display_span": "15 BCE–9 CE",
+      "era": "Augustan_Rome",
+      "role": "mutation_witness",
+      "primary_stream": "latin_monastic",
+      "upstream_ids": [
+        "G-022"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [
+        "TL-16",
+        "TL-17"
+      ],
+      "custodian_or_witness": "Horace & Publius Ovidius Naso — Metamorphoses X (TL-16, TL-17)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Vellum & parchment codices (uncial -> Carolingian minuscule)",
+        "language_gate": "Classical Latin -> Medieval Ecclesiastical Latin / Vernaculars",
+        "redundancy_tier": "Moderate-High (monastic & cathedral curriculum canons)",
+        "host_institution": "Benedictine & Dominican Abbeys; European cathedral schools",
+        "lost_siblings": "Cornelius Gallus's erotic elegies & Imperial stage pantomimes of Orpheus"
+      },
+      "transmission_note": "Direct witness link: Horace's Ars Poetica — Orpheus as Lawgiver & Civilizer; Ovid's Metamorphoses — Elegiac Tragedy & Underworld Reunion."
+    },
+    {
+      "id": "G-024",
+      "gen_number": 24,
+      "year_start": 10,
+      "year_end": 34,
+      "display_span": "10–34 CE",
+      "era": "Augustan_Rome",
+      "role": "silent_custodian",
+      "primary_stream": "greek_byzantine",
+      "upstream_ids": [
+        "G-021"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Greco-Roman Epigraphers & Second Sophistic Orators (Gen #24)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": 1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus codex -> Byzantium vellum minuscule manuscripts",
+        "language_gate": "Koine Greek -> Byzantine Literary Greek",
+        "redundancy_tier": "Low-Moderate (vulnerable to iconoclasm & 1204/1453 sieges)",
+        "host_institution": "Constantinople imperial libraries, monasteries & Patristic catenae",
+        "lost_siblings": "Cornelius Gallus's erotic elegies & Imperial stage pantomimes of Orpheus"
+      },
+      "transmission_note": "Eastern Greek/Byzantine manuscript chain preserving Argonautic, Patristic, and Hymnic texts outside Rome."
+    },
+    {
+      "id": "G-025",
+      "gen_number": 25,
+      "year_start": 35,
+      "year_end": 59,
+      "display_span": "35–59 CE",
+      "era": "Augustan_Rome",
+      "role": "silent_custodian",
+      "primary_stream": "greek_byzantine",
+      "upstream_ids": [
+        "G-024"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Alexandrian & Caesarean Patristic Catenae Scribes (Gen #25)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": 1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus codex -> Byzantium vellum minuscule manuscripts",
+        "language_gate": "Koine Greek -> Byzantine Literary Greek",
+        "redundancy_tier": "Low-Moderate (vulnerable to iconoclasm & 1204/1453 sieges)",
+        "host_institution": "Constantinople imperial libraries, monasteries & Patristic catenae",
+        "lost_siblings": "Cornelius Gallus's erotic elegies & Imperial stage pantomimes of Orpheus"
+      },
+      "transmission_note": "Eastern Greek/Byzantine manuscript chain preserving Argonautic, Patristic, and Hymnic texts outside Rome."
+    },
+    {
+      "id": "G-026",
+      "gen_number": 26,
+      "year_start": 60,
+      "year_end": 84,
+      "display_span": "60–84 CE",
+      "era": "Augustan_Rome",
+      "role": "silent_custodian",
+      "primary_stream": "latin_monastic",
+      "upstream_ids": [
+        "G-023"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Imperial Roman Grammatici & School Copyists of Virgil (Gen #26)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Vellum & parchment codices (uncial -> Carolingian minuscule)",
+        "language_gate": "Classical Latin -> Medieval Ecclesiastical Latin / Vernaculars",
+        "redundancy_tier": "Moderate-High (monastic & cathedral curriculum canons)",
+        "host_institution": "Benedictine & Dominican Abbeys; European cathedral schools",
+        "lost_siblings": "Cornelius Gallus's erotic elegies & Imperial stage pantomimes of Orpheus"
+      },
+      "transmission_note": "Western monastic copyist relay keeping Ovidian, Virgilian, and Boethian hexameters intact across political collapse."
+    },
+    {
+      "id": "G-027",
+      "gen_number": 27,
+      "year_start": 85,
+      "year_end": 109,
+      "display_span": "85–109 CE",
+      "era": "Augustan_Rome",
+      "role": "silent_custodian",
+      "primary_stream": "greek_byzantine",
+      "upstream_ids": [
+        "G-025"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Athenian & Alexandrian Neoplatonists (Proclus & Damascius Tradition) (Gen #27)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": 1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus codex -> Byzantium vellum minuscule manuscripts",
+        "language_gate": "Koine Greek -> Byzantine Literary Greek",
+        "redundancy_tier": "Low-Moderate (vulnerable to iconoclasm & 1204/1453 sieges)",
+        "host_institution": "Constantinople imperial libraries, monasteries & Patristic catenae",
+        "lost_siblings": "Cornelius Gallus's erotic elegies & Imperial stage pantomimes of Orpheus"
+      },
+      "transmission_note": "Eastern Greek/Byzantine manuscript chain preserving Argonautic, Patristic, and Hymnic texts outside Rome."
+    },
+    {
+      "id": "G-028",
+      "gen_number": 28,
+      "year_start": 110,
+      "year_end": 134,
+      "display_span": "110–134 CE",
+      "era": "Augustan_Rome",
+      "role": "silent_custodian",
+      "primary_stream": "latin_monastic",
+      "upstream_ids": [
+        "G-026"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Late Latin Grammarians (Servius & Macrobius Tradition) (Gen #28)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Vellum & parchment codices (uncial -> Carolingian minuscule)",
+        "language_gate": "Classical Latin -> Medieval Ecclesiastical Latin / Vernaculars",
+        "redundancy_tier": "Moderate-High (monastic & cathedral curriculum canons)",
+        "host_institution": "Benedictine & Dominican Abbeys; European cathedral schools",
+        "lost_siblings": "Cornelius Gallus's erotic elegies & Imperial stage pantomimes of Orpheus"
+      },
+      "transmission_note": "Western monastic copyist relay keeping Ovidian, Virgilian, and Boethian hexameters intact across political collapse."
+    },
+    {
+      "id": "G-029",
+      "gen_number": 29,
+      "year_start": 135,
+      "year_end": 159,
+      "display_span": "135–159 CE",
+      "era": "Augustan_Rome",
+      "role": "silent_custodian",
+      "primary_stream": "greek_byzantine",
+      "upstream_ids": [
+        "G-027"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Constantinopolitan Justinianic Imperial Codices (Gen #29)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": 1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus codex -> Byzantium vellum minuscule manuscripts",
+        "language_gate": "Koine Greek -> Byzantine Literary Greek",
+        "redundancy_tier": "Low-Moderate (vulnerable to iconoclasm & 1204/1453 sieges)",
+        "host_institution": "Constantinople imperial libraries, monasteries & Patristic catenae",
+        "lost_siblings": "Cornelius Gallus's erotic elegies & Imperial stage pantomimes of Orpheus"
+      },
+      "transmission_note": "Eastern Greek/Byzantine manuscript chain preserving Argonautic, Patristic, and Hymnic texts outside Rome."
+    },
+    {
+      "id": "G-030",
+      "gen_number": 30,
+      "year_start": 160,
+      "year_end": 184,
+      "display_span": "160–184 CE",
+      "era": "Early_Christian_Patristic",
+      "role": "silent_custodian",
+      "primary_stream": "latin_monastic",
+      "upstream_ids": [
+        "G-028"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Vivarium Abbey Scriptorium (Cassiodorus Legacy) (Gen #30)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Vellum & parchment codices (uncial -> Carolingian minuscule)",
+        "language_gate": "Classical Latin -> Medieval Ecclesiastical Latin / Vernaculars",
+        "redundancy_tier": "Moderate-High (monastic & cathedral curriculum canons)",
+        "host_institution": "Benedictine & Dominican Abbeys; European cathedral schools",
+        "lost_siblings": "Most non-Christian Neoplatonic Orphic Rhapsodies burnt/un-copied after 529 CE"
+      },
+      "transmission_note": "Western monastic copyist relay keeping Ovidian, Virgilian, and Boethian hexameters intact across political collapse."
+    },
+    {
+      "id": "G-031",
+      "gen_number": 31,
+      "year_start": 185,
+      "year_end": 209,
+      "display_span": "185–209 CE",
+      "era": "Early_Christian_Patristic",
+      "role": "mutation_witness",
+      "primary_stream": "greek_byzantine",
+      "upstream_ids": [
+        "G-029"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [
+        "TL-18"
+      ],
+      "custodian_or_witness": "Clement of Alexandria — Protrepticus Ch. 1 (TL-18)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": -1,
+        "named_eurydice": 1,
+        "redemptive_return": 1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus codex -> Byzantium vellum minuscule manuscripts",
+        "language_gate": "Koine Greek -> Byzantine Literary Greek",
+        "redundancy_tier": "Low-Moderate (vulnerable to iconoclasm & 1204/1453 sieges)",
+        "host_institution": "Constantinople imperial libraries, monasteries & Patristic catenae",
+        "lost_siblings": "Most non-Christian Neoplatonic Orphic Rhapsodies burnt/un-copied after 529 CE"
+      },
+      "transmission_note": "Direct witness link: Clement of Alexandria — Christ as the True 'New Song'."
+    },
+    {
+      "id": "G-032",
+      "gen_number": 32,
+      "year_start": 210,
+      "year_end": 234,
+      "display_span": "210–234 CE",
+      "era": "Early_Christian_Patristic",
+      "role": "silent_custodian",
+      "primary_stream": "latin_monastic",
+      "upstream_ids": [
+        "G-030"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Monte Cassino & Bobbio Benedictine Parchment Scriptoria (Gen #32)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Vellum & parchment codices (uncial -> Carolingian minuscule)",
+        "language_gate": "Classical Latin -> Medieval Ecclesiastical Latin / Vernaculars",
+        "redundancy_tier": "Moderate-High (monastic & cathedral curriculum canons)",
+        "host_institution": "Benedictine & Dominican Abbeys; European cathedral schools",
+        "lost_siblings": "Most non-Christian Neoplatonic Orphic Rhapsodies burnt/un-copied after 529 CE"
+      },
+      "transmission_note": "Western monastic copyist relay keeping Ovidian, Virgilian, and Boethian hexameters intact across political collapse."
+    },
+    {
+      "id": "G-033",
+      "gen_number": 33,
+      "year_start": 235,
+      "year_end": 259,
+      "display_span": "235–259 CE",
+      "era": "Early_Christian_Patristic",
+      "role": "mutation_witness",
+      "primary_stream": "greek_byzantine",
+      "upstream_ids": [
+        "G-031"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [
+        "TL-19",
+        "TL-20"
+      ],
+      "custodian_or_witness": "Dura-Europos Artisans & Roman Catacomb Painters (TL-19, TL-20)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": 1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus codex -> Byzantium vellum minuscule manuscripts",
+        "language_gate": "Koine Greek -> Byzantine Literary Greek",
+        "redundancy_tier": "Low-Moderate (vulnerable to iconoclasm & 1204/1453 sieges)",
+        "host_institution": "Constantinople imperial libraries, monasteries & Patristic catenae",
+        "lost_siblings": "Most non-Christian Neoplatonic Orphic Rhapsodies burnt/un-copied after 529 CE"
+      },
+      "transmission_note": "Direct witness link: Dura-Europos Synagogue — King David in Orpheus Iconography; Christus-Orpheus Frescoes in the Roman Catacombs."
+    },
+    {
+      "id": "G-034",
+      "gen_number": 34,
+      "year_start": 260,
+      "year_end": 284,
+      "display_span": "260–284 CE",
+      "era": "Early_Christian_Patristic",
+      "role": "silent_custodian",
+      "primary_stream": "latin_monastic",
+      "upstream_ids": [
+        "G-032"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Northumbrian & Irish Monastic Copyists (Bede Circle) (Gen #34)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Vellum & parchment codices (uncial -> Carolingian minuscule)",
+        "language_gate": "Classical Latin -> Medieval Ecclesiastical Latin / Vernaculars",
+        "redundancy_tier": "Moderate-High (monastic & cathedral curriculum canons)",
+        "host_institution": "Benedictine & Dominican Abbeys; European cathedral schools",
+        "lost_siblings": "Most non-Christian Neoplatonic Orphic Rhapsodies burnt/un-copied after 529 CE"
+      },
+      "transmission_note": "Western monastic copyist relay keeping Ovidian, Virgilian, and Boethian hexameters intact across political collapse."
+    },
+    {
+      "id": "G-035",
+      "gen_number": 35,
+      "year_start": 285,
+      "year_end": 309,
+      "display_span": "285–309 CE",
+      "era": "Early_Christian_Patristic",
+      "role": "silent_custodian",
+      "primary_stream": "greek_byzantine",
+      "upstream_ids": [
+        "G-033"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Studite Monastery Minuscule Scriptorium (Script Reform) (Gen #35)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": 1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus codex -> Byzantium vellum minuscule manuscripts",
+        "language_gate": "Koine Greek -> Byzantine Literary Greek",
+        "redundancy_tier": "Low-Moderate (vulnerable to iconoclasm & 1204/1453 sieges)",
+        "host_institution": "Constantinople imperial libraries, monasteries & Patristic catenae",
+        "lost_siblings": "Most non-Christian Neoplatonic Orphic Rhapsodies burnt/un-copied after 529 CE"
+      },
+      "transmission_note": "Eastern Greek/Byzantine manuscript chain preserving Argonautic, Patristic, and Hymnic texts outside Rome."
+    },
+    {
+      "id": "G-036",
+      "gen_number": 36,
+      "year_start": 310,
+      "year_end": 334,
+      "display_span": "310–334 CE",
+      "era": "Early_Christian_Patristic",
+      "role": "silent_custodian",
+      "primary_stream": "latin_monastic",
+      "upstream_ids": [
+        "G-034"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Carolingian Palace School at Aachen (Alcuin of York) (Gen #36)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Vellum & parchment codices (uncial -> Carolingian minuscule)",
+        "language_gate": "Classical Latin -> Medieval Ecclesiastical Latin / Vernaculars",
+        "redundancy_tier": "Moderate-High (monastic & cathedral curriculum canons)",
+        "host_institution": "Benedictine & Dominican Abbeys; European cathedral schools",
+        "lost_siblings": "Most non-Christian Neoplatonic Orphic Rhapsodies burnt/un-copied after 529 CE"
+      },
+      "transmission_note": "Western monastic copyist relay keeping Ovidian, Virgilian, and Boethian hexameters intact across political collapse."
+    },
+    {
+      "id": "G-037",
+      "gen_number": 37,
+      "year_start": 335,
+      "year_end": 359,
+      "display_span": "335–359 CE",
+      "era": "Hellenistic_Orphic",
+      "role": "mutation_witness",
+      "primary_stream": "greek_byzantine",
+      "upstream_ids": [
+        "G-035"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [
+        "TL-14",
+        "TL-21"
+      ],
+      "custodian_or_witness": "Anatolian Orphic Hymns Guild & Eusebius of Caesarea (TL-14, TL-21)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": -1,
+        "named_eurydice": 0,
+        "redemptive_return": 1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus codex -> Byzantium vellum minuscule manuscripts",
+        "language_gate": "Koine Greek -> Byzantine Literary Greek",
+        "redundancy_tier": "Low-Moderate (vulnerable to iconoclasm & 1204/1453 sieges)",
+        "host_institution": "Constantinople imperial libraries, monasteries & Patristic catenae",
+        "lost_siblings": "Pre-Virgilian Hellenistic Orpheus poems of Phanocles & early Alexandrians"
+      },
+      "transmission_note": "Direct witness link: The Eighty-Seven Orphic Hymns (Anatolian Liturgy); Eusebius of Caesarea — The Incarnate Logos Tuning Humanity's Lyre."
+    },
+    {
+      "id": "G-038",
+      "gen_number": 38,
+      "year_start": 360,
+      "year_end": 384,
+      "display_span": "360–384 CE",
+      "era": "Early_Christian_Patristic",
+      "role": "silent_custodian",
+      "primary_stream": "latin_monastic",
+      "upstream_ids": [
+        "G-036"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Reichenau, St. Gall & Cluny Cloister Libraries (Gen #38)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Vellum & parchment codices (uncial -> Carolingian minuscule)",
+        "language_gate": "Classical Latin -> Medieval Ecclesiastical Latin / Vernaculars",
+        "redundancy_tier": "Moderate-High (monastic & cathedral curriculum canons)",
+        "host_institution": "Benedictine & Dominican Abbeys; European cathedral schools",
+        "lost_siblings": "Most non-Christian Neoplatonic Orphic Rhapsodies burnt/un-copied after 529 CE"
+      },
+      "transmission_note": "Western monastic copyist relay keeping Ovidian, Virgilian, and Boethian hexameters intact across political collapse."
+    },
+    {
+      "id": "G-039",
+      "gen_number": 39,
+      "year_start": 385,
+      "year_end": 409,
+      "display_span": "385–409 CE",
+      "era": "Early_Christian_Patristic",
+      "role": "silent_custodian",
+      "primary_stream": "greek_byzantine",
+      "upstream_ids": [
+        "G-037"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Circle of Patriarch Photius & the Suda Lexicographers (Gen #39)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": 1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus codex -> Byzantium vellum minuscule manuscripts",
+        "language_gate": "Koine Greek -> Byzantine Literary Greek",
+        "redundancy_tier": "Low-Moderate (vulnerable to iconoclasm & 1204/1453 sieges)",
+        "host_institution": "Constantinople imperial libraries, monasteries & Patristic catenae",
+        "lost_siblings": "Most non-Christian Neoplatonic Orphic Rhapsodies burnt/un-copied after 529 CE"
+      },
+      "transmission_note": "Eastern Greek/Byzantine manuscript chain preserving Argonautic, Patristic, and Hymnic texts outside Rome."
+    },
+    {
+      "id": "G-040",
+      "gen_number": 40,
+      "year_start": 410,
+      "year_end": 434,
+      "display_span": "410–434 CE",
+      "era": "Early_Christian_Patristic",
+      "role": "silent_custodian",
+      "primary_stream": "latin_monastic",
+      "upstream_ids": [
+        "G-038"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Cathedral Schools of Chartres, Orléans & Paris (Loire Poets) (Gen #40)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Vellum & parchment codices (uncial -> Carolingian minuscule)",
+        "language_gate": "Classical Latin -> Medieval Ecclesiastical Latin / Vernaculars",
+        "redundancy_tier": "Moderate-High (monastic & cathedral curriculum canons)",
+        "host_institution": "Benedictine & Dominican Abbeys; European cathedral schools",
+        "lost_siblings": "Most non-Christian Neoplatonic Orphic Rhapsodies burnt/un-copied after 529 CE"
+      },
+      "transmission_note": "Western monastic copyist relay keeping Ovidian, Virgilian, and Boethian hexameters intact across political collapse."
+    },
+    {
+      "id": "G-041",
+      "gen_number": 41,
+      "year_start": 435,
+      "year_end": 459,
+      "display_span": "435–459 CE",
+      "era": "Early_Christian_Patristic",
+      "role": "silent_custodian",
+      "primary_stream": "greek_byzantine",
+      "upstream_ids": [
+        "G-039"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Tzetzes & Komnenian Byzantine Classical Scholars (Gen #41)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": 1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus codex -> Byzantium vellum minuscule manuscripts",
+        "language_gate": "Koine Greek -> Byzantine Literary Greek",
+        "redundancy_tier": "Low-Moderate (vulnerable to iconoclasm & 1204/1453 sieges)",
+        "host_institution": "Constantinople imperial libraries, monasteries & Patristic catenae",
+        "lost_siblings": "Most non-Christian Neoplatonic Orphic Rhapsodies burnt/un-copied after 529 CE"
+      },
+      "transmission_note": "Eastern Greek/Byzantine manuscript chain preserving Argonautic, Patristic, and Hymnic texts outside Rome."
+    },
+    {
+      "id": "G-042",
+      "gen_number": 42,
+      "year_start": 460,
+      "year_end": 484,
+      "display_span": "460–484 CE",
+      "era": "Early_Christian_Patristic",
+      "role": "silent_custodian",
+      "primary_stream": "latin_monastic",
+      "upstream_ids": [
+        "G-040"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Dominican & Franciscan University Glossators (Gen #42)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Vellum & parchment codices (uncial -> Carolingian minuscule)",
+        "language_gate": "Classical Latin -> Medieval Ecclesiastical Latin / Vernaculars",
+        "redundancy_tier": "Moderate-High (monastic & cathedral curriculum canons)",
+        "host_institution": "Benedictine & Dominican Abbeys; European cathedral schools",
+        "lost_siblings": "Most non-Christian Neoplatonic Orphic Rhapsodies burnt/un-copied after 529 CE"
+      },
+      "transmission_note": "Western monastic copyist relay keeping Ovidian, Virgilian, and Boethian hexameters intact across political collapse."
+    },
+    {
+      "id": "G-043",
+      "gen_number": 43,
+      "year_start": 485,
+      "year_end": 509,
+      "display_span": "485–509 CE",
+      "era": "Early_Christian_Patristic",
+      "role": "silent_custodian",
+      "primary_stream": "greek_byzantine",
+      "upstream_ids": [
+        "G-041"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Palaeologan Scriptoria & 1453 Émigré Greek Scholars (Bessarion) (Gen #43)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": 1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus codex -> Byzantium vellum minuscule manuscripts",
+        "language_gate": "Koine Greek -> Byzantine Literary Greek",
+        "redundancy_tier": "Low-Moderate (vulnerable to iconoclasm & 1204/1453 sieges)",
+        "host_institution": "Constantinople imperial libraries, monasteries & Patristic catenae",
+        "lost_siblings": "Most non-Christian Neoplatonic Orphic Rhapsodies burnt/un-copied after 529 CE"
+      },
+      "transmission_note": "Eastern Greek/Byzantine manuscript chain preserving Argonautic, Patristic, and Hymnic texts outside Rome."
+    },
+    {
+      "id": "G-044",
+      "gen_number": 44,
+      "year_start": 510,
+      "year_end": 534,
+      "display_span": "510–534 CE",
+      "era": "Medieval_Catholic",
+      "role": "mutation_witness",
+      "primary_stream": "latin_monastic",
+      "upstream_ids": [
+        "G-042"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [
+        "TL-22"
+      ],
+      "custodian_or_witness": "Anicius Manlius Severinus Boethius at Pavia (TL-22)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": -1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Vellum & parchment codices (uncial -> Carolingian minuscule)",
+        "language_gate": "Classical Latin -> Medieval Ecclesiastical Latin / Vernaculars",
+        "redundancy_tier": "Moderate-High (monastic & cathedral curriculum canons)",
+        "host_institution": "Benedictine & Dominican Abbeys; European cathedral schools",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Direct witness link: Boethius's Christian-Neoplatonic Allegory of the Backward Glance."
+    },
+    {
+      "id": "G-045",
+      "gen_number": 45,
+      "year_start": 535,
+      "year_end": 559,
+      "display_span": "535–559 CE",
+      "era": "Medieval_Catholic",
+      "role": "silent_custodian",
+      "primary_stream": "greek_byzantine",
+      "upstream_ids": [
+        "G-043"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Greco-Roman Epigraphers & Second Sophistic Orators (Gen #45)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": 1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus codex -> Byzantium vellum minuscule manuscripts",
+        "language_gate": "Koine Greek -> Byzantine Literary Greek",
+        "redundancy_tier": "Low-Moderate (vulnerable to iconoclasm & 1204/1453 sieges)",
+        "host_institution": "Constantinople imperial libraries, monasteries & Patristic catenae",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Eastern Greek/Byzantine manuscript chain preserving Argonautic, Patristic, and Hymnic texts outside Rome."
+    },
+    {
+      "id": "G-046",
+      "gen_number": 46,
+      "year_start": 560,
+      "year_end": 584,
+      "display_span": "560–584 CE",
+      "era": "Medieval_Catholic",
+      "role": "silent_custodian",
+      "primary_stream": "latin_monastic",
+      "upstream_ids": [
+        "G-044"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Imperial Roman Grammatici & School Copyists of Virgil (Gen #46)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": -1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Vellum & parchment codices (uncial -> Carolingian minuscule)",
+        "language_gate": "Classical Latin -> Medieval Ecclesiastical Latin / Vernaculars",
+        "redundancy_tier": "Moderate-High (monastic & cathedral curriculum canons)",
+        "host_institution": "Benedictine & Dominican Abbeys; European cathedral schools",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Western monastic copyist relay keeping Ovidian, Virgilian, and Boethian hexameters intact across political collapse."
+    },
+    {
+      "id": "G-047",
+      "gen_number": 47,
+      "year_start": 585,
+      "year_end": 609,
+      "display_span": "585–609 CE",
+      "era": "Medieval_Catholic",
+      "role": "silent_custodian",
+      "primary_stream": "greek_byzantine",
+      "upstream_ids": [
+        "G-045"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Alexandrian & Caesarean Patristic Catenae Scribes (Gen #47)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": 1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus codex -> Byzantium vellum minuscule manuscripts",
+        "language_gate": "Koine Greek -> Byzantine Literary Greek",
+        "redundancy_tier": "Low-Moderate (vulnerable to iconoclasm & 1204/1453 sieges)",
+        "host_institution": "Constantinople imperial libraries, monasteries & Patristic catenae",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Eastern Greek/Byzantine manuscript chain preserving Argonautic, Patristic, and Hymnic texts outside Rome."
+    },
+    {
+      "id": "G-048",
+      "gen_number": 48,
+      "year_start": 610,
+      "year_end": 634,
+      "display_span": "610–634 CE",
+      "era": "Medieval_Catholic",
+      "role": "silent_custodian",
+      "primary_stream": "latin_monastic",
+      "upstream_ids": [
+        "G-046"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Late Latin Grammarians (Servius & Macrobius Tradition) (Gen #48)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": -1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Vellum & parchment codices (uncial -> Carolingian minuscule)",
+        "language_gate": "Classical Latin -> Medieval Ecclesiastical Latin / Vernaculars",
+        "redundancy_tier": "Moderate-High (monastic & cathedral curriculum canons)",
+        "host_institution": "Benedictine & Dominican Abbeys; European cathedral schools",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Western monastic copyist relay keeping Ovidian, Virgilian, and Boethian hexameters intact across political collapse."
+    },
+    {
+      "id": "G-049",
+      "gen_number": 49,
+      "year_start": 635,
+      "year_end": 659,
+      "display_span": "635–659 CE",
+      "era": "Medieval_Catholic",
+      "role": "silent_custodian",
+      "primary_stream": "greek_byzantine",
+      "upstream_ids": [
+        "G-047"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Athenian & Alexandrian Neoplatonists (Proclus & Damascius Tradition) (Gen #49)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": 1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus codex -> Byzantium vellum minuscule manuscripts",
+        "language_gate": "Koine Greek -> Byzantine Literary Greek",
+        "redundancy_tier": "Low-Moderate (vulnerable to iconoclasm & 1204/1453 sieges)",
+        "host_institution": "Constantinople imperial libraries, monasteries & Patristic catenae",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Eastern Greek/Byzantine manuscript chain preserving Argonautic, Patristic, and Hymnic texts outside Rome."
+    },
+    {
+      "id": "G-050",
+      "gen_number": 50,
+      "year_start": 660,
+      "year_end": 684,
+      "display_span": "660–684 CE",
+      "era": "Medieval_Catholic",
+      "role": "silent_custodian",
+      "primary_stream": "latin_monastic",
+      "upstream_ids": [
+        "G-048"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Vivarium Abbey Scriptorium (Cassiodorus Legacy) (Gen #50)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": -1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Vellum & parchment codices (uncial -> Carolingian minuscule)",
+        "language_gate": "Classical Latin -> Medieval Ecclesiastical Latin / Vernaculars",
+        "redundancy_tier": "Moderate-High (monastic & cathedral curriculum canons)",
+        "host_institution": "Benedictine & Dominican Abbeys; European cathedral schools",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Western monastic copyist relay keeping Ovidian, Virgilian, and Boethian hexameters intact across political collapse."
+    },
+    {
+      "id": "G-051",
+      "gen_number": 51,
+      "year_start": 685,
+      "year_end": 709,
+      "display_span": "685–709 CE",
+      "era": "Medieval_Catholic",
+      "role": "silent_custodian",
+      "primary_stream": "greek_byzantine",
+      "upstream_ids": [
+        "G-049"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Constantinopolitan Justinianic Imperial Codices (Gen #51)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": 1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus codex -> Byzantium vellum minuscule manuscripts",
+        "language_gate": "Koine Greek -> Byzantine Literary Greek",
+        "redundancy_tier": "Low-Moderate (vulnerable to iconoclasm & 1204/1453 sieges)",
+        "host_institution": "Constantinople imperial libraries, monasteries & Patristic catenae",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Eastern Greek/Byzantine manuscript chain preserving Argonautic, Patristic, and Hymnic texts outside Rome."
+    },
+    {
+      "id": "G-052",
+      "gen_number": 52,
+      "year_start": 710,
+      "year_end": 734,
+      "display_span": "710–734 CE",
+      "era": "Medieval_Catholic",
+      "role": "silent_custodian",
+      "primary_stream": "latin_monastic",
+      "upstream_ids": [
+        "G-050"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Monte Cassino & Bobbio Benedictine Parchment Scriptoria (Gen #52)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": -1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Vellum & parchment codices (uncial -> Carolingian minuscule)",
+        "language_gate": "Classical Latin -> Medieval Ecclesiastical Latin / Vernaculars",
+        "redundancy_tier": "Moderate-High (monastic & cathedral curriculum canons)",
+        "host_institution": "Benedictine & Dominican Abbeys; European cathedral schools",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Western monastic copyist relay keeping Ovidian, Virgilian, and Boethian hexameters intact across political collapse."
+    },
+    {
+      "id": "G-053",
+      "gen_number": 53,
+      "year_start": 735,
+      "year_end": 759,
+      "display_span": "735–759 CE",
+      "era": "Medieval_Catholic",
+      "role": "silent_custodian",
+      "primary_stream": "greek_byzantine",
+      "upstream_ids": [
+        "G-051"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Studite Monastery Minuscule Scriptorium (Script Reform) (Gen #53)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": 1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus codex -> Byzantium vellum minuscule manuscripts",
+        "language_gate": "Koine Greek -> Byzantine Literary Greek",
+        "redundancy_tier": "Low-Moderate (vulnerable to iconoclasm & 1204/1453 sieges)",
+        "host_institution": "Constantinople imperial libraries, monasteries & Patristic catenae",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Eastern Greek/Byzantine manuscript chain preserving Argonautic, Patristic, and Hymnic texts outside Rome."
+    },
+    {
+      "id": "G-054",
+      "gen_number": 54,
+      "year_start": 760,
+      "year_end": 784,
+      "display_span": "760–784 CE",
+      "era": "Medieval_Catholic",
+      "role": "silent_custodian",
+      "primary_stream": "latin_monastic",
+      "upstream_ids": [
+        "G-052"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Northumbrian & Irish Monastic Copyists (Bede Circle) (Gen #54)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": -1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Vellum & parchment codices (uncial -> Carolingian minuscule)",
+        "language_gate": "Classical Latin -> Medieval Ecclesiastical Latin / Vernaculars",
+        "redundancy_tier": "Moderate-High (monastic & cathedral curriculum canons)",
+        "host_institution": "Benedictine & Dominican Abbeys; European cathedral schools",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Western monastic copyist relay keeping Ovidian, Virgilian, and Boethian hexameters intact across political collapse."
+    },
+    {
+      "id": "G-055",
+      "gen_number": 55,
+      "year_start": 785,
+      "year_end": 809,
+      "display_span": "785–809 CE",
+      "era": "Medieval_Catholic",
+      "role": "silent_custodian",
+      "primary_stream": "greek_byzantine",
+      "upstream_ids": [
+        "G-053"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Circle of Patriarch Photius & the Suda Lexicographers (Gen #55)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": 1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus codex -> Byzantium vellum minuscule manuscripts",
+        "language_gate": "Koine Greek -> Byzantine Literary Greek",
+        "redundancy_tier": "Low-Moderate (vulnerable to iconoclasm & 1204/1453 sieges)",
+        "host_institution": "Constantinople imperial libraries, monasteries & Patristic catenae",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Eastern Greek/Byzantine manuscript chain preserving Argonautic, Patristic, and Hymnic texts outside Rome."
+    },
+    {
+      "id": "G-056",
+      "gen_number": 56,
+      "year_start": 810,
+      "year_end": 834,
+      "display_span": "810–834 CE",
+      "era": "Medieval_Catholic",
+      "role": "silent_custodian",
+      "primary_stream": "latin_monastic",
+      "upstream_ids": [
+        "G-054"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Carolingian Palace School at Aachen (Alcuin of York) (Gen #56)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": -1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Vellum & parchment codices (uncial -> Carolingian minuscule)",
+        "language_gate": "Classical Latin -> Medieval Ecclesiastical Latin / Vernaculars",
+        "redundancy_tier": "Moderate-High (monastic & cathedral curriculum canons)",
+        "host_institution": "Benedictine & Dominican Abbeys; European cathedral schools",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Western monastic copyist relay keeping Ovidian, Virgilian, and Boethian hexameters intact across political collapse."
+    },
+    {
+      "id": "G-057",
+      "gen_number": 57,
+      "year_start": 835,
+      "year_end": 859,
+      "display_span": "835–859 CE",
+      "era": "Medieval_Catholic",
+      "role": "silent_custodian",
+      "primary_stream": "greek_byzantine",
+      "upstream_ids": [
+        "G-055"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Tzetzes & Komnenian Byzantine Classical Scholars (Gen #57)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": 1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus codex -> Byzantium vellum minuscule manuscripts",
+        "language_gate": "Koine Greek -> Byzantine Literary Greek",
+        "redundancy_tier": "Low-Moderate (vulnerable to iconoclasm & 1204/1453 sieges)",
+        "host_institution": "Constantinople imperial libraries, monasteries & Patristic catenae",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Eastern Greek/Byzantine manuscript chain preserving Argonautic, Patristic, and Hymnic texts outside Rome."
+    },
+    {
+      "id": "G-058",
+      "gen_number": 58,
+      "year_start": 860,
+      "year_end": 884,
+      "display_span": "860–884 CE",
+      "era": "Medieval_Catholic",
+      "role": "silent_custodian",
+      "primary_stream": "latin_monastic",
+      "upstream_ids": [
+        "G-056"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Reichenau, St. Gall & Cluny Cloister Libraries (Gen #58)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": -1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Vellum & parchment codices (uncial -> Carolingian minuscule)",
+        "language_gate": "Classical Latin -> Medieval Ecclesiastical Latin / Vernaculars",
+        "redundancy_tier": "Moderate-High (monastic & cathedral curriculum canons)",
+        "host_institution": "Benedictine & Dominican Abbeys; European cathedral schools",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Western monastic copyist relay keeping Ovidian, Virgilian, and Boethian hexameters intact across political collapse."
+    },
+    {
+      "id": "G-059",
+      "gen_number": 59,
+      "year_start": 885,
+      "year_end": 909,
+      "display_span": "885–909 CE",
+      "era": "Medieval_Catholic",
+      "role": "silent_custodian",
+      "primary_stream": "greek_byzantine",
+      "upstream_ids": [
+        "G-057"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Palaeologan Scriptoria & 1453 Émigré Greek Scholars (Bessarion) (Gen #59)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": 1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus codex -> Byzantium vellum minuscule manuscripts",
+        "language_gate": "Koine Greek -> Byzantine Literary Greek",
+        "redundancy_tier": "Low-Moderate (vulnerable to iconoclasm & 1204/1453 sieges)",
+        "host_institution": "Constantinople imperial libraries, monasteries & Patristic catenae",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Eastern Greek/Byzantine manuscript chain preserving Argonautic, Patristic, and Hymnic texts outside Rome."
+    },
+    {
+      "id": "G-060",
+      "gen_number": 60,
+      "year_start": 910,
+      "year_end": 934,
+      "display_span": "910–934 CE",
+      "era": "Medieval_Catholic",
+      "role": "silent_custodian",
+      "primary_stream": "latin_monastic",
+      "upstream_ids": [
+        "G-058"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Cathedral Schools of Chartres, Orléans & Paris (Loire Poets) (Gen #60)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": -1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Vellum & parchment codices (uncial -> Carolingian minuscule)",
+        "language_gate": "Classical Latin -> Medieval Ecclesiastical Latin / Vernaculars",
+        "redundancy_tier": "Moderate-High (monastic & cathedral curriculum canons)",
+        "host_institution": "Benedictine & Dominican Abbeys; European cathedral schools",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Western monastic copyist relay keeping Ovidian, Virgilian, and Boethian hexameters intact across political collapse."
+    },
+    {
+      "id": "G-061",
+      "gen_number": 61,
+      "year_start": 935,
+      "year_end": 959,
+      "display_span": "935–959 CE",
+      "era": "Medieval_Catholic",
+      "role": "silent_custodian",
+      "primary_stream": "greek_byzantine",
+      "upstream_ids": [
+        "G-059"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Greco-Roman Epigraphers & Second Sophistic Orators (Gen #61)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": 1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus codex -> Byzantium vellum minuscule manuscripts",
+        "language_gate": "Koine Greek -> Byzantine Literary Greek",
+        "redundancy_tier": "Low-Moderate (vulnerable to iconoclasm & 1204/1453 sieges)",
+        "host_institution": "Constantinople imperial libraries, monasteries & Patristic catenae",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Eastern Greek/Byzantine manuscript chain preserving Argonautic, Patristic, and Hymnic texts outside Rome."
+    },
+    {
+      "id": "G-062",
+      "gen_number": 62,
+      "year_start": 960,
+      "year_end": 984,
+      "display_span": "960–984 CE",
+      "era": "Medieval_Catholic",
+      "role": "silent_custodian",
+      "primary_stream": "latin_monastic",
+      "upstream_ids": [
+        "G-060"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Dominican & Franciscan University Glossators (Gen #62)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": -1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Vellum & parchment codices (uncial -> Carolingian minuscule)",
+        "language_gate": "Classical Latin -> Medieval Ecclesiastical Latin / Vernaculars",
+        "redundancy_tier": "Moderate-High (monastic & cathedral curriculum canons)",
+        "host_institution": "Benedictine & Dominican Abbeys; European cathedral schools",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Western monastic copyist relay keeping Ovidian, Virgilian, and Boethian hexameters intact across political collapse."
+    },
+    {
+      "id": "G-063",
+      "gen_number": 63,
+      "year_start": 985,
+      "year_end": 1009,
+      "display_span": "985–1009 CE",
+      "era": "Medieval_Catholic",
+      "role": "silent_custodian",
+      "primary_stream": "greek_byzantine",
+      "upstream_ids": [
+        "G-061"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Alexandrian & Caesarean Patristic Catenae Scribes (Gen #63)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": 1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus codex -> Byzantium vellum minuscule manuscripts",
+        "language_gate": "Koine Greek -> Byzantine Literary Greek",
+        "redundancy_tier": "Low-Moderate (vulnerable to iconoclasm & 1204/1453 sieges)",
+        "host_institution": "Constantinople imperial libraries, monasteries & Patristic catenae",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Eastern Greek/Byzantine manuscript chain preserving Argonautic, Patristic, and Hymnic texts outside Rome."
+    },
+    {
+      "id": "G-064",
+      "gen_number": 64,
+      "year_start": 1010,
+      "year_end": 1034,
+      "display_span": "1010–1034 CE",
+      "era": "Medieval_Catholic",
+      "role": "silent_custodian",
+      "primary_stream": "latin_monastic",
+      "upstream_ids": [
+        "G-062"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Imperial Roman Grammatici & School Copyists of Virgil (Gen #64)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": -1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Vellum & parchment codices (uncial -> Carolingian minuscule)",
+        "language_gate": "Classical Latin -> Medieval Ecclesiastical Latin / Vernaculars",
+        "redundancy_tier": "Moderate-High (monastic & cathedral curriculum canons)",
+        "host_institution": "Benedictine & Dominican Abbeys; European cathedral schools",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Western monastic copyist relay keeping Ovidian, Virgilian, and Boethian hexameters intact across political collapse."
+    },
+    {
+      "id": "G-065",
+      "gen_number": 65,
+      "year_start": 1035,
+      "year_end": 1059,
+      "display_span": "1035–1059 CE",
+      "era": "Medieval_Catholic",
+      "role": "silent_custodian",
+      "primary_stream": "greek_byzantine",
+      "upstream_ids": [
+        "G-063"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Athenian & Alexandrian Neoplatonists (Proclus & Damascius Tradition) (Gen #65)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": 1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus codex -> Byzantium vellum minuscule manuscripts",
+        "language_gate": "Koine Greek -> Byzantine Literary Greek",
+        "redundancy_tier": "Low-Moderate (vulnerable to iconoclasm & 1204/1453 sieges)",
+        "host_institution": "Constantinople imperial libraries, monasteries & Patristic catenae",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Eastern Greek/Byzantine manuscript chain preserving Argonautic, Patristic, and Hymnic texts outside Rome."
+    },
+    {
+      "id": "G-066",
+      "gen_number": 66,
+      "year_start": 1060,
+      "year_end": 1084,
+      "display_span": "1060–1084 CE",
+      "era": "Medieval_Catholic",
+      "role": "silent_custodian",
+      "primary_stream": "latin_monastic",
+      "upstream_ids": [
+        "G-064"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Late Latin Grammarians (Servius & Macrobius Tradition) (Gen #66)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": -1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Vellum & parchment codices (uncial -> Carolingian minuscule)",
+        "language_gate": "Classical Latin -> Medieval Ecclesiastical Latin / Vernaculars",
+        "redundancy_tier": "Moderate-High (monastic & cathedral curriculum canons)",
+        "host_institution": "Benedictine & Dominican Abbeys; European cathedral schools",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Western monastic copyist relay keeping Ovidian, Virgilian, and Boethian hexameters intact across political collapse."
+    },
+    {
+      "id": "G-067",
+      "gen_number": 67,
+      "year_start": 1085,
+      "year_end": 1109,
+      "display_span": "1085–1109 CE",
+      "era": "Medieval_Catholic",
+      "role": "silent_custodian",
+      "primary_stream": "greek_byzantine",
+      "upstream_ids": [
+        "G-065"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Constantinopolitan Justinianic Imperial Codices (Gen #67)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": 1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus codex -> Byzantium vellum minuscule manuscripts",
+        "language_gate": "Koine Greek -> Byzantine Literary Greek",
+        "redundancy_tier": "Low-Moderate (vulnerable to iconoclasm & 1204/1453 sieges)",
+        "host_institution": "Constantinople imperial libraries, monasteries & Patristic catenae",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Eastern Greek/Byzantine manuscript chain preserving Argonautic, Patristic, and Hymnic texts outside Rome."
+    },
+    {
+      "id": "G-068",
+      "gen_number": 68,
+      "year_start": 1110,
+      "year_end": 1134,
+      "display_span": "1110–1134 CE",
+      "era": "Medieval_Catholic",
+      "role": "silent_custodian",
+      "primary_stream": "latin_monastic",
+      "upstream_ids": [
+        "G-066"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Vivarium Abbey Scriptorium (Cassiodorus Legacy) (Gen #68)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": -1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Vellum & parchment codices (uncial -> Carolingian minuscule)",
+        "language_gate": "Classical Latin -> Medieval Ecclesiastical Latin / Vernaculars",
+        "redundancy_tier": "Moderate-High (monastic & cathedral curriculum canons)",
+        "host_institution": "Benedictine & Dominican Abbeys; European cathedral schools",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Western monastic copyist relay keeping Ovidian, Virgilian, and Boethian hexameters intact across political collapse."
+    },
+    {
+      "id": "G-069",
+      "gen_number": 69,
+      "year_start": 1135,
+      "year_end": 1159,
+      "display_span": "1135–1159 CE",
+      "era": "Medieval_Catholic",
+      "role": "silent_custodian",
+      "primary_stream": "greek_byzantine",
+      "upstream_ids": [
+        "G-067"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Studite Monastery Minuscule Scriptorium (Script Reform) (Gen #69)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": 1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus codex -> Byzantium vellum minuscule manuscripts",
+        "language_gate": "Koine Greek -> Byzantine Literary Greek",
+        "redundancy_tier": "Low-Moderate (vulnerable to iconoclasm & 1204/1453 sieges)",
+        "host_institution": "Constantinople imperial libraries, monasteries & Patristic catenae",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Eastern Greek/Byzantine manuscript chain preserving Argonautic, Patristic, and Hymnic texts outside Rome."
+    },
+    {
+      "id": "G-070",
+      "gen_number": 70,
+      "year_start": 1160,
+      "year_end": 1184,
+      "display_span": "1160–1184 CE",
+      "era": "Medieval_Catholic",
+      "role": "silent_custodian",
+      "primary_stream": "latin_monastic",
+      "upstream_ids": [
+        "G-068"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Monte Cassino & Bobbio Benedictine Parchment Scriptoria (Gen #70)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": -1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Vellum & parchment codices (uncial -> Carolingian minuscule)",
+        "language_gate": "Classical Latin -> Medieval Ecclesiastical Latin / Vernaculars",
+        "redundancy_tier": "Moderate-High (monastic & cathedral curriculum canons)",
+        "host_institution": "Benedictine & Dominican Abbeys; European cathedral schools",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Western monastic copyist relay keeping Ovidian, Virgilian, and Boethian hexameters intact across political collapse."
+    },
+    {
+      "id": "G-071",
+      "gen_number": 71,
+      "year_start": 1185,
+      "year_end": 1209,
+      "display_span": "1185–1209 CE",
+      "era": "Medieval_Catholic",
+      "role": "silent_custodian",
+      "primary_stream": "greek_byzantine",
+      "upstream_ids": [
+        "G-069"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Circle of Patriarch Photius & the Suda Lexicographers (Gen #71)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": 1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus codex -> Byzantium vellum minuscule manuscripts",
+        "language_gate": "Koine Greek -> Byzantine Literary Greek",
+        "redundancy_tier": "Low-Moderate (vulnerable to iconoclasm & 1204/1453 sieges)",
+        "host_institution": "Constantinople imperial libraries, monasteries & Patristic catenae",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Eastern Greek/Byzantine manuscript chain preserving Argonautic, Patristic, and Hymnic texts outside Rome."
+    },
+    {
+      "id": "G-072",
+      "gen_number": 72,
+      "year_start": 1210,
+      "year_end": 1234,
+      "display_span": "1210–1234 CE",
+      "era": "Medieval_Catholic",
+      "role": "silent_custodian",
+      "primary_stream": "latin_monastic",
+      "upstream_ids": [
+        "G-070"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Northumbrian & Irish Monastic Copyists (Bede Circle) (Gen #72)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": -1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Vellum & parchment codices (uncial -> Carolingian minuscule)",
+        "language_gate": "Classical Latin -> Medieval Ecclesiastical Latin / Vernaculars",
+        "redundancy_tier": "Moderate-High (monastic & cathedral curriculum canons)",
+        "host_institution": "Benedictine & Dominican Abbeys; European cathedral schools",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Western monastic copyist relay keeping Ovidian, Virgilian, and Boethian hexameters intact across political collapse."
+    },
+    {
+      "id": "G-073",
+      "gen_number": 73,
+      "year_start": 1235,
+      "year_end": 1259,
+      "display_span": "1235–1259 CE",
+      "era": "Medieval_Catholic",
+      "role": "silent_custodian",
+      "primary_stream": "greek_byzantine",
+      "upstream_ids": [
+        "G-071"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Tzetzes & Komnenian Byzantine Classical Scholars (Gen #73)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": 1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus codex -> Byzantium vellum minuscule manuscripts",
+        "language_gate": "Koine Greek -> Byzantine Literary Greek",
+        "redundancy_tier": "Low-Moderate (vulnerable to iconoclasm & 1204/1453 sieges)",
+        "host_institution": "Constantinople imperial libraries, monasteries & Patristic catenae",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Eastern Greek/Byzantine manuscript chain preserving Argonautic, Patristic, and Hymnic texts outside Rome."
+    },
+    {
+      "id": "G-074",
+      "gen_number": 74,
+      "year_start": 1260,
+      "year_end": 1284,
+      "display_span": "1260–1284 CE",
+      "era": "Medieval_Catholic",
+      "role": "silent_custodian",
+      "primary_stream": "latin_monastic",
+      "upstream_ids": [
+        "G-072"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Carolingian Palace School at Aachen (Alcuin of York) (Gen #74)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": -1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Vellum & parchment codices (uncial -> Carolingian minuscule)",
+        "language_gate": "Classical Latin -> Medieval Ecclesiastical Latin / Vernaculars",
+        "redundancy_tier": "Moderate-High (monastic & cathedral curriculum canons)",
+        "host_institution": "Benedictine & Dominican Abbeys; European cathedral schools",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Western monastic copyist relay keeping Ovidian, Virgilian, and Boethian hexameters intact across political collapse."
+    },
+    {
+      "id": "G-075",
+      "gen_number": 75,
+      "year_start": 1285,
+      "year_end": 1309,
+      "display_span": "1285–1309 CE",
+      "era": "Medieval_Catholic",
+      "role": "silent_custodian",
+      "primary_stream": "greek_byzantine",
+      "upstream_ids": [
+        "G-073"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Palaeologan Scriptoria & 1453 Émigré Greek Scholars (Bessarion) (Gen #75)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": 1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus codex -> Byzantium vellum minuscule manuscripts",
+        "language_gate": "Koine Greek -> Byzantine Literary Greek",
+        "redundancy_tier": "Low-Moderate (vulnerable to iconoclasm & 1204/1453 sieges)",
+        "host_institution": "Constantinople imperial libraries, monasteries & Patristic catenae",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Eastern Greek/Byzantine manuscript chain preserving Argonautic, Patristic, and Hymnic texts outside Rome."
+    },
+    {
+      "id": "G-076",
+      "gen_number": 76,
+      "year_start": 1310,
+      "year_end": 1334,
+      "display_span": "1310–1334 CE",
+      "era": "Medieval_Catholic",
+      "role": "mutation_witness",
+      "primary_stream": "latin_monastic",
+      "upstream_ids": [
+        "G-074"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [
+        "TL-23",
+        "TL-24"
+      ],
+      "custodian_or_witness": "Ovide Moralisé Master, Pierre Bersuire & Auchinleck Poet (TL-23, TL-24)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": -1,
+        "named_eurydice": 1,
+        "redemptive_return": 1,
+        "sparagmos_head_oracle": 0,
+        "taboo_c331_glance": -1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Vellum & parchment codices (uncial -> Carolingian minuscule)",
+        "language_gate": "Classical Latin -> Medieval Ecclesiastical Latin / Vernaculars",
+        "redundancy_tier": "Moderate-High (monastic & cathedral curriculum canons)",
+        "host_institution": "Benedictine & Dominican Abbeys; European cathedral schools",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Direct witness link: Fourfold Catholic Exegesis in the Ovide Moralisé; Sir Orfeo — The Medieval Christian Happy Ending."
+    },
+    {
+      "id": "G-077",
+      "gen_number": 77,
+      "year_start": 1335,
+      "year_end": 1359,
+      "display_span": "1335–1359 CE",
+      "era": "Medieval_Catholic",
+      "role": "silent_custodian",
+      "primary_stream": "greek_byzantine",
+      "upstream_ids": [
+        "G-075"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Greco-Roman Epigraphers & Second Sophistic Orators (Gen #77)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": 1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus codex -> Byzantium vellum minuscule manuscripts",
+        "language_gate": "Koine Greek -> Byzantine Literary Greek",
+        "redundancy_tier": "Low-Moderate (vulnerable to iconoclasm & 1204/1453 sieges)",
+        "host_institution": "Constantinople imperial libraries, monasteries & Patristic catenae",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Eastern Greek/Byzantine manuscript chain preserving Argonautic, Patristic, and Hymnic texts outside Rome."
+    },
+    {
+      "id": "G-078",
+      "gen_number": 78,
+      "year_start": 1360,
+      "year_end": 1384,
+      "display_span": "1360–1384 CE",
+      "era": "Medieval_Catholic",
+      "role": "silent_custodian",
+      "primary_stream": "latin_monastic",
+      "upstream_ids": [
+        "G-076"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Reichenau, St. Gall & Cluny Cloister Libraries (Gen #78)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": -1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Vellum & parchment codices (uncial -> Carolingian minuscule)",
+        "language_gate": "Classical Latin -> Medieval Ecclesiastical Latin / Vernaculars",
+        "redundancy_tier": "Moderate-High (monastic & cathedral curriculum canons)",
+        "host_institution": "Benedictine & Dominican Abbeys; European cathedral schools",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Western monastic copyist relay keeping Ovidian, Virgilian, and Boethian hexameters intact across political collapse."
+    },
+    {
+      "id": "G-079",
+      "gen_number": 79,
+      "year_start": 1385,
+      "year_end": 1409,
+      "display_span": "1385–1409 CE",
+      "era": "Medieval_Catholic",
+      "role": "silent_custodian",
+      "primary_stream": "greek_byzantine",
+      "upstream_ids": [
+        "G-077"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Alexandrian & Caesarean Patristic Catenae Scribes (Gen #79)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": 1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus codex -> Byzantium vellum minuscule manuscripts",
+        "language_gate": "Koine Greek -> Byzantine Literary Greek",
+        "redundancy_tier": "Low-Moderate (vulnerable to iconoclasm & 1204/1453 sieges)",
+        "host_institution": "Constantinople imperial libraries, monasteries & Patristic catenae",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Eastern Greek/Byzantine manuscript chain preserving Argonautic, Patristic, and Hymnic texts outside Rome."
+    },
+    {
+      "id": "G-080",
+      "gen_number": 80,
+      "year_start": 1410,
+      "year_end": 1434,
+      "display_span": "1410–1434 CE",
+      "era": "Medieval_Catholic",
+      "role": "silent_custodian",
+      "primary_stream": "latin_monastic",
+      "upstream_ids": [
+        "G-078"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Cathedral Schools of Chartres, Orléans & Paris (Loire Poets) (Gen #80)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": -1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Vellum & parchment codices (uncial -> Carolingian minuscule)",
+        "language_gate": "Classical Latin -> Medieval Ecclesiastical Latin / Vernaculars",
+        "redundancy_tier": "Moderate-High (monastic & cathedral curriculum canons)",
+        "host_institution": "Benedictine & Dominican Abbeys; European cathedral schools",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Western monastic copyist relay keeping Ovidian, Virgilian, and Boethian hexameters intact across political collapse."
+    },
+    {
+      "id": "G-081",
+      "gen_number": 81,
+      "year_start": 1435,
+      "year_end": 1459,
+      "display_span": "1435–1459 CE",
+      "era": "Medieval_Catholic",
+      "role": "silent_custodian",
+      "primary_stream": "greek_byzantine",
+      "upstream_ids": [
+        "G-079"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Athenian & Alexandrian Neoplatonists (Proclus & Damascius Tradition) (Gen #81)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": 1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 0,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Papyrus codex -> Byzantium vellum minuscule manuscripts",
+        "language_gate": "Koine Greek -> Byzantine Literary Greek",
+        "redundancy_tier": "Low-Moderate (vulnerable to iconoclasm & 1204/1453 sieges)",
+        "host_institution": "Constantinople imperial libraries, monasteries & Patristic catenae",
+        "lost_siblings": "Numerous unglossed vernacular minstrel lays prior to Auchinleck MS"
+      },
+      "transmission_note": "Eastern Greek/Byzantine manuscript chain preserving Argonautic, Patristic, and Hymnic texts outside Rome."
+    },
+    {
+      "id": "G-082",
+      "gen_number": 82,
+      "year_start": 1460,
+      "year_end": 1484,
+      "display_span": "1460–1484 CE",
+      "era": "Renaissance_Baroque",
+      "role": "mutation_witness",
+      "primary_stream": "vernacular_stage",
+      "upstream_ids": [
+        "G-080",
+        "G-081"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [
+        "TL-25",
+        "TL-26"
+      ],
+      "custodian_or_witness": "Marsilio Ficino & Angelo Poliziano in Florence/Mantua (TL-25, TL-26)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Movable-type printed scores, libretti & national dictionaries",
+        "language_gate": "Neo-Latin & Greek -> Italian, French, German, English print",
+        "redundancy_tier": "High (multi-city European print runs)",
+        "host_institution": "Medici/Mantua courts, Venetian presses, Paris & Vienna stages",
+        "lost_siblings": "Early ephemerally staged Mantuan intermezzi & unprinted Florentine airs"
+      },
+      "transmission_note": "Direct witness link: Marsilio Ficino's Florentine Orphic Singing & Prisca Theologia; Poliziano's Favola di Orfeo — Secular Renaissance Theater."
+    },
+    {
+      "id": "G-083",
+      "gen_number": 83,
+      "year_start": 1485,
+      "year_end": 1509,
+      "display_span": "1485–1509 CE",
+      "era": "Renaissance_Baroque",
+      "role": "silent_custodian",
+      "primary_stream": "vernacular_stage",
+      "upstream_ids": [
+        "G-082"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Venetian Aldine Press Editors & Florentine Camerata Hosts (Gen #83)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Movable-type printed scores, libretti & national dictionaries",
+        "language_gate": "Neo-Latin & Greek -> Italian, French, German, English print",
+        "redundancy_tier": "High (multi-city European print runs)",
+        "host_institution": "Medici/Mantua courts, Venetian presses, Paris & Vienna stages",
+        "lost_siblings": "Early ephemerally staged Mantuan intermezzi & unprinted Florentine airs"
+      },
+      "transmission_note": "Generational custodian link preserving inherited performance, print, or schoolroom editions across a 25-year span."
+    },
+    {
+      "id": "G-084",
+      "gen_number": 84,
+      "year_start": 1510,
+      "year_end": 1534,
+      "display_span": "1510–1534 CE",
+      "era": "Renaissance_Baroque",
+      "role": "silent_custodian",
+      "primary_stream": "vernacular_stage",
+      "upstream_ids": [
+        "G-083"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "European Court Librettists & Baroque Conservatories (Gen #84)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 0,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Movable-type printed scores, libretti & national dictionaries",
+        "language_gate": "Neo-Latin & Greek -> Italian, French, German, English print",
+        "redundancy_tier": "High (multi-city European print runs)",
+        "host_institution": "Medici/Mantua courts, Venetian presses, Paris & Vienna stages",
+        "lost_siblings": "Early ephemerally staged Mantuan intermezzi & unprinted Florentine airs"
+      },
+      "transmission_note": "Generational custodian link preserving inherited performance, print, or schoolroom editions across a 25-year span."
+    },
+    {
+      "id": "G-085",
+      "gen_number": 85,
+      "year_start": 1535,
+      "year_end": 1559,
+      "display_span": "1535–1559 CE",
+      "era": "Renaissance_Baroque",
+      "role": "silent_custodian",
+      "primary_stream": "vernacular_stage",
+      "upstream_ids": [
+        "G-084"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "18th–19th c. European Classical Lexicographers & Opera Houses (Gen #85)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 0,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Movable-type printed scores, libretti & national dictionaries",
+        "language_gate": "Neo-Latin & Greek -> Italian, French, German, English print",
+        "redundancy_tier": "High (multi-city European print runs)",
+        "host_institution": "Medici/Mantua courts, Venetian presses, Paris & Vienna stages",
+        "lost_siblings": "Early ephemerally staged Mantuan intermezzi & unprinted Florentine airs"
+      },
+      "transmission_note": "Generational custodian link preserving inherited performance, print, or schoolroom editions across a 25-year span."
+    },
+    {
+      "id": "G-086",
+      "gen_number": 86,
+      "year_start": 1560,
+      "year_end": 1584,
+      "display_span": "1560–1584 CE",
+      "era": "Renaissance_Baroque",
+      "role": "silent_custodian",
+      "primary_stream": "vernacular_stage",
+      "upstream_ids": [
+        "G-085"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Venetian Aldine Press Editors & Florentine Camerata Hosts (Gen #86)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 0,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Movable-type printed scores, libretti & national dictionaries",
+        "language_gate": "Neo-Latin & Greek -> Italian, French, German, English print",
+        "redundancy_tier": "High (multi-city European print runs)",
+        "host_institution": "Medici/Mantua courts, Venetian presses, Paris & Vienna stages",
+        "lost_siblings": "Early ephemerally staged Mantuan intermezzi & unprinted Florentine airs"
+      },
+      "transmission_note": "Generational custodian link preserving inherited performance, print, or schoolroom editions across a 25-year span."
+    },
+    {
+      "id": "G-087",
+      "gen_number": 87,
+      "year_start": 1585,
+      "year_end": 1609,
+      "display_span": "1585–1609 CE",
+      "era": "Renaissance_Baroque",
+      "role": "mutation_witness",
+      "primary_stream": "vernacular_stage",
+      "upstream_ids": [
+        "G-086"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [
+        "TL-27",
+        "TL-28"
+      ],
+      "custodian_or_witness": "Peri, Rinuccini & Claudio Monteverdi — Florentine/Mantuan Opera (TL-27, TL-28)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 0,
+        "named_eurydice": 1,
+        "redemptive_return": 1,
+        "sparagmos_head_oracle": -1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Movable-type printed scores, libretti & national dictionaries",
+        "language_gate": "Neo-Latin & Greek -> Italian, French, German, English print",
+        "redundancy_tier": "High (multi-city European print runs)",
+        "host_institution": "Medici/Mantua courts, Venetian presses, Paris & Vienna stages",
+        "lost_siblings": "Early ephemerally staged Mantuan intermezzi & unprinted Florentine airs"
+      },
+      "transmission_note": "Direct witness link: Peri & Rinuccini's Euridice — Oldest Surviving Opera Score; Monteverdi's L'Orfeo — The Birth of Modern Grand Opera."
+    },
+    {
+      "id": "G-088",
+      "gen_number": 88,
+      "year_start": 1610,
+      "year_end": 1634,
+      "display_span": "1610–1634 CE",
+      "era": "Renaissance_Baroque",
+      "role": "silent_custodian",
+      "primary_stream": "vernacular_stage",
+      "upstream_ids": [
+        "G-087"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "European Court Librettists & Baroque Conservatories (Gen #88)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 0,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Movable-type printed scores, libretti & national dictionaries",
+        "language_gate": "Neo-Latin & Greek -> Italian, French, German, English print",
+        "redundancy_tier": "High (multi-city European print runs)",
+        "host_institution": "Medici/Mantua courts, Venetian presses, Paris & Vienna stages",
+        "lost_siblings": "Early ephemerally staged Mantuan intermezzi & unprinted Florentine airs"
+      },
+      "transmission_note": "Generational custodian link preserving inherited performance, print, or schoolroom editions across a 25-year span."
+    },
+    {
+      "id": "G-089",
+      "gen_number": 89,
+      "year_start": 1635,
+      "year_end": 1659,
+      "display_span": "1635–1659 CE",
+      "era": "Renaissance_Baroque",
+      "role": "silent_custodian",
+      "primary_stream": "vernacular_stage",
+      "upstream_ids": [
+        "G-088"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "18th–19th c. European Classical Lexicographers & Opera Houses (Gen #89)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 0,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Movable-type printed scores, libretti & national dictionaries",
+        "language_gate": "Neo-Latin & Greek -> Italian, French, German, English print",
+        "redundancy_tier": "High (multi-city European print runs)",
+        "host_institution": "Medici/Mantua courts, Venetian presses, Paris & Vienna stages",
+        "lost_siblings": "Early ephemerally staged Mantuan intermezzi & unprinted Florentine airs"
+      },
+      "transmission_note": "Generational custodian link preserving inherited performance, print, or schoolroom editions across a 25-year span."
+    },
+    {
+      "id": "G-090",
+      "gen_number": 90,
+      "year_start": 1660,
+      "year_end": 1684,
+      "display_span": "1660–1684 CE",
+      "era": "Renaissance_Baroque",
+      "role": "silent_custodian",
+      "primary_stream": "vernacular_stage",
+      "upstream_ids": [
+        "G-089"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Venetian Aldine Press Editors & Florentine Camerata Hosts (Gen #90)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 0,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Movable-type printed scores, libretti & national dictionaries",
+        "language_gate": "Neo-Latin & Greek -> Italian, French, German, English print",
+        "redundancy_tier": "High (multi-city European print runs)",
+        "host_institution": "Medici/Mantua courts, Venetian presses, Paris & Vienna stages",
+        "lost_siblings": "Early ephemerally staged Mantuan intermezzi & unprinted Florentine airs"
+      },
+      "transmission_note": "Generational custodian link preserving inherited performance, print, or schoolroom editions across a 25-year span."
+    },
+    {
+      "id": "G-091",
+      "gen_number": 91,
+      "year_start": 1685,
+      "year_end": 1709,
+      "display_span": "1685–1709 CE",
+      "era": "Renaissance_Baroque",
+      "role": "silent_custodian",
+      "primary_stream": "vernacular_stage",
+      "upstream_ids": [
+        "G-090"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "European Court Librettists & Baroque Conservatories (Gen #91)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 0,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Movable-type printed scores, libretti & national dictionaries",
+        "language_gate": "Neo-Latin & Greek -> Italian, French, German, English print",
+        "redundancy_tier": "High (multi-city European print runs)",
+        "host_institution": "Medici/Mantua courts, Venetian presses, Paris & Vienna stages",
+        "lost_siblings": "Early ephemerally staged Mantuan intermezzi & unprinted Florentine airs"
+      },
+      "transmission_note": "Generational custodian link preserving inherited performance, print, or schoolroom editions across a 25-year span."
+    },
+    {
+      "id": "G-092",
+      "gen_number": 92,
+      "year_start": 1710,
+      "year_end": 1734,
+      "display_span": "1710–1734 CE",
+      "era": "Renaissance_Baroque",
+      "role": "silent_custodian",
+      "primary_stream": "vernacular_stage",
+      "upstream_ids": [
+        "G-091"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "18th–19th c. European Classical Lexicographers & Opera Houses (Gen #92)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 0,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Movable-type printed scores, libretti & national dictionaries",
+        "language_gate": "Neo-Latin & Greek -> Italian, French, German, English print",
+        "redundancy_tier": "High (multi-city European print runs)",
+        "host_institution": "Medici/Mantua courts, Venetian presses, Paris & Vienna stages",
+        "lost_siblings": "Early ephemerally staged Mantuan intermezzi & unprinted Florentine airs"
+      },
+      "transmission_note": "Generational custodian link preserving inherited performance, print, or schoolroom editions across a 25-year span."
+    },
+    {
+      "id": "G-093",
+      "gen_number": 93,
+      "year_start": 1735,
+      "year_end": 1759,
+      "display_span": "1735–1759 CE",
+      "era": "Renaissance_Baroque",
+      "role": "silent_custodian",
+      "primary_stream": "vernacular_stage",
+      "upstream_ids": [
+        "G-092"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Venetian Aldine Press Editors & Florentine Camerata Hosts (Gen #93)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 0,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Movable-type printed scores, libretti & national dictionaries",
+        "language_gate": "Neo-Latin & Greek -> Italian, French, German, English print",
+        "redundancy_tier": "High (multi-city European print runs)",
+        "host_institution": "Medici/Mantua courts, Venetian presses, Paris & Vienna stages",
+        "lost_siblings": "Early ephemerally staged Mantuan intermezzi & unprinted Florentine airs"
+      },
+      "transmission_note": "Generational custodian link preserving inherited performance, print, or schoolroom editions across a 25-year span."
+    },
+    {
+      "id": "G-094",
+      "gen_number": 94,
+      "year_start": 1760,
+      "year_end": 1784,
+      "display_span": "1760–1784 CE",
+      "era": "Enlightenment_Modern",
+      "role": "mutation_witness",
+      "primary_stream": "vernacular_stage",
+      "upstream_ids": [
+        "G-093"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [
+        "TL-29"
+      ],
+      "custodian_or_witness": "Christoph Willibald Gluck & Calzabigi in Vienna/Paris (TL-29)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 0,
+        "named_eurydice": 1,
+        "redemptive_return": 1,
+        "sparagmos_head_oracle": 0,
+        "taboo_c331_glance": -1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Movable-type printed scores, libretti & national dictionaries",
+        "language_gate": "Neo-Latin & Greek -> Italian, French, German, English print",
+        "redundancy_tier": "High (multi-city European print runs)",
+        "host_institution": "Medici/Mantua courts, Venetian presses, Paris & Vienna stages",
+        "lost_siblings": "Provincial 19th-c. parodies and damaged pre-digital silent-film prints"
+      },
+      "transmission_note": "Direct witness link: Gluck's Orfeo ed Euridice — The Enlightenment Lieto Fine."
+    },
+    {
+      "id": "G-095",
+      "gen_number": 95,
+      "year_start": 1785,
+      "year_end": 1809,
+      "display_span": "1785–1809 CE",
+      "era": "Enlightenment_Modern",
+      "role": "silent_custodian",
+      "primary_stream": "vernacular_stage",
+      "upstream_ids": [
+        "G-094"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "European Court Librettists & Baroque Conservatories (Gen #95)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 0,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Movable-type printed scores, libretti & national dictionaries",
+        "language_gate": "Neo-Latin & Greek -> Italian, French, German, English print",
+        "redundancy_tier": "High (multi-city European print runs)",
+        "host_institution": "Medici/Mantua courts, Venetian presses, Paris & Vienna stages",
+        "lost_siblings": "Provincial 19th-c. parodies and damaged pre-digital silent-film prints"
+      },
+      "transmission_note": "Generational custodian link preserving inherited performance, print, or schoolroom editions across a 25-year span."
+    },
+    {
+      "id": "G-096",
+      "gen_number": 96,
+      "year_start": 1810,
+      "year_end": 1834,
+      "display_span": "1810–1834 CE",
+      "era": "Enlightenment_Modern",
+      "role": "silent_custodian",
+      "primary_stream": "vernacular_stage",
+      "upstream_ids": [
+        "G-095"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "18th–19th c. European Classical Lexicographers & Opera Houses (Gen #96)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 0,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Movable-type printed scores, libretti & national dictionaries",
+        "language_gate": "Neo-Latin & Greek -> Italian, French, German, English print",
+        "redundancy_tier": "High (multi-city European print runs)",
+        "host_institution": "Medici/Mantua courts, Venetian presses, Paris & Vienna stages",
+        "lost_siblings": "Provincial 19th-c. parodies and damaged pre-digital silent-film prints"
+      },
+      "transmission_note": "Generational custodian link preserving inherited performance, print, or schoolroom editions across a 25-year span."
+    },
+    {
+      "id": "G-097",
+      "gen_number": 97,
+      "year_start": 1835,
+      "year_end": 1859,
+      "display_span": "1835–1859 CE",
+      "era": "Enlightenment_Modern",
+      "role": "mutation_witness",
+      "primary_stream": "vernacular_stage",
+      "upstream_ids": [
+        "G-096"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [
+        "TL-30"
+      ],
+      "custodian_or_witness": "Jacques Offenbach — Théâtre des Bouffes-Parisiens (TL-30)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 0,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 0,
+        "taboo_c331_glance": -1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Movable-type printed scores, libretti & national dictionaries",
+        "language_gate": "Neo-Latin & Greek -> Italian, French, German, English print",
+        "redundancy_tier": "High (multi-city European print runs)",
+        "host_institution": "Medici/Mantua courts, Venetian presses, Paris & Vienna stages",
+        "lost_siblings": "Provincial 19th-c. parodies and damaged pre-digital silent-film prints"
+      },
+      "transmission_note": "Direct witness link: Offenbach's Orphée aux Enfers — Second Empire Satire."
+    },
+    {
+      "id": "G-098",
+      "gen_number": 98,
+      "year_start": 1860,
+      "year_end": 1884,
+      "display_span": "1860–1884 CE",
+      "era": "Enlightenment_Modern",
+      "role": "silent_custodian",
+      "primary_stream": "vernacular_stage",
+      "upstream_ids": [
+        "G-097"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Venetian Aldine Press Editors & Florentine Camerata Hosts (Gen #98)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 0,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Movable-type printed scores, libretti & national dictionaries",
+        "language_gate": "Neo-Latin & Greek -> Italian, French, German, English print",
+        "redundancy_tier": "High (multi-city European print runs)",
+        "host_institution": "Medici/Mantua courts, Venetian presses, Paris & Vienna stages",
+        "lost_siblings": "Provincial 19th-c. parodies and damaged pre-digital silent-film prints"
+      },
+      "transmission_note": "Generational custodian link preserving inherited performance, print, or schoolroom editions across a 25-year span."
+    },
+    {
+      "id": "G-099",
+      "gen_number": 99,
+      "year_start": 1885,
+      "year_end": 1909,
+      "display_span": "1885–1909 CE",
+      "era": "Enlightenment_Modern",
+      "role": "capsule_recovery",
+      "primary_stream": "global_digital",
+      "upstream_ids": [
+        "G-098"
+      ],
+      "capsule_upstream_ids": [
+        "G-001"
+      ],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "French Delphic Excavators & Fin-de-Siècle Symbolist Circle",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Global print, celluloid cinema, digital repositories & multispectral HSI",
+        "language_gate": "Multilingual global vernaculars + Unicode Polytonic Greek",
+        "redundancy_tier": "Extreme (distributed global servers + excavated artifacts)",
+        "host_institution": "Public stages, cinema archives, universities & open-source repositories",
+        "lost_siblings": "Provincial 19th-c. parodies and damaged pre-digital silent-film prints"
+      },
+      "transmission_note": "1894 French excavation of the Delphi ΟΡΦΑΣ metope restores pre-tragedy Archaic visual evidence"
+    },
+    {
+      "id": "G-100",
+      "gen_number": 100,
+      "year_start": 1910,
+      "year_end": 1934,
+      "display_span": "1910–1934 CE",
+      "era": "Enlightenment_Modern",
+      "role": "mutation_witness",
+      "primary_stream": "global_digital",
+      "upstream_ids": [
+        "G-099"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [
+        "TL-31"
+      ],
+      "custodian_or_witness": "Rainer Maria Rilke — Sonnets to Orpheus (TL-31)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": 1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Global print, celluloid cinema, digital repositories & multispectral HSI",
+        "language_gate": "Multilingual global vernaculars + Unicode Polytonic Greek",
+        "redundancy_tier": "Extreme (distributed global servers + excavated artifacts)",
+        "host_institution": "Public stages, cinema archives, universities & open-source repositories",
+        "lost_siblings": "Provincial 19th-c. parodies and damaged pre-digital silent-film prints"
+      },
+      "transmission_note": "Direct witness link: Rilke's Sonnets to Orpheus — Post-War Metamorphosis."
+    },
+    {
+      "id": "G-101",
+      "gen_number": 101,
+      "year_start": 1935,
+      "year_end": 1959,
+      "display_span": "1935–1959 CE",
+      "era": "Enlightenment_Modern",
+      "role": "mutation_witness",
+      "primary_stream": "global_digital",
+      "upstream_ids": [
+        "G-100"
+      ],
+      "capsule_upstream_ids": [
+        "G-004"
+      ],
+      "is_capsule_origin": false,
+      "milestone_ids": [
+        "TL-32",
+        "TL-33"
+      ],
+      "custodian_or_witness": "Jean Cocteau, Vinicius de Moraes, Marcel Camus & Olbia Excavators (TL-32, TL-33)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": 1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Global print, celluloid cinema, digital repositories & multispectral HSI",
+        "language_gate": "Multilingual global vernaculars + Unicode Polytonic Greek",
+        "redundancy_tier": "Extreme (distributed global servers + excavated artifacts)",
+        "host_institution": "Public stages, cinema archives, universities & open-source repositories",
+        "lost_siblings": "Provincial 19th-c. parodies and damaged pre-digital silent-film prints"
+      },
+      "transmission_note": "1951 excavation of the Olbia Bone Plaques reveals 5th-c. BCE 'ΒΙΟΣ ΘΑΝΑΤΟΣ ΒΙΟΣ · ΟΡΦΙΚΟΙ' liturgy"
+    },
+    {
+      "id": "G-102",
+      "gen_number": 102,
+      "year_start": 1960,
+      "year_end": 1984,
+      "display_span": "1960–1984 CE",
+      "era": "Enlightenment_Modern",
+      "role": "capsule_recovery",
+      "primary_stream": "global_digital",
+      "upstream_ids": [
+        "G-101"
+      ],
+      "capsule_upstream_ids": [
+        "G-007",
+        "G-010"
+      ],
+      "is_capsule_origin": false,
+      "milestone_ids": [],
+      "custodian_or_witness": "Thessaloniki Derveni Excavators & Calabrian Epigraphers (1962–1969)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Global print, celluloid cinema, digital repositories & multispectral HSI",
+        "language_gate": "Multilingual global vernaculars + Unicode Polytonic Greek",
+        "redundancy_tier": "Extreme (distributed global servers + excavated artifacts)",
+        "host_institution": "Public stages, cinema archives, universities & open-source repositories",
+        "lost_siblings": "Provincial 19th-c. parodies and damaged pre-digital silent-film prints"
+      },
+      "transmission_note": "1962 Derveni Papyrus & 1969 Hipponion Gold Lamella recoveries bypass ~90 living generations"
+    },
+    {
+      "id": "G-103",
+      "gen_number": 103,
+      "year_start": 1985,
+      "year_end": 2009,
+      "display_span": "1985–2009 CE",
+      "era": "Contemporary_To_2026",
+      "role": "mutation_witness",
+      "primary_stream": "global_digital",
+      "upstream_ids": [
+        "G-102"
+      ],
+      "capsule_upstream_ids": [
+        "G-007"
+      ],
+      "is_capsule_origin": false,
+      "milestone_ids": [
+        "TL-34",
+        "TL-35"
+      ],
+      "custodian_or_witness": "Harrison Birtwistle, Philip Glass, Sarah Ruhl & Pelinna Editors (TL-34, TL-35)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": 1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Global print, celluloid cinema, digital repositories & multispectral HSI",
+        "language_gate": "Multilingual global vernaculars + Unicode Polytonic Greek",
+        "redundancy_tier": "Extreme (distributed global servers + excavated artifacts)",
+        "host_institution": "Public stages, cinema archives, universities & open-source repositories",
+        "lost_siblings": "Ephemeral regional productions archived only in partial performance notes"
+      },
+      "transmission_note": "1985 Pelinna ivy-leaf gold lamellae corroborate subterranean Dionysiac-Orphic afterlife passports"
+    },
+    {
+      "id": "G-104",
+      "gen_number": 104,
+      "year_start": 2010,
+      "year_end": 2026,
+      "display_span": "2010–2026 CE",
+      "era": "Contemporary_To_2026",
+      "role": "mutation_witness",
+      "primary_stream": "global_digital",
+      "upstream_ids": [
+        "G-103"
+      ],
+      "capsule_upstream_ids": [],
+      "is_capsule_origin": false,
+      "milestone_ids": [
+        "TL-36",
+        "TL-37"
+      ],
+      "custodian_or_witness": "Anaïs Mitchell, Céline Sciamma, Digital Derveni & Global Audiences (TL-36, TL-37)",
+      "introduced_mythemes": [],
+      "mythemes": {
+        "argonaut_voyage": 1,
+        "katabasis_descent": 1,
+        "mystery_passport": 1,
+        "named_eurydice": 1,
+        "redemptive_return": -1,
+        "sparagmos_head_oracle": 1,
+        "taboo_c331_glance": -1,
+        "threshold_voice": 1
+      },
+      "carrier": {
+        "substrate": "Global print, celluloid cinema, digital repositories & multispectral HSI",
+        "language_gate": "Multilingual global vernaculars + Unicode Polytonic Greek",
+        "redundancy_tier": "Extreme (distributed global servers + excavated artifacts)",
+        "host_institution": "Public stages, cinema archives, universities & open-source repositories",
+        "lost_siblings": "Ephemeral regional productions archived only in partial performance notes"
+      },
+      "transmission_note": "Direct witness link: Hadestown & Portrait of a Lady on Fire — Labor & Gaze Reimagined; Streaming Mythologies, Global Revivals & Digital Philology (to 2026)."
+    }
+  ],
   "analytics": {
     "timeline_count": 37,
     "transliteration_count": 14,
     "liturgical_count": 10,
     "anthropology_count": 8,
     "revival_count": 10,
+    "generation_count": 104,
     "span_years": 2591,
     "earliest_year": -565,
     "latest_year": 2026,

@@ -11,6 +11,8 @@ import (
 
 	"github.com/randomcase/orpheus/go-engine/internal/corpus"
 	"github.com/randomcase/orpheus/go-engine/internal/katabasis"
+	"github.com/randomcase/orpheus/go-engine/internal/lineage"
+	"github.com/randomcase/orpheus/go-engine/internal/rpg"
 	"github.com/randomcase/orpheus/go-engine/internal/translit"
 )
 
@@ -48,6 +50,10 @@ func (s *Server) routes() {
 	s.mux.HandleFunc("POST /api/go/transliterate", s.handleTransliterate)
 	s.mux.HandleFunc("POST /api/go/katabasis/run", s.handleKatabasisRun)
 	s.mux.HandleFunc("GET /api/go/katabasis/stream", s.handleKatabasisStream)
+	s.mux.HandleFunc("GET /api/go/lineage", s.handleLineage)
+	s.mux.HandleFunc("POST /api/go/lineage/sever", s.handleLineageSever)
+	s.mux.HandleFunc("GET /api/go/rpg/run", s.handleRPGRun)
+	s.mux.HandleFunc("POST /api/go/rpg/run", s.handleRPGRun)
 }
 
 func writeJSON(w http.ResponseWriter, status int, payload any) {
@@ -138,4 +144,39 @@ func (s *Server) handleKatabasisStream(w http.ResponseWriter, r *http.Request) {
 	if ok {
 		flusher.Flush()
 	}
+}
+
+func (s *Server) handleLineage(w http.ResponseWriter, _ *http.Request) {
+	writeJSON(w, http.StatusOK, s.bundle.Lineage)
+}
+
+func (s *Server) handleLineageSever(w http.ResponseWriter, r *http.Request) {
+	var req lineage.SeveranceRequest
+	if r.Body != nil && r.ContentLength != 0 {
+		if err := json.NewDecoder(r.Body).Decode(&req); err != nil {
+			writeJSON(w, http.StatusBadRequest, map[string]string{"error": "invalid JSON request"})
+			return
+		}
+	}
+	res := lineage.SimulateSeverance(s.bundle.Lineage, req)
+	writeJSON(w, http.StatusOK, res)
+}
+
+type rpgRunReq struct {
+	Doctrine string `json:"doctrine"`
+}
+
+func (s *Server) handleRPGRun(w http.ResponseWriter, r *http.Request) {
+	doctrine := r.URL.Query().Get("doctrine")
+	if r.Method == http.MethodPost && r.Body != nil && r.ContentLength != 0 {
+		var req rpgRunReq
+		if err := json.NewDecoder(r.Body).Decode(&req); err != nil {
+			writeJSON(w, http.StatusBadRequest, map[string]string{"error": "invalid JSON request"})
+			return
+		}
+		if req.Doctrine != "" {
+			doctrine = req.Doctrine
+		}
+	}
+	writeJSON(w, http.StatusOK, rpg.RunCampaign(doctrine))
 }

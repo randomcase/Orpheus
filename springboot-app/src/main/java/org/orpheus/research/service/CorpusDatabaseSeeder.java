@@ -7,11 +7,13 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.List;
 import org.orpheus.research.model.AnthropologyEntity;
+import org.orpheus.research.model.GenerationLineageEntity;
 import org.orpheus.research.model.LiturgicalNarrativeEntity;
 import org.orpheus.research.model.PassageEntity;
 import org.orpheus.research.model.SocietalRevivalEntity;
 import org.orpheus.research.model.TimelineMilestoneEntity;
 import org.orpheus.research.repo.AnthropologyRepository;
+import org.orpheus.research.repo.GenerationLineageRepository;
 import org.orpheus.research.repo.LiturgicalNarrativeRepository;
 import org.orpheus.research.repo.PassageRepository;
 import org.orpheus.research.repo.SocietalRevivalRepository;
@@ -30,6 +32,7 @@ public class CorpusDatabaseSeeder implements ApplicationRunner {
     private final LiturgicalNarrativeRepository liturgicalRepo;
     private final AnthropologyRepository anthropologyRepo;
     private final SocietalRevivalRepository revivalRepo;
+    private final GenerationLineageRepository lineageRepo;
     private final Path dataDir;
 
     public CorpusDatabaseSeeder(
@@ -39,6 +42,7 @@ public class CorpusDatabaseSeeder implements ApplicationRunner {
             LiturgicalNarrativeRepository liturgicalRepo,
             AnthropologyRepository anthropologyRepo,
             SocietalRevivalRepository revivalRepo,
+            GenerationLineageRepository lineageRepo,
             @Value("${orpheus.data-dir:../data}") String dataDirPath) {
         this.objectMapper = objectMapper;
         this.timelineRepo = timelineRepo;
@@ -46,6 +50,7 @@ public class CorpusDatabaseSeeder implements ApplicationRunner {
         this.liturgicalRepo = liturgicalRepo;
         this.anthropologyRepo = anthropologyRepo;
         this.revivalRepo = revivalRepo;
+        this.lineageRepo = lineageRepo;
         this.dataDir = resolveDir(dataDirPath, "data");
     }
 
@@ -65,6 +70,7 @@ public class CorpusDatabaseSeeder implements ApplicationRunner {
         seedFile("03_liturgical_and_catholic.json", new TypeReference<List<LiturgicalNarrativeEntity>>() {}, liturgicalRepo);
         seedFile("04_anthropology_motif_c331.json", new TypeReference<List<AnthropologyEntity>>() {}, anthropologyRepo);
         seedFile("05_societal_revivals.json", new TypeReference<List<SocietalRevivalEntity>>() {}, revivalRepo);
+        seedFile("06_generational_lineage_104.json", new TypeReference<List<GenerationLineageEntity>>() {}, lineageRepo);
     }
 
     private <T> void seedFile(String filename, TypeReference<List<T>> typeRef, JpaRepository<T, String> repo)

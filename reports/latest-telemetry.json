@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T21:41:08Z",
+  "generated_at": "2026-11-17T23:44:30Z",
   "corpus": {
     "analytics": {
       "timeline_count": 37,
@@ -7,6 +7,7 @@
       "liturgical_count": 10,
       "anthropology_count": 8,
       "revival_count": 10,
+      "generation_count": 104,
       "span_years": 2591,
       "earliest_year": -565,
       "latest_year": 2026,
@@ -29,20 +30,20 @@
         "Patristic_Greek": 2
       }
     },
-    "monographs_count": 5
+    "monographs_count": 6
   },
   "go_engine": {
     "available": true,
-    "statements_pct": 67.3,
+    "statements_pct": 73.3,
     "benchmarks": {
-      "greek_ns_per_op": 11483.0,
-      "latin_ns_per_op": 3614.0
+      "greek_ns_per_op": 9907.0,
+      "latin_ns_per_op": 3195.0
     }
   },
   "spring_boot": {
-    "junit_total": 8,
+    "junit_total": 10,
     "junit_failed": 0,
     "junit_skipped": 0,
-    "jacoco_line_pct": 76.57
+    "jacoco_line_pct": 81.17
   }
 }

@@ -1,6 +1,7 @@
 package org.orpheus.research;
 
 import static org.hamcrest.Matchers.greaterThanOrEqualTo;
+import static org.hamcrest.Matchers.hasItem;
 import static org.hamcrest.Matchers.hasSize;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.post;
@@ -110,5 +111,49 @@ class OrpheusApplicationTests {
                         .content("{\"steps\":10,\"look_back_step\":0}"))
                 .andExpect(status().isOk())
                 .andExpect(jsonPath("$.outcome").value("REUNITED_IN_LIGHT"));
+    }
+
+    @Test
+    void lineageEndpointReturns104GenerationsAndSimulatesSeverance() throws Exception {
+        mockMvc.perform(get("/api/summary"))
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$.counts.generations").value(104));
+
+        mockMvc.perform(get("/api/lineage"))
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$", hasSize(104)))
+                .andExpect(jsonPath("$[0].id").value("G-001"))
+                .andExpect(jsonPath("$[103].id").value("G-104"));
+
+        mockMvc.perform(post("/api/lineage/sever")
+                        .contentType(MediaType.APPLICATION_JSON)
+                        .content("{\"severed_ids\":[\"G-022\"]}"))
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$.story_survives_to_2026").value(true))
+                .andExpect(jsonPath("$.extinct_mythemes", hasItem("taboo_c331_glance")));
+
+        mockMvc.perform(post("/api/lineage/sever")
+                        .contentType(MediaType.APPLICATION_JSON)
+                        .content("{\"severed_ids\":[\"G-021\"],\"disable_time_capsules\":true}"))
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$.story_survives_to_2026").value(false));
+    }
+
+    @Test
+    void automatedRpgEndpointRunsTragicAndRedemptiveDoctrines() throws Exception {
+        mockMvc.perform(post("/api/rpg/run")
+                        .contentType(MediaType.APPLICATION_JSON)
+                        .content("{\"doctrine\":\"canonical_tragic\"}"))
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$.final_outcome").value("RELAPSA_INTO_AVERNO"))
+                .andExpect(jsonPath("$.acts", hasSize(7)))
+                .andExpect(jsonPath("$.final_stats.level").value(7));
+
+        mockMvc.perform(post("/api/rpg/run")
+                        .contentType(MediaType.APPLICATION_JSON)
+                        .content("{\"doctrine\":\"archaic_redemptive\"}"))
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$.final_outcome").value("REUNITED_IN_SUNLIGHT"))
+                .andExpect(jsonPath("$.acts", hasSize(7)));
     }
 }
