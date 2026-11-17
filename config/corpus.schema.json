@@ -1,0 +1,69 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Orpheus Diachronic Research Corpus Schema",
+  "datasets": {
+    "01_master_timeline.json": {
+      "required": [
+        "id",
+        "year",
+        "display_date",
+        "era",
+        "title",
+        "creator_or_source",
+        "language",
+        "discovery_or_provenance",
+        "key_shift",
+        "liturgical_or_religious_role",
+        "societal_context"
+      ]
+    },
+    "02_transliterations.json": {
+      "required": [
+        "id",
+        "work",
+        "locus",
+        "date_label",
+        "script_type",
+        "original_text",
+        "literal_gloss",
+        "english_translation",
+        "philological_notes"
+      ],
+      "script_types": ["polytonic_greek", "latin"]
+    },
+    "03_liturgical_and_catholic.json": {
+      "required": [
+        "id",
+        "tradition",
+        "period",
+        "artifact_or_text",
+        "theological_mapping",
+        "ritual_or_liturgical_use",
+        "christological_comparison"
+      ]
+    },
+    "04_anthropology_motif_c331.json": {
+      "required": [
+        "id",
+        "culture_or_region",
+        "tradition_or_myth",
+        "figures",
+        "taboo_mechanism",
+        "outcome_of_glance",
+        "anthropologist_or_scholar",
+        "structural_meaning"
+      ]
+    },
+    "05_societal_revivals.json": {
+      "required": [
+        "id",
+        "year",
+        "work_and_creator",
+        "medium",
+        "historical_crisis_or_shift",
+        "how_the_ending_changes",
+        "cultural_impact"
+      ]
+    }
+  }
+}

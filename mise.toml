@@ -1,0 +1,24 @@
+[tools]
+go = "1.26.5"
+java = "21"
+python = "3.12"
+
+[tasks.build]
+description = "Build Go engine binary and Spring Boot JAR"
+run = "pwsh -File scripts/orpheus.ps1 build"
+
+[tasks.test]
+description = "Run Go race/bench tests and Spring Boot JUnit/JaCoCo suite"
+run = "pwsh -File scripts/orpheus.ps1 test"
+
+[tasks.report]
+description = "Compile portal bundle and automated telemetry report"
+run = "python scripts/build_portal_and_report.py"
+
+[tasks.serve]
+description = "Run Go engine (:8091) and Spring Boot (:8080)"
+run = "pwsh -File scripts/orpheus.ps1 serve"
+
+[tasks.sync-drive]
+description = "Synchronize Orpheus datasets, monographs, slides, and Colab with Google Drive"
+run = "python scripts/sync_google_drive.py"

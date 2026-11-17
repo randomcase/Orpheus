@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Orpheus (600 BCE – 2026 CE) — Polyglot Research Atlas</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;700&family=Noto+Serif:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="top-bar">
+    <div class="top-bar-inner">
+      <div class="control-row">
+        <span id="runtime-mode-pill" class="status-pill">Static Archive Bundle</span>
+        <span id="span-label" style="color:var(--text-muted);">Diachronic Span: 560 BCE &rarr; 2026 CE</span>
+      </div>
+      <div class="control-row">
+        <a href="https://github.com/randomcase/Orpheus" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
+        <span style="color:var(--border-strong);">&middot;</span>
+        <a href="#telemetry">Google Drive &amp; Telemetry</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="shell">
+    <header class="hero">
+      <div>
+        <p class="eyebrow">Diachronic Philology · Go 1.26 · Spring Boot 3.4 · Google Colab</p>
+        <h1 class="hero-title">Orpheus: Antiquity (600 BCE) to 2026 CE</h1>
+        <p class="hero-sub">Archaeological discoveries, multi-system Greek &amp; Latin transliterations, Catholic &amp; liturgical narratives, global anthropology (Motif C331), and societal revivals.</p>
+      </div>
+      <div class="control-row">
+        <button type="button" class="btn btn-primary" data-goto="katabasis">Launch Go Katabasis</button>
+        <button type="button" class="btn" data-goto="transliteration">Transliterate Live</button>
+      </div>
+    </header>
+
+    <section class="stats-strip" aria-label="Corpus Summary">
+      <div class="stat-box"><div class="stat-label">Timeline Milestones</div><div id="stat-timeline" class="stat-val">0</div></div>
+      <div class="stat-box"><div class="stat-label">Primary Passages</div><div id="stat-passages" class="stat-val">0</div></div>
+      <div class="stat-box"><div class="stat-label">Liturgical / Catholic</div><div id="stat-liturgical" class="stat-val">0</div></div>
+      <div class="stat-box"><div class="stat-label">Motif C331 Cultures</div><div id="stat-anthro" class="stat-val">0</div></div>
+      <div class="stat-box"><div class="stat-label">Revivals (1480–2026)</div><div id="stat-revivals" class="stat-val">0</div></div>
+    </section>
+
+    <nav class="nav-tabs" role="tablist" aria-label="Research Sections">
+      <button type="button" class="nav-tab is-active" data-tab="timeline">Timeline &amp; Discovery</button>
+      <button type="button" class="nav-tab" data-tab="transliteration">Transliteration Lab</button>
+      <button type="button" class="nav-tab" data-tab="catholic-liturgy">Liturgy &amp; Catholic Canon</button>
+      <button type="button" class="nav-tab" data-tab="anthropology">Anthropology (C331)</button>
+      <button type="button" class="nav-tab" data-tab="revivals">Societal Shifts (to 2026)</button>
+      <button type="button" class="nav-tab" data-tab="katabasis">Go Katabasis Sim</button>
+      <button type="button" class="nav-tab" data-tab="telemetry">CI Telemetry &amp; Drive</button>
+    </nav>
+
+    <!-- 1. TIMELINE & TIME-LAPSE -->
+    <section id="panel-timeline" class="panel is-active">
+      <div class="control-card">
+        <div class="control-row" style="justify-content:space-between;margin-bottom:0.75rem;">
+          <div>
+            <strong style="color:var(--amber);">Interactive 2,600-Year Time-Lapse Scrubber</strong>
+            <span id="scrubber-readout" class="id-tag" style="margin-left:0.5rem;">All Eras (560 BCE – 2026 CE)</span>
+          </div>
+          <div class="control-row">
+            <button type="button" id="timelapse-play-btn" class="btn btn-primary">Play Time-Lapse</button>
+            <button type="button" id="timelapse-reset-btn" class="btn btn-subtle">Show All</button>
+          </div>
+        </div>
+        <div class="control-row">
+          <input id="year-slider" type="range" min="-560" max="2026" value="2026" style="flex:1;min-width:220px;" />
+          <select id="era-filter">
+            <option value="">All Historical Eras</option>
+          </select>
+        </div>
+      </div>
+      <div id="timeline-grid" class="cards-grid"></div>
+    </section>
+
+    <!-- 2. TRANSLITERATION LAB -->
+    <section id="panel-transliteration" class="panel">
+      <div class="control-card">
+        <h2 style="margin:0 0 0.65rem;font-size:1.12rem;color:var(--amber);">Multi-System Greek &amp; Latin Transliteration Lab</h2>
+        <div class="control-row" style="margin-bottom:0.65rem;">
+          <input id="live-text-input" type="text" value="ὀνομάκλυτον Ὀρφήν" style="flex:1;min-width:240px;" />
+          <select id="live-script-select">
+            <option value="polytonic_greek">Polytonic Greek</option>
+            <option value="latin">Latin (Classical vs. Catholic)</option>
+          </select>
+          <button type="button" id="run-translit-btn" class="btn btn-primary">Convert</button>
+        </div>
+        <div id="live-translit-output" class="phonetic-grid"></div>
+      </div>
+      <div id="passages-grid" class="cards-grid"></div>
+    </section>
+
+    <!-- 3. LITURGY & CATHOLIC CANON -->
+    <section id="panel-catholic-liturgy" class="panel">
+      <div class="control-card">
+        <div class="control-row" style="justify-content:space-between;">
+          <h2 style="margin:0;font-size:1.12rem;color:var(--amber);">Liturgical Retellings &amp; Catholic Exegesis</h2>
+          <select id="tradition-filter">
+            <option value="">All Traditions</option>
+            <option value="Orphic_Mystery">Orphic Mystery Liturgy</option>
+            <option value="Early_Christian_Catacomb">Early Christian Catacombs</option>
+            <option value="Patristic_Greek">Patristic Greek Fathers</option>
+            <option value="Latin_Scholastic_Catholic">Latin Scholastic Catholic</option>
+            <option value="Medieval_Vernacular_Catholic">Medieval Vernacular Catholic</option>
+          </select>
+        </div>
+      </div>
+      <div id="liturgical-grid" class="cards-grid" style="margin-bottom:1.5rem;"></div>
+      <div class="control-card">
+        <div class="control-row" style="justify-content:space-between;margin-bottom:0.85rem;">
+          <h2 style="margin:0;font-size:1.1rem;color:var(--amber);">Scholarly Research Monographs</h2>
+          <select id="monograph-select"></select>
+        </div>
+        <div id="monograph-reader" class="prose-box"></div>
+      </div>
+    </section>
+
+    <!-- 4. ANTHROPOLOGY MOTIF C331 -->
+    <section id="panel-anthropology" class="panel">
+      <div id="anthro-grid" class="cards-grid"></div>
+    </section>
+
+    <!-- 5. SOCIETAL REVIVALS -->
+    <section id="panel-revivals" class="panel">
+      <div id="revivals-grid" class="cards-grid"></div>
+    </section>
+
+    <!-- 6. GO KATABASIS SIMULATOR -->
+    <section id="panel-katabasis" class="panel">
+      <div class="control-card">
+        <h2 style="margin:0 0 0.5rem;font-size:1.15rem;color:var(--amber);">Go Concurrency Katabasis Simulator</h2>
+        <p style="margin:0 0 0.9rem;color:var(--text-muted);font-size:0.88rem;">
+          Models Orpheus and Eurydice as separate goroutines over a forward-only channel (<code>chan&lt;-</code>). Turning around triggers <code>context.WithCancel()</code> before crossing into daylight.
+        </p>
+        <div class="control-row">
+          <label>Total Steps: <input id="sim-steps" type="number" min="3" max="20" value="12" style="width:82px;" /></label>
+          <label>Look-Back Step (0 = Faithful Ascent): <input id="sim-lookback" type="number" min="0" max="20" value="11" style="width:82px;" /></label>
+          <button type="button" id="run-sim-btn" class="btn btn-primary">Run Simulation</button>
+          <button type="button" id="run-faithful-btn" class="btn">Run Faithful Ascent (0)</button>
+        </div>
+        <div id="sim-summary" style="margin-top:0.95rem;"></div>
+        <div id="sim-events" class="event-feed"></div>
+      </div>
+    </section>
+
+    <!-- 7. TELEMETRY & GOOGLE DRIVE SUITE -->
+    <section id="panel-telemetry" class="panel">
+      <div id="telemetry-cards" class="cards-grid" style="margin-bottom:1.4rem;"></div>
+      <div class="control-card">
+        <h2 style="margin:0 0 0.85rem;font-size:1.12rem;color:var(--amber);">5-Pillar Google Drive Archive &amp; Colab Links</h2>
+        <div id="drive-atlas-grid" class="cards-grid"></div>
+      </div>
+    </section>
+  </div>
+
+  <script src="./corpus-bundle.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>

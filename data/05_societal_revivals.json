@@ -1,0 +1,92 @@
+[
+  {
+    "id": "RV-01",
+    "year": 1480,
+    "work_and_creator": "Favola di Orfeo — Angelo Poliziano",
+    "medium": "Vernacular Court Drama",
+    "historical_crisis_or_shift": "Italian Renaissance print & princely secularization breaking medieval monopoly of mystery plays.",
+    "how_the_ending_changes": "Retains Ovid's fierce Maenad dismemberment, restoring tragic classical realism to secular stage.",
+    "cultural_impact": "Inaugurated non-liturgical European drama in the vernacular."
+  },
+  {
+    "id": "RV-02",
+    "year": 1607,
+    "work_and_creator": "L'Orfeo — Claudio Monteverdi & Alessandro Striggio",
+    "medium": "Opera (Seconda Prattica)",
+    "historical_crisis_or_shift": "Counter-Reformation court splendor and search for ancient Greek sung tragedy.",
+    "how_the_ending_changes": "1607 libretto kept the tragic Maenads; 1609 score introduced Apollo descending to lift Orfeo into immortality.",
+    "cultural_impact": "Proved music could portray inner psychological grief on stage, founding modern opera."
+  },
+  {
+    "id": "RV-03",
+    "year": 1762,
+    "work_and_creator": "Orfeo ed Euridice — C.W. Gluck & R. de' Calzabigi",
+    "medium": "Reform Opera",
+    "historical_crisis_or_shift": "Enlightenment rejection of Baroque aristocratic artifice in favor of natural human emotion.",
+    "how_the_ending_changes": "After Orfeo turns and loses Eurydice, Love (Amor) revives her anyway—a lieto fine (happy ending).",
+    "cultural_impact": "Became the blueprint for Gluck's operatic reform and classical symmetry."
+  },
+  {
+    "id": "RV-04",
+    "year": 1858,
+    "work_and_creator": "Orphée aux Enfers (Orpheus in the Underworld) — Jacques Offenbach",
+    "medium": "Opéra Bouffe / Satire",
+    "historical_crisis_or_shift": "Second Empire Paris consumerism, bourgeoisie hypocrisy, and skepticism toward pompous classicism.",
+    "how_the_ending_changes": "Orpheus and Eurydice hate each other, Jupiter zaps Orpheus with lightning so he looks back ON PURPOSE, and Olympus dances the Can-Can.",
+    "cultural_impact": "Turned solemn tragedy upside down as sharp political-social satire."
+  },
+  {
+    "id": "RV-05",
+    "year": 1922,
+    "work_and_creator": "Die Sonette an Orpheus — Rainer Maria Rilke",
+    "medium": "Modernist Lyric Poetry",
+    "historical_crisis_or_shift": "Industrial carnage of World War I, 1918 pandemic, and spiritual disenchantment.",
+    "how_the_ending_changes": "Eliminates the backward-glance plot altogether; celebrates Orpheus's scattering as life-affirming song inside mortality.",
+    "cultural_impact": "Reshaped 20th-century European poetics around ecological and existential presence."
+  },
+  {
+    "id": "RV-06",
+    "year": 1950,
+    "work_and_creator": "Orphée — Jean Cocteau",
+    "medium": "Avant-Garde Cinema",
+    "historical_crisis_or_shift": "Post-WWII France haunted by collaboration trials, radio resistance broadcasts, and existential alienation.",
+    "how_the_ending_changes": "Death (Princess) loves the poet and sacrifices herself to rewind time, restoring Orphée and Eurydice via mirrors.",
+    "cultural_impact": "Pioneered poetic surrealist cinema where mirrors and car radios become Underworld thresholds."
+  },
+  {
+    "id": "RV-07",
+    "year": 1959,
+    "work_and_creator": "Orfeu Negro (Black Orpheus) — Vinicius de Moraes & Marcel Camus",
+    "medium": "Global Cinema / Bossa Nova Musical",
+    "historical_crisis_or_shift": "Urban migration in Rio de Janeiro, Afro-Brazilian cultural vitality, and postwar decolonization.",
+    "how_the_ending_changes": "Both Orfeu and Eurydice die in Carnival violence, yet local children pick up his guitar to sing up the morning sun—passing the myth forward.",
+    "cultural_impact": "Launched Bossa Nova worldwide and reshaped global casting of classical myth."
+  },
+  {
+    "id": "RV-08",
+    "year": 2019,
+    "work_and_creator": "Hadestown — Anaïs Mitchell & Rachel Chavkin",
+    "medium": "Folk-Jazz Broadway Musical",
+    "historical_crisis_or_shift": "Climate crisis, border walls ('Why We Build the Wall'), and precarious gig/industrial labor.",
+    "how_the_ending_changes": "Keeps the tragic backward glance—yet frames the entire show as a ritual 'we're gonna sing it again' to keep hope alive inside broken systems.",
+    "cultural_impact": "8 Tony Awards; became a defining mythic text for Gen Z and millennial theatergoers."
+  },
+  {
+    "id": "RV-09",
+    "year": 2019,
+    "work_and_creator": "Portrait of a Lady on Fire (Portrait de la jeune fille en feu) — Céline Sciamma",
+    "medium": "Feminist Historical Cinema",
+    "historical_crisis_or_shift": "#MeToo movement and feminist reclamation of female desire, consent, and the artistic gaze.",
+    "how_the_ending_changes": "Radically reframes the backward glance: Héloïse commands 'Turn around!'—Orpheus chooses memory and the poet's gaze over possession.",
+    "cultural_impact": "Redefined the Orpheus trope in 21st-century film theory."
+  },
+  {
+    "id": "RV-10",
+    "year": 2026,
+    "work_and_creator": "The Sandman S2 (2025), Global Hadestown Tours & Digital Derveni Editions (2022–2026)",
+    "medium": "Streaming Television, Global Stage, & Computational Philology",
+    "historical_crisis_or_shift": "Post-pandemic bereavement, AI-mediated memory, and multispectral archaeology.",
+    "how_the_ending_changes": "Splits across two poles: streaming folklore turns Orpheus into an immortalized island head awaiting merciful release, while stage/philological revivals emphasize communal song and material papyrus recovery.",
+    "cultural_impact": "Demonstrates Orpheus remains active across mass streaming, international theater, and digital humanities in 2026."
+  }
+]

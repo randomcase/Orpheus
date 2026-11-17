@@ -1,0 +1,96 @@
+{
+  "project": "Orpheus",
+  "scope": "Antiquity (~600 BCE) to 2026 CE",
+  "github": {
+    "owner": "randomcase",
+    "repo": "Orpheus",
+    "url": "https://github.com/randomcase/Orpheus",
+    "pages_url": "https://randomcase.github.io/Orpheus/",
+    "visibility": "public"
+  },
+  "drive": {
+    "root_folder": {
+      "id": "1LrzJDC4KRCjSr-DvErY9mfXdEen6R5gZ",
+      "name": "Orpheus — Antiquity to 2026 Research Archive",
+      "url": "https://drive.google.com/drive/folders/1LrzJDC4KRCjSr-DvErY9mfXdEen6R5gZ"
+    },
+    "subfolders": {
+      "00_Diachronic_Datasets_And_Sheets": {
+        "id": "1vb8fH9JsoJRgc5yJbxZHPo_mVz7khOMW",
+        "url": "https://drive.google.com/drive/folders/1vb8fH9JsoJRgc5yJbxZHPo_mVz7khOMW"
+      },
+      "01_Monographs_And_Catholic_Canon": {
+        "id": "1b-IjhDvqTJmbpOXHA2jUYjTzFqWLeNOr",
+        "url": "https://drive.google.com/drive/folders/1b-IjhDvqTJmbpOXHA2jUYjTzFqWLeNOr"
+      },
+      "02_Time_Lapse_Briefings": {
+        "id": "1ClnuC_WiTwKwpLKnQqd-san0s9sMRd3b",
+        "url": "https://drive.google.com/drive/folders/1ClnuC_WiTwKwpLKnQqd-san0s9sMRd3b"
+      },
+      "03_Go_Colab_And_Transliteration_Lab": {
+        "id": "1G3luZkq61bPH_MjVyDkyHINNlzRT0mBB",
+        "url": "https://drive.google.com/drive/folders/1G3luZkq61bPH_MjVyDkyHINNlzRT0mBB"
+      },
+      "04_Automated_Telemetry_Reports": {
+        "id": "1alFawORKAY61CoXB9qGWIrE2Zm33ZVvC",
+        "url": "https://drive.google.com/drive/folders/1alFawORKAY61CoXB9qGWIrE2Zm33ZVvC"
+      }
+    }
+  },
+  "suite": {
+    "master_sheet": {
+      "id": "1pHX9lFf-MjlYCWTEcK00fftTd10rs-FoGNXQGbQQMIk",
+      "title": "Orpheus — Master Diachronic Ledger (600 BCE to 2026)",
+      "url": "https://docs.google.com/spreadsheets/d/1pHX9lFf-MjlYCWTEcK00fftTd10rs-FoGNXQGbQQMIk/edit"
+    },
+    "monograph_doc": {
+      "id": "1ObW-BjxoBeIZo_VqpV0zyRfaUWhxrhNbLQafXKPPyls",
+      "title": "Orpheus — Discovery, Liturgy, Catholicity & Anthropology (600 BCE–2026)",
+      "url": "https://docs.google.com/document/d/1ObW-BjxoBeIZo_VqpV0zyRfaUWhxrhNbLQafXKPPyls/edit",
+      "tabs": {
+        "discovery": {
+          "id": "t.0",
+          "title": "I. Discovery & Archaic Origins",
+          "file": "research/01_discovery_and_archaic_origins.md"
+        },
+        "transliteration": {
+          "id": "t.awnuuhm1ydwm",
+          "title": "II. Translations & Transliterations",
+          "file": "research/02_translations_and_transliteration_systems.md"
+        },
+        "catholic": {
+          "id": "t.dylwaiaufmu7",
+          "title": "III. Liturgical & Catholic Canon",
+          "file": "research/03_liturgical_and_catholic_narratives.md"
+        },
+        "revivals": {
+          "id": "t.npg9q3gkl03l",
+          "title": "IV. Societal Shifts & Revivals",
+          "file": "research/04_cultural_shifts_and_revivals_to_2026.md"
+        },
+        "anthropology": {
+          "id": "t.y92rwkny32sv",
+          "title": "V. Anthropology (Motif C331)",
+          "file": "research/05_anthropological_studies_motif_c331.md"
+        }
+      }
+    },
+    "timelapse_slides": {
+      "id": "1OL0HjaI6yMYzbbretMiJw8dqeMGcV2vcEq2X-tOQck4",
+      "title": "Orpheus — 2,600 Years of Descent, Liturgy & Revival (600 BCE–2026)",
+      "url": "https://docs.google.com/presentation/d/1OL0HjaI6yMYzbbretMiJw8dqeMGcV2vcEq2X-tOQck4/edit"
+    },
+    "colab_notebook": {
+      "id": "1ycFKyUuKlcRJdo3f1Y_XhQq2-kVFqauT",
+      "title": "Orpheus_Diachronic_Go_Lab.ipynb",
+      "url": "https://colab.research.google.com/drive/1ycFKyUuKlcRJdo3f1Y_XhQq2-kVFqauT",
+      "local_path": "notebooks/Orpheus_Diachronic_Go_Lab.ipynb"
+    },
+    "telemetry_report": {
+      "id": "1R8N26qIwvwnZsV1D6L1hM3NkyfvHaYLJ",
+      "title": "latest-report.md",
+      "url": "https://drive.google.com/file/d/1R8N26qIwvwnZsV1D6L1hM3NkyfvHaYLJ/view",
+      "local_path": "reports/latest-report.md"
+    }
+  }
+}

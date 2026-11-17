@@ -1,0 +1,112 @@
+[
+  {
+    "id": "TR-01",
+    "work": "Ibycus, Fragment 306 (PMG)",
+    "locus": "Quoted by Priscian, Inst. Gramm. 6.92",
+    "date_label": "c. 560 BCE",
+    "script_type": "polytonic_greek",
+    "original_text": "ὀνομάκλυτον Ὀρφήν",
+    "literal_gloss": "name-renowned Orpheus",
+    "english_translation": "Orpheus famous in name",
+    "philological_notes": "Earliest surviving literary mention of Orpheus in Greek poetry; preserves the rare Doric-Aeolic accusative 'Orphēn' rather than Attic 'Orphea'."
+  },
+  {
+    "id": "TR-02",
+    "work": "Euripides, Alcestis",
+    "locus": "Lines 357–359",
+    "date_label": "438 BCE",
+    "script_type": "polytonic_greek",
+    "original_text": "εἰ δ᾽ Ὀρφέως μοι γλῶσσα καὶ μέλος παρῆν, ὥστ᾽ ἢ κόρην Δήμητρος ἢ κείνης πόσιν ὕμνοισι κηλήσαντά σ᾽ ἐξ Ἅιδου λαβεῖν",
+    "literal_gloss": "if to-me of-Orpheus tongue and song were-present, so-as either maiden of-Demeter or of-her husband with-hymns having-charmed you out-of Hades to-take",
+    "english_translation": "If I possessed the tongue and melody of Orpheus, so that charming Demeter's daughter or her lord with hymns I might bring you back from Hades...",
+    "philological_notes": "Crucial pre-Roman witness: Admetus expects Orpheus's hymns to succeed without mentioning any backward-glance failure."
+  },
+  {
+    "id": "TR-03",
+    "work": "Hipponion Orphic Gold Tablet",
+    "locus": "Lines 10–11 (OF 474 Bernabé)",
+    "date_label": "c. 400 BCE",
+    "script_type": "polytonic_greek",
+    "original_text": "Γῆς παῖς εἰμι καὶ Οὐρανοῦ ἀστερόεντος",
+    "literal_gloss": "Of-Earth child I-am and of-Heaven starry",
+    "english_translation": "I am a child of Earth and starry Heaven.",
+    "philological_notes": "Ritual password spoken by the initiate's soul to the underworld guardians of the cool spring of Memory (Mnemosyne)."
+  },
+  {
+    "id": "TR-04",
+    "work": "Derveni Papyrus",
+    "locus": "Column XVII / Orphic Hymn to Zeus",
+    "date_label": "c. 340 BCE",
+    "script_type": "polytonic_greek",
+    "original_text": "Ζεὺς κεφαλή, Ζεὺς μέσσα, Διὸς δ᾽ ἐκ πάντα τέτυκται",
+    "literal_gloss": "Zeus head, Zeus middle, of-Zeus and out-of all-things has-been-fashioned",
+    "english_translation": "Zeus is the head, Zeus the middle, and from Zeus all things are made.",
+    "philological_notes": "Core line of the Orphic theogony quoted and allegorized into cosmic Mind (Nous) by the Derveni commentator."
+  },
+  {
+    "id": "TR-05",
+    "work": "Orphic Hymn 1 (To Prothyraia / Prayer at Dawn)",
+    "locus": "Proem / Liturgical Invocation",
+    "date_label": "c. 2nd–3rd c. CE",
+    "script_type": "polytonic_greek",
+    "original_text": "Μάνθανε δὴ Μουσαῖε θυηπολίην περισέμνην, εὐχήν, ἣ δὴ πολλὸν ὑπερβαίνει μένος ἄλλων",
+    "literal_gloss": "Learn indeed Musaeus sacrifice-rite most-revered, prayer, which indeed far surpasses strength of-others",
+    "english_translation": "Learn, Musaeus, this most holy ritual of sacrifice—a prayer that far excels the power of all others.",
+    "philological_notes": "Demonstrates direct liturgical instruction addressed by Orpheus to his initiate-disciple Musaeus."
+  },
+  {
+    "id": "TR-06",
+    "work": "Clement of Alexandria, Protrepticus",
+    "locus": "1.3 (The New Song)",
+    "date_label": "c. 195 CE",
+    "script_type": "polytonic_greek",
+    "original_text": "ᾆσμα καινόν, ὁ Λόγος ὁ Χριστός",
+    "literal_gloss": "song new, the Logos the Christ",
+    "english_translation": "The New Song—Christ the Logos.",
+    "philological_notes": "Illustrates Koine/Patristic Greek pronunciation shift toward Byzantine iotacism (η/ι/υ -> /i/, ω/ο -> /o/) in Christian liturgical Greek."
+  },
+  {
+    "id": "TR-07",
+    "work": "Virgil, Georgics IV",
+    "locus": "Lines 485–491",
+    "date_label": "29 BCE",
+    "script_type": "latin",
+    "original_text": "Iamque pedem referens casus evaserat omnis, redditaque Eurydice superas veniebat ad auras... restitit, Eurydicenque suam iam luce sub ipsa immemor heu! victusque animi respexit.",
+    "literal_gloss": "And-already foot bringing-back chances had-escaped all, restored-and Eurydice upper was-coming to airs... halted, Eurydice-and his already light under self forgetful alas conquered-of mind looked-back.",
+    "english_translation": "Now retracing his steps he had escaped every peril, and Eurydice, restored, was nearing the upper air... he stopped, and on the very edge of daylight—forgetful, alas, and overcome in mind—he looked back upon his Eurydice.",
+    "philological_notes": "Key Classical vs. Ecclesiastical phonetic markers: 'iam' (/jam/), 'veniebat' (/w/ vs. /v/), 'luce' (/k/ vs. /tʃ/), and the heartbreaking placement of 'respexit' (looked back) as the final word."
+  },
+  {
+    "id": "TR-08",
+    "work": "Ovid, Metamorphoses X",
+    "locus": "Lines 56–63",
+    "date_label": "8 CE",
+    "script_type": "latin",
+    "original_text": "Hic, ne deficeret, metuens avidusque videndi flexit amans oculos, et protinus illa relapsa est; supremumque 'vale', quod iam vix auribus ille acciperet, dixit.",
+    "literal_gloss": "Here, lest she-fail, fearing eager-and of-seeing bent lover eyes, and immediately she slipped-back; last-and 'farewell', which now scarcely with-ears he could-receive, spoke.",
+    "english_translation": "Here, fearing she might falter and eager to see her, the lover turned his eyes—and instantly she slipped back, breathing a last 'Farewell' that scarcely reached his ears.",
+    "philological_notes": "Contrasts sharply with Virgil: 'metuens avidusque videndi' frames the glance as tender anxiety rather than madness."
+  },
+  {
+    "id": "TR-09",
+    "work": "Boethius, Consolation of Philosophy",
+    "locus": "Book III, Metrum 12.49–58",
+    "date_label": "524 CE",
+    "script_type": "latin",
+    "original_text": "Heu, noctis prope terminos Orpheus Eurydicen suam vidit, perdidit, occidit. Vos haec fabula respicit quicumque in superum diem mentem ducere quaeritis.",
+    "literal_gloss": "Alas, of-night near boundaries Orpheus Eurydice his saw, lost, died. You this fable looks-back-at whoever into upper day mind to-lead seek.",
+    "english_translation": "Alas! Close to the border of night, Orpheus saw his Eurydice—and lost her, and perished. This fable looks toward all of you who seek to lead the mind into the supernal day.",
+    "philological_notes": "The verb 'respicit' flips direction: in Virgil Orpheus looks back at Eurydice; in Boethius the moral fable 'looks at' the Christian reader."
+  },
+  {
+    "id": "TR-10",
+    "work": "Ovidius Moralizatus / Scholastic Allegory Rubric",
+    "locus": "Pierre Bersuire, Book X Gloss",
+    "date_label": "c. 1340 CE",
+    "script_type": "latin",
+    "original_text": "Orpheus Christus est; Eurydice anima humana per fidem ab inferno reducta.",
+    "literal_gloss": "Orpheus Christ is; Eurydice soul human through faith from hell led-back.",
+    "english_translation": "Orpheus is Christ; Eurydice is the human soul led back from hell through faith.",
+    "philological_notes": "Classic Ecclesiastical Catholic Latin pronunciation showcase ('Christus' /ˈkristus/, 'Eurydice' /eu̯riˈditʃe/)."
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "AN-01",
+    "culture_or_region": "Thrace & Ancient Greece",
+    "tradition_or_myth": "Orpheus & Thracian Shamanic Katabasis",
+    "figures": "Orpheus & Eurydice",
+    "taboo_mechanism": "Do not look backward until crossing completely into upper sunlight; Orpheus sings to guide the soul back.",
+    "outcome_of_glance": "Eurydice vanishes back to Hades; Orpheus later suffers dismemberment (sparagmos) and his head prophesies on Lesbos.",
+    "anthropologist_or_scholar": "E.R. Dodds (The Greeks and the Irrational) & Karl Meuli / Mircea Eliade",
+    "structural_meaning": "Interprets Orpheus as an archaic northern shaman/soul-guide whose ecstatic song retrieves lost souls from the spirit world, later fused with Dionysiac initiatory death-and-rebirth."
+  },
+  {
+    "id": "AN-02",
+    "culture_or_region": "Japan (Shinto / Yamato)",
+    "tradition_or_myth": "Kojiki (712 CE) & Nihon Shoki: Descent into Yomi",
+    "figures": "Izanagi & Izanami",
+    "taboo_mechanism": "Izanami forbids Izanagi from looking at her while she petitions the gods of Yomi (Land of Gloom) to return.",
+    "outcome_of_glance": "Izanagi lights a tooth of his hair-comb, sees Izanami's rotting, maggot-ridden corpse; terrified, he flees as she seals the border with a boulder, creating permanent human mortality.",
+    "anthropologist_or_scholar": "Stith Thompson (Motif C331) & Comparative Mythologists",
+    "structural_meaning": "Explains the origin of death's irreversibility and why living ritualists must purify themselves (misogi) after contact with the dead."
+  },
+  {
+    "id": "AN-03",
+    "culture_or_region": "Ancient Levant (Hebrew Bible)",
+    "tradition_or_myth": "Genesis 19:17–26 (Destruction of Sodom)",
+    "figures": "Lot's Wife & Angelic Escorts",
+    "taboo_mechanism": "'Flee for your life! Do not look behind you, nor stop anywhere in the plain.'",
+    "outcome_of_glance": "Lot's wife looks back behind him and is instantly transformed into a pillar of salt.",
+    "anthropologist_or_scholar": "Sir James Frazer & Folklore Motif-Index C331 / C961.1",
+    "structural_meaning": "Marks the sacred boundary between judgment/destruction and deliverance; looking back breaks ritual separation from a doomed order."
+  },
+  {
+    "id": "AN-04",
+    "culture_or_region": "North America (Central California — Yokuts)",
+    "tradition_or_myth": "Indigenous North American 'Orpheus Tradition'",
+    "figures": "Bereaved Husband & Deceased Wife in the Ghost Land",
+    "taboo_mechanism": "A mourning husband tracks his wife's soul across a shaking bridge to the Land of the Dead, wins permission to carry her back in a basket or beside him, but must NOT touch, sleep, or look at her for four days/nights.",
+    "outcome_of_glance": "On the final night just before dawn/home, impatience or touch breaks the rule and the wife returns permanently to the ghost village as a dry bone or shadow.",
+    "anthropologist_or_scholar": "Åke Hultkrantz (The North American Indian Orpheus Tradition, 1957 — cataloging ~130 variants)",
+    "structural_meaning": "Hultkrantz proved these stories arose independently from indigenous shamanic soul-recovery practices and funeral taboos teaching communities to accept death's finality."
+  },
+  {
+    "id": "AN-05",
+    "culture_or_region": "North America (Southeast — Cherokee)",
+    "tradition_or_myth": "The Daughter of the Sun (Cherokee Orpheus Myth)",
+    "figures": "Seven Men & The Sun's Daughter",
+    "taboo_mechanism": "Seven messengers travel to the Darkening Land in the west to retrieve the Sun's daughter inside a closed box—strictly forbidden to open the lid until reaching home.",
+    "outcome_of_glance": "As she begs for air near the end of the journey, they crack the lid slightly to look/soothe her; a redbird (cardinal) flies out and the Sun's daughter is lost.",
+    "anthropologist_or_scholar": "James Mooney (1900) & Åke Hultkrantz (1957)",
+    "structural_meaning": "Combines the Orpheus motif with an etiological myth explaining why human death cannot be reversed and how the redbird received its color."
+  },
+  {
+    "id": "AN-06",
+    "culture_or_region": "Polynesia (Hawai'i)",
+    "tradition_or_myth": "Hiku and Kawelu",
+    "figures": "Hiku & Kawelu",
+    "taboo_mechanism": "Hiku descends into Milu (the underworld) on a vine swing smeared with foul smell so ghosts mistake him for dead, catches Kawelu's butterfly-spirit in a coconut shell, and restores her—without premature opening.",
+    "outcome_of_glance": "In most Hawaiian versions, Hiku SUCCEEDS because he keeps the ritual seal intact until returning her spirit upward through her feet!",
+    "anthropologist_or_scholar": "Martha Beckwith (Hawaiian Mythology, 1940)",
+    "structural_meaning": "Demonstrates an optimistic Polynesian counterpart where strict observance of ritual containment triumphs over death."
+  },
+  {
+    "id": "AN-07",
+    "culture_or_region": "Polynesia (Aotearoa / Māori)",
+    "tradition_or_myth": "Mataora & Niwareka (Origin of Tā Moko)",
+    "figures": "Mataora & Niwareka (in Rarohenga, the Underworld)",
+    "taboo_mechanism": "After mistreating his spirit-wife Niwareka, Mataora descends to Rarohenga, repents, receives true permanent facial tattooing (tā moko), and earns her return on condition of leaving behind the underworld cloak/customs respectfully.",
+    "outcome_of_glance": "Niwareka returns safely with Mataora to the upper world, bringing the sacred arts of tattooing and weaving.",
+    "anthropologist_or_scholar": "Elsdon Best & Te Rangi Hīroa (Sir Peter Buck)",
+    "structural_meaning": "Here the underworld journey is a rite of moral transformation and craft-initiation rather than tragic failure."
+  },
+  {
+    "id": "AN-08",
+    "culture_or_region": "North America (Great Lakes / Northeast — Huron-Wendat & Blackfoot)",
+    "tradition_or_myth": "Soul-Journey Across the Sky River",
+    "figures": "Bereaved Brother/Husband & Sky-Keeper",
+    "taboo_mechanism": "The traveler must endure trials (crossing a narrow log over raging water while a guard dog barks) and obey silence/unopened-bundle taboos on the return road.",
+    "outcome_of_glance": "Breaking the boundary rule dissolves the revived body back into smoke or compels the mourner to surrender grief.",
+    "anthropologist_or_scholar": "Åke Hultkrantz (1957) & Claude Lévi-Strauss",
+    "structural_meaning": "Maps seasonal grief rituals and community boundaries between the living hearth and ancestral spirit world."
+  }
+]

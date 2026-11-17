@@ -1,0 +1,64 @@
+name: Orpheus Polyglot CI & Automated Reporting
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  polyglot-test-and-report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Orpheus repository
+        uses: actions/checkout@v4
+
+      - name: Set up Go 1.26
+        uses: actions/setup-go@v5
+        with:
+          go-version: "1.26.x"
+          cache: false
+
+      - name: Set up Java 21 (Temurin)
+        uses: actions/setup-java@v4
+        with:
+          distribution: "temurin"
+          java-version: "21"
+          cache: "gradle"
+          cache-dependency-path: |
+            springboot-app/build.gradle
+            springboot-app/settings.gradle
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Go Engine Race Tests, Coverage & Benchmarks
+        working-directory: go-engine
+        run: |
+          go test -v -race -coverprofile=coverage.out ./...
+          go test -bench=. -benchmem ./internal/translit
+          go run ./cmd/orpheus-engine --mode=validate --data-dir=../data
+
+      - name: Spring Boot JUnit & JaCoCo Coverage
+        working-directory: springboot-app
+        run: |
+          chmod +x gradlew
+          ./gradlew test jacocoTestReport --no-daemon
+
+      - name: Generate Polyglot Telemetry & CI Step Summary
+        run: python scripts/build_portal_and_report.py --ci-summary
+
+      - name: Upload Telemetry & JaCoCo Reports
+        uses: actions/upload-artifact@v4
+        with:
+          name: orpheus-telemetry-reports
+          path: |
+            reports/
+            go-engine/coverage.out
+            springboot-app/build/reports/jacoco/

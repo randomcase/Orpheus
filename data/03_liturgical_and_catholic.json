@@ -1,0 +1,74 @@
+[
+  {
+    "id": "LC-01",
+    "tradition": "Orphic_Mystery",
+    "period": "5th–4th c. BCE",
+    "artifact_or_text": "Orphic Gold Funeral Lamellae (Hipponion, Petelia, Thurii, Pelinna)",
+    "theological_mapping": "The soul possesses divine celestial heritage ('child of Earth and starry Heaven') trapped in a cycle of grief until purified by Dionysiac-Orphic ritual.",
+    "ritual_or_liturgical_use": "Inscribed thin gold sheets folded and buried on the chest or mouth of deceased initiates as liturgical cue cards for answering Hades's guardians.",
+    "christological_comparison": "Prefigures Christian baptismal confession and viaticum—giving the dying believer sacred words to cross from death into true memory and peace."
+  },
+  {
+    "id": "LC-02",
+    "tradition": "Orphic_Mystery",
+    "period": "c. 340 BCE & 2nd–4th c. CE",
+    "artifact_or_text": "Derveni Papyrus Libations & The 87 Orphic Hymns",
+    "theological_mapping": "Sacred verse acts as veiled cosmogony; priestly exegesis decodes mythic violence into divine cosmic intelligence (Zeus as Mind/Breath).",
+    "ritual_or_liturgical_use": "Nocturnal mystery rites pairing honey-milk-water libations, unleavened ritual cakes with knobs, and burning specific aromatics per hymn.",
+    "christological_comparison": "Resembles ancient Mediterranean liturgical incense usage and allegorical exegesis, though Orphic liturgy remains secretive and elitist rather than public kerygma."
+  },
+  {
+    "id": "LC-03",
+    "tradition": "Early_Christian_Catacomb",
+    "period": "3rd–4th c. CE",
+    "artifact_or_text": "Christus-Orpheus Frescoes (Catacombs of Domitilla, Callixtus, & Pietro e Marcellino)",
+    "theological_mapping": "Christ is visually portrayed wearing Orpheus's Phrygian cap, holding the lyre among listening sheep, lions, and peacocks (symbols of resurrection).",
+    "ritual_or_liturgical_use": "Painted directly on vault ceilings over arcosolia tombs where Roman Christians celebrated memorial meals and Eucharistic prayers for the dead.",
+    "christological_comparison": "Positive typological bridge: Jesus fulfills what Orpheus promised—actually conquering Sheol/Hades and leading all creation back to peace."
+  },
+  {
+    "id": "LC-04",
+    "tradition": "Patristic_Greek",
+    "period": "c. 195 CE",
+    "artifact_or_text": "Clement of Alexandria, Protrepticus (Exhortation to the Greeks), Ch. 1",
+    "theological_mapping": "Contrasts the 'old deceitful song' of Thracian Orpheus (which tamed beasts only to bind humans to idols) with Christ the Logos, the 'New Song' (Psalm 96/98).",
+    "ritual_or_liturgical_use": "Alexandrian baptismal & catechetical rhetoric preparing educated Greek converts to enter Christian worship.",
+    "christological_comparison": "Polemical superiority: Orpheus only enchanted trees and rocks temporarily; Christ turns 'stony hearts' into living children of Abraham."
+  },
+  {
+    "id": "LC-05",
+    "tradition": "Patristic_Greek",
+    "period": "c. 336 CE",
+    "artifact_or_text": "Eusebius of Caesarea, In Praise of Constantine (Tricennial Oration 14.5)",
+    "theological_mapping": "Likens the Incarnate Word holding human nature as his 'lyre' to Orpheus, sounding divine harmony across a fractured empire.",
+    "ritual_or_liturgical_use": "Imperial Christian liturgical-political panegyric celebrating cosmic peace under Christ's Cross.",
+    "christological_comparison": "Moves from subterranean catacomb comfort to imperial theology: the Logos tunes all nations like strings of one cosmic instrument."
+  },
+  {
+    "id": "LC-06",
+    "tradition": "Latin_Scholastic_Catholic",
+    "period": "524 CE (Commented through 13th c.)",
+    "artifact_or_text": "Boethius, Consolation of Philosophy III.m12 & Commentary Tradition",
+    "theological_mapping": "Converts Orpheus's backward glance into Catholic moral-ascetic warning: turning back from God's light toward worldly attachments costs the soul its true beatitude.",
+    "ritual_or_liturgical_use": "Studied across Benedictine monastic schools (Alcuin, Remigius of Auxerre) and cited in medieval Lenten/penitential reflection (echoing Luke 9:62: 'No one who puts a hand to the plow and looks back...').",
+    "christological_comparison": "Orpheus here represents the frail human intellect or pilgrim soul needing divine grace so it does not relapse at the threshold of heaven."
+  },
+  {
+    "id": "LC-07",
+    "tradition": "Medieval_Vernacular_Catholic",
+    "period": "c. 1317–1340 CE",
+    "artifact_or_text": "Ovide Moralisé (Book X) & Pierre Bersuire's Ovidius Moralizatus",
+    "theological_mapping": "Applies the Catholic fourfold sense of Scripture to pagan myth: Orpheus = Christ descending into Limbo (Harrowing of Hell); Eurydice = Eve/Humanity; Viper = Satan; Lyre = the Cross / Harmony of the Two Testaments.",
+    "ritual_or_liturgical_use": "Sourcebook for Catholic Holy Saturday & Eastertide preaching on Christ breaking the brass gates of Hell without looking back.",
+    "christological_comparison": "Direct Harrowing of Hell typology: where Orpheus fails at the threshold and loses Eurydice, Christ succeeds completely and raises Adam and Eve forever."
+  },
+  {
+    "id": "LC-08",
+    "tradition": "Medieval_Vernacular_Catholic",
+    "period": "c. 1330 CE",
+    "artifact_or_text": "Sir Orfeo (Middle English Breton Lai, Auchinleck Manuscript)",
+    "theological_mapping": "Recasts Orpheus as a devout medieval Christian king who abdicates wealth, lives ten years in ascetic wilderness poverty, and trusts Providence rather than pride.",
+    "ritual_or_liturgical_use": "Courtly and pious oral recitation teaching Christian kingship, marital fidelity, and mercy.",
+    "christological_comparison": "Because Sir Orfeo acts with Christ-like self-emptying (kenosis) and patience, no backward-glance curse destroys his marriage—his queen returns alive."
+  }
+]
